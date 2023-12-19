@@ -36,7 +36,8 @@ Ao executar o código do exercício ... observei que ... conforme podemos ver na
 # Certificados
 
 
-- Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
+- Certificado do Curso Git e GitHub do básico ao avançado
+![Curso Git e GitHub](certificados/Git-GitHub.jpg)
 
-
+- Certificado do Curso Linux para desenvolvedores
+![Curso Linux](certificados/Linux.jpg)
