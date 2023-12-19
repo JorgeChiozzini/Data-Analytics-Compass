@@ -27,7 +27,7 @@ Olá, sou ...
 
 ## Sprints 
 
-1. [Sprint 1](SPRINT 1/README.md)
+1. [Sprint 1](Sprint%201/README.md)
 2. [Sprint 2](Sprint%202/README.md)
 3. [Sprint 3](Sprint%203/README.md)
 4. ...
@@ -44,3 +44,5 @@ ___
 
 - [Mark Down - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [Github - Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[def]: SPRINT1/README.md
