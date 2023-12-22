@@ -1,36 +1,8 @@
 
-# Instruções
+# Síntese de conhecimento
 
-Neste arquivo você irá apresentar suas entregas da Sprint corrente. Observe que existem 4 diretórios no exemplo: **exercícios**, **certificados** e **evidências**.
-
- - O diretório **exercícios** corresponde ao local onde você irá adicionar o código-fonte das atividades de codificação da Sprint, quando houver.
- - O diretório **evidências** você pode utilizar para adicionar imagens demonstrando a execução/resultados de atividades, quando necessário.
- - O diretório **certificados** é o local onde você irá armazenar os certificados dos cursos solicitados durante a sprint. O nome de cada certificado de corresponder ao título do curso.
-
-Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Faça referência aos arquivos de código-fonte. Evite colocar código diretamente no Markdown pois dificulta nossa avaliação.
-
-
-# Exercícios
-
-
-1. ...
-[Resposta Ex1.](exercicios/ex1.txt)
-
-
-2. ...
-[Resposta Ex2.](exercicios/ex2.txt)
-
-
-
-
-# Evidências
-
-
-Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
-
-
-![Evidencia 1](evidencias/sample.webp)
-
+No curso de Git e GitHub, mergulhei profundamente no universo do controle de versão, compreendendo a importância de uma gestão eficaz do código-fonte. Desenvolvi habilidades sólidas no uso do Git para rastrear mudanças, criar branches estratégicos e realizar fusões de código de maneira eficiente. Além disso, explorei a colaboração efetiva no GitHub, onde aprendi a criar pull requests, gerenciar issues e participar de projetos colaborativos. Acredito que estas competências são fundamentais para a integração tranquila em equipes de desenvolvimento e para manter a coesão no ciclo de vida do software.  
+No segundo curso, dedicado aos comandos no terminal Linux, aprofundei-me na compreensão prática do ambiente de desenvolvimento Linux. Desde a navegação eficiente no sistema de arquivos até o gerenciamento de pacotes, usuários e permissões, adquiri uma compreensão abrangente dos comandos Linux. Essa proficiência não apenas aumenta a eficiência operacional, mas também fortalece minha capacidade de diagnosticar e resolver problemas no ambiente de desenvolvimento.
 
 
 # Certificados
