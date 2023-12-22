@@ -13,3 +13,6 @@ No segundo curso, dedicado aos comandos no terminal Linux, aprofundei-me na comp
 
 - Certificado do Curso Linux para desenvolvedores
 ![Curso Linux](certificados/Linux.jpg)
+
+- Certificado do Curso Métodos Ágeis de A a Z
+![Curso Linux](certificados/Metodos-ageis.jpg)
