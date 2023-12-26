@@ -16,3 +16,6 @@ No segundo curso, dedicado ao Linux, aprofundei-me na compreensão prática do a
 
 - Certificado do Curso Métodos Ágeis de A a Z
 ![Curso Linux](certificados/Metodos-ageis.jpg)
+
+- Certificado do Curso Segurança em Aplicações WEB
+![Curso Linux](certificados/SegurançaAppWEB.jpg)
