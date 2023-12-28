@@ -1,4 +1,4 @@
-# Relatório de Aprendizagem
+# Relatório de conhecimento
 
 
 # Exercícios
