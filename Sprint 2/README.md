@@ -1,5 +1,5 @@
 # Exercícios
-Nesta sessão encontra-se os respectivos arquivos resultado das propostas da sessão 02, cada contém a Query seguido da tabela resposta aos exercícios.
+Nesta sessão encontra-se os respectivos arquivos resultado das propostas da sessão 02, cada arquivo contém a Query seguido da tabela resposta aos exercícios.
 
 1. ...
 [Resposta Ex1.](exercicios/SECAO3-E1.txt)
