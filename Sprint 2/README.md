@@ -50,7 +50,13 @@ Nesta sessão encontra-se os respectivos arquivos contendo os resultados das pro
 [Resposta Ex16.](exercicios/SECAO4-E16.txt) ; [SQL 16](evidencias/SECAO4-E16.sql) ; [CSV 16](evidencias/SECAO4-E16.csv)
 
 
+# Tarefas 
 
+- Tarefa 01
+![Tarefa 01](tarefas/Tarefa-01.csv)
+
+- Tareda 02
+![Tarefa 02](tarefas/Tarefa-02.csv)
 
 # Certificados
 

@@ -1,0 +1,7 @@
+SELECT liv.cod as CodLivro, liv.titulo as Titulo, liv.autor as CodAutor, aut.nome as NomeAutor, liv.valor as Valor, liv.editora as CodEditora, edi.nome as NomeEditora
+FROM livro as liv
+join autor as aut 
+on liv.autor = aut.codautor 
+join editora as edi 
+on edi.codeditora  = liv.editora  
+ORDER BY valor DESC LIMIT 10
