@@ -1,0 +1,11 @@
+select cdven
+from tbvendas 
+where deletado <> 0
+order by cdven 
+
+
+|cdven|
+|-----|
+|23   |
+|55   |
+|67   |

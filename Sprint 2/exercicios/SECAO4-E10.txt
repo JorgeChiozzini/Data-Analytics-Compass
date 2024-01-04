@@ -1,0 +1,21 @@
+select ven.nmvdd as vendedor, sum((qtd * vrunt)) as valor_total_vendas,round(((select sum((qtd * vrunt))) * ven.perccomissao / 100 ),2) as comissao
+from tbvendedor as ven
+left join tbvendas as venda 
+on ven.cdvdd = venda.cdvdd 
+where status = 'Concluído'
+group by venda.cdvdd 
+order by sum((select (qtd * vrunt)) * ven.perccomissao / 100 ) desc
+
+
+|vendedor    |valor_total_vendas|comissao|
+|------------|------------------|--------|
+|Vendedor 2  |2.472.020         |24.720,2|
+|Vendedor 8  |1.237.250         |6.186,25|
+|Vendedor 10 |747.250           |3.736,25|
+|Vendedor 5  |270.122,5         |1.350,61|
+|Vendedor 1  |121.530           |1.215,3 |
+|Vendedor 3  |57.630            |576,3   |
+|Vendedor 7  |69.700            |348,5   |
+|Vendedor 6  |50.830            |254,15  |
+|Vendedor 4  |42.908            |214,54  |
+|Vendedor 9  |39.100            |195,5   |

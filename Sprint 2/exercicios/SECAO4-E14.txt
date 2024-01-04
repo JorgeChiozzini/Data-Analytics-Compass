@@ -1,0 +1,23 @@
+select estado, round(avg((qtd*vrunt)),2) as gastomedio
+from tbvendas  
+where status = 'Concluído'
+group by estado 
+order by avg((qtd*vrunt)) DESC 
+
+
+|estado             |gastomedio|
+|-------------------|----------|
+|Rio de Janeiro     |176.750   |
+|Rio Grande do Sul  |120.270   |
+|São Paulo          |106.750   |
+|Ceará              |55.479,57 |
+|Mato Grosso do Sul |19.278,18 |
+|Tocantins          |8.294,64  |
+|Paraíba            |7.905     |
+|Alagoas            |6.970     |
+|Piauí              |6.458,33  |
+|Santa Catarina     |4.760     |
+|Bahia              |4.620,91  |
+|Goiás              |4.250     |
+|Rio Grande do Norte|4.116,43  |
+|Minas Gerais       |3.417     |
