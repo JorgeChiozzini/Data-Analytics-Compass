@@ -1,12 +1,32 @@
-select depe.cddep, depe.nmdep, depe.dtnasc, sum(venda.qtd*venda.vrunt) as valor_total_vendas
-from tbdependente as depe
-join tbvendedor as vende 
-on vende.cdvdd = depe.cdvdd 
-join tbvendas as venda 
-on vende.cdvdd = venda.cdvdd 
-where status = 'Concluído'
-group by venda.cdvdd 
-order by sum(venda.qtd*venda.vrunt) LIMIT 1
+
+WITH ValorTotalVendasPorDependente AS (
+    SELECT
+        depe.cddep,
+        depe.nmdep,
+        depe.dtnasc,
+        SUM(venda.qtd * venda.vrunt) AS valor_total_vendas
+    FROM
+        tbdependente AS depe
+    JOIN
+        tbvendedor AS vende ON vende.cdvdd = depe.cdvdd
+    JOIN
+        tbvendas AS venda ON vende.cdvdd = venda.cdvdd
+    WHERE
+        status = 'Concluído'
+    GROUP BY
+        depe.cddep, depe.nmdep, depe.dtnasc
+)
+
+SELECT
+    cddep,
+    nmdep,
+    dtnasc,
+    valor_total_vendas
+FROM
+    ValorTotalVendasPorDependente
+WHERE
+    valor_total_vendas = (SELECT MIN(valor_total_vendas) FROM ValorTotalVendasPorDependente)
+
 
 
 |cddep|nmdep       |dtnasc             |valor_total_vendas|

@@ -1,10 +1,29 @@
-select venda.cdvdd , ven.nmvdd 
-from tbvendedor as ven
-left join tbvendas as venda 
-on ven.cdvdd = venda.cdvdd 
-where status = 'Concluído'
-group by venda.cdvdd 
-order by count(venda.cdvdd) desc LIMIT 1
+WITH QuantidadeVendas AS (
+    SELECT
+        ven.cdvdd,
+        ven.nmvdd,
+        COUNT(venda.cdvdd) AS quantidade_vendas
+    FROM
+        tbvendedor AS ven
+    LEFT JOIN
+        tbvendas AS venda ON ven.cdvdd = venda.cdvdd
+    WHERE
+        status = 'Concluído'
+    GROUP BY
+        ven.cdvdd, ven.nmvdd
+)
+
+SELECT
+    cdvdd,
+    nmvdd
+FROM
+    QuantidadeVendas
+WHERE
+    quantidade_vendas = (
+        SELECT MAX(quantidade_vendas)
+        FROM QuantidadeVendas
+    )
+
 
 
 |cdvdd|nmvdd       |

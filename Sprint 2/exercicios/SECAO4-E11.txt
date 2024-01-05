@@ -1,8 +1,24 @@
-select cdcli, nmcli, sum((qtd * vrunt)) as gasto
-from tbvendas  
-where status = 'Concluído'
-group by cdcli
-order by sum((qtd * vrunt)) desc limit 1
+WITH GastoPorCliente AS (
+    SELECT
+        cdcli,
+        nmcli,
+        SUM(qtd * vrunt) AS gasto
+    FROM
+        tbvendas
+    WHERE
+        status = 'Concluído'
+    GROUP BY
+        cdcli, nmcli
+)
+
+SELECT
+    cdcli,
+    nmcli,
+    gasto
+FROM
+    GastoPorCliente
+WHERE
+    gasto = (SELECT MAX(gasto) FROM GastoPorCliente)
 
 
 |cdcli|nmcli      |gasto    |

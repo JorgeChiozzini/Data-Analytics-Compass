@@ -1,9 +1,27 @@
-select aut.codautor, aut.nome, count(liv.autor) as quantidade_publicacoes
-from autor as aut
-left join livro as liv 
-on aut.codautor = liv.autor 
-group by autor 
-order by count(liv.autor) DESC LIMIT 1
+WITH QuantidadePublicacoes AS (
+    SELECT
+        aut.codautor,
+        aut.nome,
+        COUNT(liv.autor) AS quantidade_publicacoes
+    FROM
+        autor AS aut
+    LEFT JOIN
+        livro AS liv ON aut.codautor = liv.autor
+    GROUP BY
+        aut.codautor, aut.nome
+)
+
+SELECT
+    codautor,
+    nome,
+    quantidade_publicacoes
+FROM
+    QuantidadePublicacoes
+WHERE
+    quantidade_publicacoes = (
+        SELECT MAX(quantidade_publicacoes)
+        FROM QuantidadePublicacoes
+    )
 
 
 |codautor|nome             |quantidade_publicacoes|
