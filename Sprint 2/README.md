@@ -26,7 +26,7 @@ Nesta seção encontram-se os respectivos arquivos contendo os resultados dos de
 [Resposta Ex8.](exercicios/SECAO4-E8.txt) ; [SQL 8](evidencias/SECAO4-E8.sql) ; [CSV 8](evidencias/SECAO4-E8.csv)
 
 9. ...
-[Resposta Ex9.](exercicios/SECAO4-E9.txt) ; [SQL 9](evidencias/SECAO4-09.sql) ; [CSV 9](evidencias/SECAO4-09.csv)
+[Resposta Ex9.](exercicios/SECAO4-E9.txt) ; [SQL 9](evidencias/SECAO4-E9.sql) ; [CSV 9](evidencias/SECAO4-09.csv)
 
 10. ...
 [Resposta Ex10.](exercicios/SECAO4-E10.txt) ; [SQL 10](evidencias/SECAO4-E10.sql) ; [CSV 10](evidencias/SECAO4-E10.csv)
