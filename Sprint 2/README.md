@@ -1,5 +1,5 @@
 # Exercícios
-Nesta sessão encontra-se os respectivos arquivos contendo os resultados das propostas da sessão 02, cada arquivo Texto contém a Query seguido pela tabela resposta aos exercícios, além dos arquivos SQL e CSV.
+Nesta seção encontram-se os respectivos arquivos contendo os resultados dos desafios da sprint 02, cada arquivo Resposta Ex. contém a Query seguido pela tabela resposta aos exercícios, além dos arquivos SQL e CSV dos resultados.
 
 1. ...
 [Resposta Ex1.](exercicios/SECAO3-E1.txt) ; [SQL 1](evidencias/SECAO3-E1.sql) ; [CSV 1](evidencias/SECAO3-E1.csv)
@@ -51,11 +51,12 @@ Nesta sessão encontra-se os respectivos arquivos contendo os resultados das pro
 
 
 # Tarefas 
+Nesta seção encontram-se os arquivos de exportação CSV propostos pelas Tarefas da sprint 02.
 
-- Tarefa 01
+- Tarefa 01 ";"
 ![Tarefa 01](tarefas/Tarefa-01.csv)
 
-- Tareda 02
+- Tareda 02 "|"
 ![Tarefa 02](tarefas/Tarefa-02.csv)
 
 # Certificados
