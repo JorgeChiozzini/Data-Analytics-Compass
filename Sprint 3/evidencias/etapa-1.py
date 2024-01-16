@@ -41,6 +41,6 @@ lista = extrai()
 lista.sort(key=lambda x: x['filmes'], reverse=True)
 print(f"O ator com maior número de filmes é {lista[0]['nome']} com {lista[0]['filmes']} filmes.")
 
-with open("resultado.txt", "w") as file:
+with open("resultado1.txt", "w") as file:
     file.write(f"O ator com maior número de filmes é {lista[0]['nome']} com {lista[0]['filmes']} filmes.")
 

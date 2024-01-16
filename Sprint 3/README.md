@@ -81,17 +81,17 @@
 
 Dados: [actors.csv](evidencias/actors.csv)
 
-Scripts ebertos em notebook: [JupyterNotebook](evidencias/notebook.ipynb)
+Scripts em notebook: [JupyterNotebook](evidencias/notebook.ipynb)
 
-Resposta 01: [Etapa01.txt](evidencias/etapa-1.txt) ; [Etapa01.py](evidencias/etapa-1.py)
+Resposta Script 01: [Etapa01.txt](evidencias/etapa-1.txt) ; [Etapa01.py](evidencias/etapa-1.py) ; [Saída 01](evidencias/resultado1.txt)
 
-Resposta 02: [Etapa02.txt](evidencias/etapa-2.txt) ; [Etapa02.py](evidencias/etapa-2.py)
+Resposta Script 02: [Etapa02.txt](evidencias/etapa-2.txt) ; [Etapa02.py](evidencias/etapa-2.py) ; [Saída 02](evidencias/resultado2.txt)
 
-Resposta 03: [Etapa03.txt](evidencias/etapa-3.txt) ; [Etapa03.py](evidencias/etapa-3.py)
+Resposta Script 03: [Etapa03.txt](evidencias/etapa-3.txt) ; [Etapa03.py](evidencias/etapa-3.py) ; [Saída 03](evidencias/resultado3.txt)
 
-Resposta 04: [Etapa04.txt](evidencias/etapa-4.txt) ; [Etapa04.py](evidencias/etapa-4.py)
+Resposta Script 04: [Etapa04.txt](evidencias/etapa-4.txt) ; [Etapa04.py](evidencias/etapa-4.py) ; [Saída 04](evidencias/resultado4.txt)
 
-Resposta 05: [Etapa05.txt](evidencias/etapa-5.txt) ; [Etapa05.py](evidencias/etapa-5.py)
+Resposta Script 05: [Etapa05.txt](evidencias/etapa-5.txt) ; [Etapa05.py](evidencias/etapa-5.py) ; [Saída 05](evidencias/resultado5.txt)
 
 
 

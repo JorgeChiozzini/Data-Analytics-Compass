@@ -47,7 +47,7 @@ for ator in lista:
     print(f"{ator['nome']} -  {ator['total']}")
 
  
-with open("resultado5.txt", "a") as file:
+with open("resultado5.txt", "w") as file:
     for ator in lista:
         file.write(f"\n{ator['nome']} -  {ator['total']}")
 

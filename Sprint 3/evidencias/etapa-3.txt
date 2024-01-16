@@ -41,5 +41,5 @@ lista = extrai()
 lista.sort(key=lambda x: x['media'], reverse=True)
 print(f"O ator com maior média por filme é {lista[0]['nome']} com {lista[0]['media']} de média.")
 
-with open("resultado3.txt", "a") as file:
+with open("resultado3.txt", "w") as file:
     file.write(f"\nO ator/atriz com a maior média de receita de bilheteria bruta por filme é {lista[0]['nome']} com {lista[0]['media']} de média.")
