@@ -80,19 +80,19 @@
 # Desafio - ETL com Python
 
 
-[actors.csv](evidencias/actors.csv)
+[Dados - actors.csv](evidencias/actors.csv)
 
-[JupyterNotebook](evidencias/notebook.ipynb)
+[JupyterNotebook dos scripts](evidencias/notebook.ipynb)
 
-[Pergunta etapa 1.](evidencias/etapa-1.txt)
+[Resposta etapa 1.](evidencias/etapa-1.txt)
 
-[Pergunta etapa 2.](evidencias/etapa-2.txt)
+[Resposta etapa 2.](evidencias/etapa-2.txt)
 
-[Pergunta etapa 3.](evidencias/etapa-3.txt)
+[Resposta etapa 3.](evidencias/etapa-3.txt)
 
-[Pergunta etapa 4.](evidencias/etapa-4.txt)
+[Resposta etapa 4.](evidencias/etapa-4.txt)
 
-[Pergunta etapa 5.](evidencias/etapa-5.txt)
+[Resposta etapa 5.](evidencias/etapa-5.txt)
 
 
 
