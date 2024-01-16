@@ -9,23 +9,24 @@ vez(es) no dataset, adicionando um resultado a cada linha.
 '''
 
 
-# Contar aparições dos filmes de maior bilheteria
 with open('actors.csv', 'r') as file:
-    lines = file.readlines()
+    lines = file.readlines()    
 
-# Remover o cabeçalho
 header = lines[0]
 lines = lines[1:]
 
-# Criar um dicionário para contar as aparições
-contagem_filmes = {}
-for line in lines:
-    filme = line.split(',')[4]
-    contagem_filmes[filme] = contagem_filmes.get(filme, 0) + 1
+movies = [line.split(',')[4] for line in lines]
 
-# Ordenar o dicionário pela quantidade de aparições
-contagem_ordenada = sorted(contagem_filmes.items(), key=lambda x: (-x[1], x[0]))
+movies_count = {}
 
-# Imprimir o resultado
-for i, (filme, quantidade) in enumerate(contagem_ordenada, start=1):
-    print(f"{i} - O filme '{filme.strip()}' aparece {quantidade} vez(es) no dataset.")
+for movie in movies:
+    if movie in movies_count:
+        movies_count[movie] += 1
+    else:
+        movies_count[movie] = 1
+
+movies_count = sorted(movies_count.items(), key=lambda x: (-x[1], x[0]))
+
+for index, (movie, count) in enumerate(movies_count):
+  print(f"{index} - O filme {movie} aparece {count} vez(es) no dataset")
+
