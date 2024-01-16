@@ -5,17 +5,15 @@ per Movie para fins de cálculo.
 '''
 
 
-# Calcular o ator/atriz com a maior média de receita por filme
 with open('actors.csv', 'r') as file:
     lines = file.readlines()
 
-# Remover o cabeçalho
 header = lines[0]
 lines = lines[1:]
 
-# Encontrar o ator/atriz com a maior média de receita por filme
-maior_media_receita = max(lines, key=lambda line: float(line.split(',')[3].replace(',', '')))
+max_value = max([float(line.split(',')[3]) for line in lines])
 
-# Imprimir o resultado
-maior_media_receita = maior_media_receita.split(',')
-print(f"O ator/atriz com a maior média de receita por filme é: {maior_media_receita[0]} com média de ${maior_media_receita[3]} milhões por filme.")
+for line in lines:
+    if float(line.split(',')[3]) == max_value:
+        print(line.split(',')[0], max_value)
+        break

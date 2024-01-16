@@ -82,6 +82,8 @@
 
 [actors.csv](evidencias/actors.csv)
 
+[JupyterNotebook](evidencias/notebook.ipynb)
+
 [Pergunta etapa 1.](evidencias/etapa-1.txt)
 
 [Pergunta etapa 2.](evidencias/etapa-2.txt)
