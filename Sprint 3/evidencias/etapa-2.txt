@@ -3,3 +3,21 @@ Apresente a média de receita de bilheteria bruta dos principais
 filmes, considerando todos os atores. Estamos falando aqui da 
 média da coluna Gross.
 '''
+
+
+# Calcular a média da coluna Gross
+with open('actors.csv', 'r') as file:
+    lines = file.readlines()
+
+# Remover o cabeçalho
+header = lines[0]
+lines = lines[1:]
+
+# Calcular a média da coluna Gross
+total_receita = sum(float(line.split(',')[5].replace(',', '')) for line in lines)
+media_receita = total_receita / len(lines)
+
+# Imprimir o resultado
+print(f"A média de receita de bilheteria bruta dos principais filmes é: ${media_receita:.2f} milhões.")
+
+

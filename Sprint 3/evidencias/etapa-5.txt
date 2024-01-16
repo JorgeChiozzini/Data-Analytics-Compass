@@ -4,3 +4,20 @@ de seus filmes (coluna Total Gross), em ordem decrescente.
 Ao escrever no arquivo, considere o padrão de saída <nome do ator>
 -  <receita total bruta>, adicionando um resultado a cada linha.
 '''
+
+
+# Ordenar a lista de atores pela receita bruta
+with open('actors.csv', 'r') as file:
+    lines = file.readlines()
+
+# Remover o cabeçalho
+header = lines[0]
+lines = lines[1:]
+
+# Criar uma lista de tuplas (ator, receita)
+lista_ordenada = [(line.split(',')[0], float(line.split(',')[1].replace(',', ''))) for line in lines]
+lista_ordenada.sort(key=lambda x: -x[1])
+
+# Imprimir o resultado
+for i, (ator, receita) in enumerate(lista_ordenada, start=1):
+    print(f"{i}. {ator} - ${receita:.2f} milhões.")

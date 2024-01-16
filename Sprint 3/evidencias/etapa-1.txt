@@ -5,3 +5,17 @@ Number of Movies do arquivo.
 '''
 
 
+# Carregar os dados do arquivo actors.csv
+with open('actors.csv', 'r') as file:
+    lines = file.readlines()
+
+# Remover o cabeçalho
+header = lines[0]
+lines = lines[1:]
+
+# Encontrar o ator/atriz com maior número de filmes
+maior_numero_filmes = max(lines, key=lambda line: int(line.split(',')[2]))
+
+# Imprimir o resultado
+maior_numero_filmes = maior_numero_filmes.split(',')
+print(f"O ator/atriz com maior número de filmes é: {maior_numero_filmes[0]} com {maior_numero_filmes[2]} filmes.")

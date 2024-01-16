@@ -3,3 +3,19 @@ Apresente o ator/atriz com a maior média de receita de bilheteria
 bruta por filme do conjunto de dados. Considere a coluna Avarage 
 per Movie para fins de cálculo.
 '''
+
+
+# Calcular o ator/atriz com a maior média de receita por filme
+with open('actors.csv', 'r') as file:
+    lines = file.readlines()
+
+# Remover o cabeçalho
+header = lines[0]
+lines = lines[1:]
+
+# Encontrar o ator/atriz com a maior média de receita por filme
+maior_media_receita = max(lines, key=lambda line: float(line.split(',')[3].replace(',', '')))
+
+# Imprimir o resultado
+maior_media_receita = maior_media_receita.split(',')
+print(f"O ator/atriz com a maior média de receita por filme é: {maior_media_receita[0]} com média de ${maior_media_receita[3]} milhões por filme.")
