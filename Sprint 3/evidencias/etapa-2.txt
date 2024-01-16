@@ -5,19 +5,14 @@ média da coluna Gross.
 '''
 
 
-# Calcular a média da coluna Gross
 with open('actors.csv', 'r') as file:
     lines = file.readlines()
 
-# Remover o cabeçalho
 header = lines[0]
 lines = lines[1:]
 
-# Calcular a média da coluna Gross
-total_receita = sum(float(line.split(',')[5].replace(',', '')) for line in lines)
-media_receita = total_receita / len(lines)
+last_values = [line.split(',')[-1] for line in lines]
 
-# Imprimir o resultado
-print(f"A média de receita de bilheteria bruta dos principais filmes é: ${media_receita:.2f} milhões.")
+mean = sum(float(value) for value in last_values) / len(last_values)
 
-
+print(mean)
