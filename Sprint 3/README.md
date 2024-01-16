@@ -1,4 +1,4 @@
-# Exercícios
+# Exercícios de Programação Python I e II
 
 
 1. ...
@@ -80,13 +80,20 @@
 [Resposta Ex ETL.](exercicios/ETL.py)
 
 
-# Evidências
+# Desafio - ETL com Python
 
 
-Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
+![actors.csv](evidencias/actors.csv)
 
+![Pergunta etapa 1.](evidencias/etapa-1.txt)
 
-![Evidencia 1](evidencias/sample.webp)
+![Pergunta etapa 2.](evidencias/etapa-2.txt)
+
+![Pergunta etapa 3.](evidencias/etapa-3.txt)
+
+![Pergunta etapa 4.](evidencias/etapa-4.txt)
+
+![Pergunta etapa 5.](evidencias/etapa-5.txt)
 
 
 
