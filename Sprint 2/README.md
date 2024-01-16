@@ -54,10 +54,10 @@ Nesta seção encontram-se os respectivos arquivos contendo os resultados dos de
 Nesta seção encontram-se os arquivos de exportação CSV propostos pelas Tarefas da sprint 02.
 
 - Tarefa 01 ";"
-![Tarefa 01](tarefas/Tarefa-01.csv)
+[Tarefa 01](tarefas/Tarefa-01.csv)
 
 - Tareda 02 "|"
-![Tarefa 02](tarefas/Tarefa-02.csv)
+[Tarefa 02](tarefas/Tarefa-02.csv)
 
 # Certificados
 

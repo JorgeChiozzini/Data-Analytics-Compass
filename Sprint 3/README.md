@@ -76,24 +76,21 @@
 25. ...
 [Resposta Ex25.](exercicios/ex25.py)
 
-26. ...
-[Resposta Ex ETL.](exercicios/ETL.py)
-
 
 # Desafio - ETL com Python
 
 
-![actors.csv](evidencias/actors.csv)
+[actors.csv](evidencias/actors.csv)
 
-![Pergunta etapa 1.](evidencias/etapa-1.txt)
+[Pergunta etapa 1.](evidencias/etapa-1.txt)
 
-![Pergunta etapa 2.](evidencias/etapa-2.txt)
+[Pergunta etapa 2.](evidencias/etapa-2.txt)
 
-![Pergunta etapa 3.](evidencias/etapa-3.txt)
+[Pergunta etapa 3.](evidencias/etapa-3.txt)
 
-![Pergunta etapa 4.](evidencias/etapa-4.txt)
+[Pergunta etapa 4.](evidencias/etapa-4.txt)
 
-![Pergunta etapa 5.](evidencias/etapa-5.txt)
+[Pergunta etapa 5.](evidencias/etapa-5.txt)
 
 
 
