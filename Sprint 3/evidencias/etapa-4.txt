@@ -1,0 +1,9 @@
+'''
+A coluna #1 Movie contém o filme de maior bilheteria em que o ator 
+atuou. Realize a contagem de aparições destes filmes no dataset, 
+listando-os ordenados pela quantidade de vezes em que estão 
+presentes. Considere a ordem decrescente e, em segundo nível, o 
+nome do  filme. Ao escrever no arquivo, considere o padrão de 
+saída <sequencia> - O filme <nome filme> aparece <quantidade> 
+vez(es) no dataset, adicionando um resultado a cada linha.
+'''
