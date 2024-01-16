@@ -17,3 +17,7 @@ max_value = max(third_values)
 max_index = third_values.index(max_value)
 
 print(lines[max_index].split(',')[0], lines[max_index].split(',')[2])
+
+
+with open('output.txt', 'w') as file:
+  file.write(lines[max_index].split(',')[0] + ' ' + lines[max_index].split(',')[2])

@@ -6,18 +6,21 @@ Ao escrever no arquivo, considere o padrão de saída <nome do ator>
 '''
 
 
-# Ordenar a lista de atores pela receita bruta
 with open('actors.csv', 'r') as file:
     lines = file.readlines()
-
-# Remover o cabeçalho
+    
 header = lines[0]
 lines = lines[1:]
 
-# Criar uma lista de tuplas (ator, receita)
-lista_ordenada = [(line.split(',')[0], float(line.split(',')[1].replace(',', ''))) for line in lines]
-lista_ordenada.sort(key=lambda x: -x[1])
+ 
+lines.sort(key=lambda x: x.split(',')[1], reverse=True)
 
-# Imprimir o resultado
-for i, (ator, receita) in enumerate(lista_ordenada, start=1):
-    print(f"{i}. {ator} - ${receita:.2f} milhões.")
+for line in lines:
+    values = line.split(',')
+    print(values[0]," - ", values[1])
+
+
+with open('sorted_actors.txt', 'w') as file:
+    for line in lines:
+        values = line.split(',')
+        file.write(values[0] + " - " + values[1] + '\n')

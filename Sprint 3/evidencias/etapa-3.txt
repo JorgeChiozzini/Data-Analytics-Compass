@@ -17,3 +17,8 @@ for line in lines:
     if float(line.split(',')[3]) == max_value:
         print(line.split(',')[0], max_value)
         break
+
+
+
+with open('result.txt', 'w') as file:
+    file.write(f'{line.split(",")[0]}, {max_value}')

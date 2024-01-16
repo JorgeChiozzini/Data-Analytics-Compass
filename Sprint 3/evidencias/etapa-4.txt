@@ -30,3 +30,8 @@ movies_count = sorted(movies_count.items(), key=lambda x: (-x[1], x[0]))
 for index, (movie, count) in enumerate(movies_count):
   print(f"{index} - O filme {movie} aparece {count} vez(es) no dataset")
 
+
+
+with open('movies_count.txt', 'w') as file:
+    for index, (movie, count) in enumerate(movies_count):
+        file.write(f"{index} - O filme {movie} aparece {count} vez(es) no dataset\n")

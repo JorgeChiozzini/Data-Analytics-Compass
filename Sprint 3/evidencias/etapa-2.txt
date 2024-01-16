@@ -16,3 +16,7 @@ last_values = [line.split(',')[-1] for line in lines]
 mean = sum(float(value) for value in last_values) / len(last_values)
 
 print(mean)
+
+
+with open('mean.txt', 'w') as file:
+  file.write(str(mean))
