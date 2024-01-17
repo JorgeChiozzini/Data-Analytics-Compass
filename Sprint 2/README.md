@@ -1,4 +1,4 @@
-# Exercícios
+# 📝 Exercícios
 Nesta seção encontram-se os respectivos arquivos contendo os resultados dos desafios da sprint 02, cada arquivo Resposta Ex. contém a Query seguido pela tabela resposta aos exercícios, além dos arquivos SQL e CSV dos resultados.
 
 1. ...
@@ -50,7 +50,7 @@ Nesta seção encontram-se os respectivos arquivos contendo os resultados dos de
 [Resposta Ex16.](exercicios/SECAO4-E16.txt) ; [SQL 16](evidencias/SECAO4-E16.sql) ; [CSV 16](evidencias/SECAO4-E16.csv)
 
 
-# Tarefas 
+# 🚀 Tarefas 
 Nesta seção encontram-se os arquivos de exportação CSV propostos pelas Tarefas da sprint 02.
 
 - Tarefa 01 ";"
@@ -59,7 +59,7 @@ Nesta seção encontram-se os arquivos de exportação CSV propostos pelas Taref
 - Tareda 02 "|"
 [Tarefa 02](tarefas/Tarefa-02.csv)
 
-# Certificados
+# 🏆 Certificados
 
 - Certificado do Curso Big Data Fundamentos 3.0
 ![Curso Linux](certificados/BigData.png)
