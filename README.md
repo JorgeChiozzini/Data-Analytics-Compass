@@ -6,7 +6,7 @@ Olá, meu nome é Jorge, resido em Matão, uma tranquila cidade do interior de S
 - [JorgeChiozzini.github.io/mylanding](https://jorgechiozzini.github.io/mylanding/)
 
 
-## 📚 Ciclo de Aprendizagem organizado em Sprints 
+## 📚 Ciclo de estudos organizado em Sprints 
 
 1. [Sprint 1](Sprint%201/README.md) 
 2. [Sprint 2](Sprint%202/README.md) 
@@ -22,7 +22,7 @@ Olá, meu nome é Jorge, resido em Matão, uma tranquila cidade do interior de S
 
 ## 🎯 Projeto Final
 
-1. [Desafio Final](Desafio/README.md)
+* [Desafio Final](Desafio/README.md)
 
 
 ___
