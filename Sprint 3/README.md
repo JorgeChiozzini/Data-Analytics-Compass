@@ -1,4 +1,4 @@
-# Exercícios de Programação Python I e II
+# 📝 Exercícios de Programação Python I e II
 
 1. ...
 [Resposta Ex1.](exercicios/ex1.py)
@@ -76,25 +76,25 @@
 [Resposta Ex25.](exercicios/ex25.py)
 
 
-# Desafio - ETL com Python
+# 🚀 Desafio - ETL com Python
 
-Dados: [actors.csv](evidencias/actors.csv)
+* Dados: [actors.csv](evidencias/actors.csv)
 
-Scripts em notebook: [JupyterNotebook](evidencias/notebook.ipynb)
+* Scripts em notebook: [JupyterNotebook](evidencias/notebook.ipynb)
 
-Resposta Script 01: [Etapa01.txt](evidencias/etapa-1.txt) ; [Etapa01.py](evidencias/etapa-1.py) ; [Saída 01](evidencias/resultado1.txt)
+1. Resposta Script 01: [Etapa01.txt](evidencias/etapa-1.txt) ; [Etapa01.py](evidencias/etapa-1.py) ; [Saída 01](evidencias/resultado1.txt)
 
-Resposta Script 02: [Etapa02.txt](evidencias/etapa-2.txt) ; [Etapa02.py](evidencias/etapa-2.py) ; [Saída 02](evidencias/resultado2.txt)
+2. Resposta Script 02: [Etapa02.txt](evidencias/etapa-2.txt) ; [Etapa02.py](evidencias/etapa-2.py) ; [Saída 02](evidencias/resultado2.txt)
 
-Resposta Script 03: [Etapa03.txt](evidencias/etapa-3.txt) ; [Etapa03.py](evidencias/etapa-3.py) ; [Saída 03](evidencias/resultado3.txt)
+3. Resposta Script 03: [Etapa03.txt](evidencias/etapa-3.txt) ; [Etapa03.py](evidencias/etapa-3.py) ; [Saída 03](evidencias/resultado3.txt)
 
-Resposta Script 04: [Etapa04.txt](evidencias/etapa-4.txt) ; [Etapa04.py](evidencias/etapa-4.py) ; [Saída 04](evidencias/resultado4.txt)
+4. Resposta Script 04: [Etapa04.txt](evidencias/etapa-4.txt) ; [Etapa04.py](evidencias/etapa-4.py) ; [Saída 04](evidencias/resultado4.txt)
 
-Resposta Script 05: [Etapa05.txt](evidencias/etapa-5.txt) ; [Etapa05.py](evidencias/etapa-5.py) ; [Saída 05](evidencias/resultado5.txt)
+5. Resposta Script 05: [Etapa05.txt](evidencias/etapa-5.txt) ; [Etapa05.py](evidencias/etapa-5.py) ; [Saída 05](evidencias/resultado5.txt)
 
 
 
-# Certificados
+# 🏆 Certificados
 
 
 - Certificado do Curso ABC
