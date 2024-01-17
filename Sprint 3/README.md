@@ -1,6 +1,5 @@
 # Exercícios de Programação Python I e II
 
-
 1. ...
 [Resposta Ex1.](exercicios/ex1.py)
 

@@ -8,14 +8,13 @@ saída <sequencia> - O filme <nome filme> aparece <quantidade>
 vez(es) no dataset, adicionando um resultado a cada linha.
 '''
 
-
-def extrai(): 
+def leitor_csv(): 
     with open("actors.csv", "r", encoding="utf8") as file:
         lista = []
         contador = 0
  
         for line in file.readlines():
-            ator = {}
+            tabela = {}
  
             if contador == 0:
                 contador += 1
@@ -24,28 +23,28 @@ def extrai():
             item = line.split(",")
  
             if len(item) > 6:
-                item_diferente = line.split('"')
-                novo = item_diferente[1].replace(",", "") + item_diferente[2]
+                problema = line.split('"')
+                novo = problema[1].replace(",", "") + problema[2]
                 item = novo.split(",")
  
                 for i in item:
                     i.strip()
  
-            ator['nome'] = item[0]
-            ator['total'] = float(item[1])
-            ator['filmes'] = int(item[2])
-            ator['media'] = float(item[3])
-            ator['1 filme'] = item[4]
-            ator['bruto'] = float(item[5])
+            tabela['actor'] = item[0]
+            tabela['total'] = float(item[1])
+            tabela['movies'] = int(item[2])
+            tabela['average'] = float(item[3])
+            tabela['1 movie'] = item[4]
+            tabela['gross'] = float(item[5])
  
-            lista.append(ator)
+            lista.append(tabela)
     return lista
  
-lista = extrai()
+lista = leitor_csv()
 
 filmes_cont = {}
 for filmes in lista:
-        nome_filme = filmes ['1 filme']
+        nome_filme = filmes ['1 movie']
         if nome_filme in filmes_cont:
             filmes_cont[nome_filme] += 1
         else:
