@@ -43,7 +43,7 @@ Aqui encontram-se as respostas aos exercícios propostos no Curso Python:
 # 🏆 Certificados
 
 
-- Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
+- Certificado do Curso Python 3 - Curso Completo
+![Curso Python 3](certificados/Python3.jpg)
 
 
