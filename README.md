@@ -6,7 +6,8 @@ Olá, meu nome é Jorge, resido em Matão, uma tranquila cidade do interior de S
 - [JorgeChiozzini.github.io/mylanding](https://jorgechiozzini.github.io/mylanding/)
 
 
-## 📚 Ciclo de estudo organizado em Sprints 
+## 📚 Ciclos de Estudos - Sprints 
+Inspirados pelo método SCRUM, organizamos os ciclos de estudos em sprints, guiados por todo o framework e ferramentas associadas a esse método ágil. Nos links a seguir, você encontrará os entregáveis produzidos em cada sprint.
 
 1. [Sprint 1](Sprint%201/README.md) 
 2. [Sprint 2](Sprint%202/README.md) 

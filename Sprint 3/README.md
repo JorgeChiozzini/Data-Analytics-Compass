@@ -1,4 +1,5 @@
 # 📝 Exercícios de Programação Python I e II
+Aqui encontram-se as respostas aos exercícios propostos no Curso Python:
 
 1. ... [Resposta Ex1.](exercicios/ex1.py)  11. ... [Resposta Ex11.](exercicios/ex11.py)  21. ... [Resposta Ex21.](exercicios/ex21.py)
 
@@ -21,7 +22,7 @@
 10. ... [Resposta Ex10.](exercicios/ex10.py)  20. ... [Resposta Ex20.](exercicios/ex20.py)
 
 
-# 🚀 Desafio - ETL com Python
+### 🚀 Desafio - ETL com Python
 
 * Dados: [actors.csv](evidencias/actors.csv)
 
