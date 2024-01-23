@@ -29,9 +29,12 @@ Os Métodos Ágeis, especialmente o SCRUM, oferecem uma abordagem flexível e it
 <a id="Certificados"></a>
 ## 🏆 Certificados
 
-
 - Certificado do Curso Métodos Ágeis de A a Z
 ![Curso Linux](certificados/Metodos-ageis.jpg)
 
+
 - Certificado do Curso Segurança em Aplicações WEB
 ![Curso Linux](certificados/SegurançaAppWEB.jpg)
+
+
+
