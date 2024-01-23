@@ -11,8 +11,8 @@ Olá, meu nome é Jorge, resido em Matão, uma tranquila cidade do interior de S
 
 <br>
 
-## 📚 Conteúdo do programa organizado Sprints 
-Inspirados pelo método SCRUM, organizamos os ciclos de estudos em sprints, guiados por todo o framework e ferramentas associadas a esse método ágil. Nos links a seguir, você encontrará os entregáveis produzidos em cada sprint.
+## 📚 Conteúdo do programa organizado em Sprints 
+Inspirados pelo método SCRUM, organizamos os ciclos de estudos em sprints, guiados por todo o framework associado a esse método. Nos links a seguir, você encontrará o conteúdo abordado, plano de estudo e entregáveis produzidos em cada sprint.
 
 ### 1. [Sprint 1](Sprint%201/README.md) 
 - [x] Segurança em Aplicações WEB
