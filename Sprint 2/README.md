@@ -1,4 +1,25 @@
-# 📝 Exercícios
+<h1 align="center"> Sprint 2</h1>
+
+<p align="center">
+ <a href="#sobre">Sobre</a> •
+ <a href="#Exercícios">Exercícios</a> •
+ <a href="#Tarefas">Tarefas</a> •
+ <a href="#Certificados">Certificados</a>
+</p>
+
+<br> 
+
+<a id="sobre"></a>
+## 📎  Sobre
+
+### Cursos
+- [SQL para Análise de Dados: Do básico ao avançado](https://www.udemy.com/course/sql-para-analise-de-dados/)
+- [Big Data Fundamentos 3.0](https://www.datascienceacademy.com.br/course/big-data-fundamentos-3)
+
+<br>
+
+<a id="Exercícios"></a>
+## 📝 Exercícios
 Nesta seção encontram-se os respectivos arquivos contendo os resultados dos desafios da sprint 02, cada arquivo Resposta Ex. contém a Query seguido pela tabela resposta aos exercícios, além dos arquivos SQL e CSV dos resultados.
 
 1. ...
@@ -49,7 +70,9 @@ Nesta seção encontram-se os respectivos arquivos contendo os resultados dos de
 16. ...
 [Resposta Ex16.](exercicios/SECAO4-E16.txt) ; [SQL 16](evidencias/SECAO4-E16.sql) ; [CSV 16](evidencias/SECAO4-E16.csv)
 
+<br>
 
+<a id="Tarefas"></a>
 ## 🚀 Tarefas 
 Nesta seção encontram-se os arquivos de exportação CSV propostos pelas Tarefas da sprint 02.
 
@@ -59,7 +82,10 @@ Nesta seção encontram-se os arquivos de exportação CSV propostos pelas Taref
 - Tareda 02 "|"
 [Tarefa 02](tarefas/Tarefa-02.csv)
 
-# 🏆 Certificados
+<br>
+
+<a id="Certificados"></a>
+## 🏆 Certificados
 
 - Certificado do Curso Big Data Fundamentos 3.0
 ![Curso Linux](certificados/BigData.png)
