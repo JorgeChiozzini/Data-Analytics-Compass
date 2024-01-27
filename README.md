@@ -38,9 +38,9 @@ Inspirados pelo método SCRUM, organizamos os ciclos de estudos em sprints, guia
 ### 4. [Sprint 4](Sprint%204/README.md)
 - [x] Programação funcional
 - [x] Python
-- [ ] Docker
+- [x] Docker
 - [ ] Estatística descritiva
-- [ ] Exercício
+- [x] Exercício
 
 
 ### 5. [Sprint 5](Sprint%205/README.md)
