@@ -57,13 +57,25 @@
 <br>
 
 <a id="exercicios-d"></a>
-##  🐋  Exercícios Docker 
+##  🐋  Exercícios Containers Docker 
+
+* Dados: [carguru.py](exercicios/app1/carguru.py)
+
+1. Resposta: [Tarefa 01](exercicios/ex01.md)
+
+2. Resposta: [Tarefa 02](exercicios/ex02.md)
+
+3. Resposta: [Tarefa 03](exercicios/ex03.md)
+
 
 <br>
 
 <a id="Certificados"></a>
 ## 🏆 Certificados
 
-- Certificado do Curso Python 3 - Seção Python Funcional
+
+- Certificado do Curso Python 3 (Seção Python Funcional)
 ![Curso Python 3](certificados/Python3.jpg)
 
+- Certificado do Curso Docker para Desenvolvedores 
+![Curso Python 3](certificados/Docker.jpg)
