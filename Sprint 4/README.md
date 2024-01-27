@@ -59,8 +59,6 @@
 <a id="exercicios-d"></a>
 ##  🐋  Exercícios Containers Docker 
 
-* Dados: [carguru.py](exercicios/app1/carguru.py)
-
 1. Resposta: [Tarefa 01](exercicios/ex01.md)
 
 2. Resposta: [Tarefa 02](exercicios/ex02.md)
