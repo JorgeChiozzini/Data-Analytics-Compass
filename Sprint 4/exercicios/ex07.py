@@ -6,7 +6,8 @@ Observe que n representa o valor do parâmetro informado na chamada da função.
 '''
 
 def pares_ate(n:int):
-    return (x for x in range(2, n+1, 2))
+    for i in range(2, n+1, 2):
+        yield i    
 
 
 
