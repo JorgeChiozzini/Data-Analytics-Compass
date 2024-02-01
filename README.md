@@ -39,7 +39,7 @@ Inspirados pelo método SCRUM, organizamos os ciclos de estudos em sprints, guia
 - [x] Programação funcional
 - [x] Python
 - [x] Docker
-- [ ] Estatística descritiva
+- [x] Estatística descritiva
 - [x] Exercício
 
 
