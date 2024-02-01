@@ -76,4 +76,7 @@
 ![Curso Python 3](certificados/Python3.jpg)
 
 - Certificado do Curso Docker para Desenvolvedores 
-![Curso Python 3](certificados/Docker.jpg)
+![Curso Docker](certificados/Docker.jpg)
+
+- Certificado do Curso Estatística Descritiva com Python
+![Estatística Descritiva](certificados/Estatística.jpg)
