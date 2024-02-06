@@ -88,8 +88,7 @@ Nesta seção encontram-se os arquivos de exportação CSV propostos pelas Taref
 ## 🏆 Certificados
 
 - Certificado do Curso Big Data Fundamentos 3.0
-![Curso Linux](certificados/BigData.png)
+<img src="certificados/BigData.png" alt="Texto Alternativo" width="600">
 
 - Certificado do Curso SQL para Análise de Dados
-![Curso Linux](certificados/SQL.jpg)
-
+<img src="certificados/SQL.jpg" alt="Texto Alternativo" width="600">

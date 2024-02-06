@@ -30,10 +30,8 @@ No segundo curso, dedicado ao Linux, aprofundei-me na compreensão prática do a
 <a id="Certificados"></a>
 ## 🏆 Certificados
 
-
 - Certificado do Curso Git e GitHub do básico ao avançado
-![Curso Git e GitHub](certificados/Git-GitHub.jpg)
+<img src="certificados/Git-GitHub.jpg" alt="Texto Alternativo" width="600">
 
-- Certificado do Curso Linux para desenvolvedores
-![Curso Linux](certificados/Linux.jpg)
-
+- CCertificado do Curso Linux para desenvolvedores
+<img src="certificados/Linux.jpg" alt="Texto Alternativo" width="600">

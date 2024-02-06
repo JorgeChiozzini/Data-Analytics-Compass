@@ -66,8 +66,5 @@ Aqui encontram-se as respostas aos exercícios propostos no Curso Python:
 <a id="Certificados"></a>
 ## 🏆 Certificados
 
-
 - Certificado do Curso Python 3 - Curso Completo
-![Curso Python 3](certificados/Python3.jpg)
-
-
+<img src="certificados/Python3.jpg" alt="Texto Alternativo" width="600">

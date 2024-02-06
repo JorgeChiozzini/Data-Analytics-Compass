@@ -73,10 +73,10 @@
 
 
 - Certificado do Curso Python 3 (Seção Python Funcional)
-![Curso Python 3](certificados/Python3.jpg)
+<img src="certificados/Python3.jpg" alt="Texto Alternativo" width="600">
 
 - Certificado do Curso Docker para Desenvolvedores 
-![Curso Docker](certificados/Docker.jpg)
+<img src="certificados/Docker.jpg" alt="Texto Alternativo" width="600">
 
 - Certificado do Curso Estatística Descritiva com Python
-![Estatística Descritiva](certificados/Estatística.jpg)
+<img src="certificados/Estatística.jpg" alt="Texto Alternativo" width="600">
