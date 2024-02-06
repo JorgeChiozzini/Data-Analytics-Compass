@@ -25,17 +25,17 @@
 ## 🏆 Certificados
 
 - Certificado do Curso AWS Partner: Sales Accreditation (Business)
-<img src="certificados/AWS%20Sales%20accreditation.png" alt="Texto Alternativo" width="600" height="400">
+<img src="certificados/AWS%20Sales%20accreditation.png" alt="Texto Alternativo" width="600">
 
 - Certificado do Curso AWS Partner: Accreditation (Technical)
-<img src="certificados/AWS%20Sales%20accreditation.png" alt="Texto Alternativo" width="600" height="400">
+<img src="certificados/AWS%20Sales%20accreditation.png" alt="Texto Alternativo" width="600">
 
 - Certificado do Curso AWS Partner: Cloud Economics Accreditation
-<img src="certificados/AWS%20Sales%20accreditation.png" alt="Texto Alternativo" width="600" height="400">
+<img src="certificados/AWS%20Sales%20accreditation.png" alt="Texto Alternativo" width="600">
 
 - Certificado do Curso AWS Cloud Quest: Cloud Practitioner (Game)
-<img src="certificados/AWS%20Sales%20accreditation.png" alt="Texto Alternativo" width="600" height="400">
+<img src="certificados/AWS%20Sales%20accreditation.png" alt="Texto Alternativo" width="600">
 
 - Certificado do Exam Prep: AWS Certified Cloud Practitioner
-<img src="certificados/AWS%20Sales%20accreditation.png" alt="Texto Alternativo" width="600" height="400">
+<img src="certificados/AWS%20Sales%20accreditation.png" alt="Texto Alternativo" width="600">
 
