@@ -30,8 +30,8 @@
 - Certificado do Curso AWS Partner: Accreditation (Technical)
 <img src="certificados/AWS Accreditation.png" alt="Texto Alternativo" width="600">
 
-- Certificado do Curso AWS Partner: Cloud Economics Accreditation
-<img src="certificados" alt="Texto Alternativo" width="600">
+- Certificado do Curso AWS Partner: Cloud Economics
+<img src="certificados/AWS Cloud Economics.png" alt="Texto Alternativo" width="600">
 
 - Certificado do Curso AWS Cloud Quest: Cloud Practitioner (Game)
 <img src="certificados" alt="Texto Alternativo" width="600">
