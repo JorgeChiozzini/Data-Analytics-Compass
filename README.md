@@ -44,7 +44,7 @@ Inspirados pelo método SCRUM, organizamos os ciclos de estudos em sprints, guia
 
 
 ### 5. [Sprint 5](Sprint%205/README.md)
-- [ ] Computação em núvem (AWS)
+- [x] Computação em núvem (AWS)
 
 ### 6. [Sprint 6](Sprint%206/README.md)
 - [ ] Computação em núvem (AWS)

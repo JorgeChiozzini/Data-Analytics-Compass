@@ -36,8 +36,8 @@
 - Certificado do Exam Prep: AWS Certified Cloud Practitioner
 <img src="certificados/AWS Certified Cloud Practitioner.png" alt="Texto Alternativo" width="600">
 
-- Certificado do Curso AWS Cloud Quest: Cloud Practitioner (Game)
-<img src="certificados" alt="Texto Alternativo" width="600">
-
+- Certificado do Curso AWS Cloud Quest: Cloud Practitioner (Game)  
+[Credly](https://www.credly.com/badges/d0f6e48d-c5a4-4060-96b1-0681b7b45e79/public_url)
+<img src="certificados/AWS Quest.png" alt="Texto Alternativo" width="600">
 
 
