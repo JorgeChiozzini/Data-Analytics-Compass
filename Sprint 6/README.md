@@ -40,16 +40,20 @@ Explorar as capacidades do serviço AWS S3.  Nos passos que seguem, você será 
 * [index.html](evidencias/index.html)
 * [404.html](evidencias/404.html)
 
-Criar um bucket e habilitar hospedagem de site estático 
+Criar um bucket e habilitar hospedagem de site estático    
+
 <img src="exercicios/s3.png" alt="Texto Alternativo" width="600">
 
-Editar as configurações do Bloqueio de acesso público, adicionar política de bucket que torna o conteúdo do bucket publicamente disponível
+Editar as configurações do Bloqueio de acesso público, adicionar política de bucket que torna o conteúdo do bucket publicamente disponível   
+
 <img src="exercicios/politica.png" alt="Texto Alternativo" width="600">
 
-Configurar um documento de índice 
+Configurar um documento de índice   
+
 <img src="exercicios/bucket.png" alt="Texto Alternativo" width="600">
 
-Testar o endpoint do site
+Testar o endpoint do site    
+
 <img src="exercicios/site.png" alt="Texto Alternativo" width="600">
 <img src="exercicios/nomesCSV.png" alt="Texto Alternativo" width="600">
 
