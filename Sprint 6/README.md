@@ -12,19 +12,19 @@
 
 ### Cursos e certificados
 
-- [AWS Skill Builder - Data Analytics Fundamentals (Portuguese)](/certificados/sprint6_AWS-DataAnalytics.PNG)
-- [AWS Partner: Data Analytics on AWS (Business) (Portuguese)](/certificados/sprint6_AWS-DataAnalytics-Business.PNG)
-- [AWS Skill Builder - Introduction to Amazon Kinesis Streams](/certificados/sprint6_AWS-KinesisStreams.PNG)
-- [AWS Skill Builder - Introduction to Amazon Kinesis Analytics](/certificados/sprint6_AWS-KinesisAnalytics.PNG)
-- [AWS Skill Builder - Introduction to Amazon Elastic MapReduce (EMR) (Portuguese)](/certificados/sprint6_AWS-EMR.PNG)
-- [AWS Skill Builder - Introduction to Amazon Athena (Portuguese)](/certificados/sprint6_AWS-Athena.PNG)
-- [AWS Skill Builder - Introduction to Amazon Quicksight (Portuguese)](/certificados/sprint6_AWS-QuickSight.PNG)
-- [AWS Skill Builder - Introduction to AWS IoT Analytics](/certificados/sprint6_AWS-IoT-Analytics.PNG)
-- [AWS Skill Builder - Getting Started with Amazon Redshift](/certificados/sprint6_AWS-Redshift.PNG)
-- [AWS Skill Builder - Deep Dive into Concepts and Tools for Analyzing Streaming Data (Portuguese)](/certificados/sprint6_AWS-Analysing-Streaming-Data.PNG)
-- [AWS Skill Builder - Best Practices for Data Warehousing with Amazon Redshift (Portuguese)](/certificados/sprint6_AWS-DataWarehousing-with-Redshift.PNG)
-- [AWS Skill Builder - Serverless Analytics (Portuguese)](/certificados/sprint6_AWS-Serverless-Analytics.PNG)
-- [AWS Skill Builder - Why Analytics for Games (Portuguese)](/certificados/sprint6_AWS-AnalyticsGame.PNG)
+- [AWS Skill Builder - Data Analytics Fundamentals (Portuguese)](certificados/DataAnalytics%20Fundamentals.png)
+- [AWS Partner: Data Analytics on AWS (Business) (Portuguese)](certificados)
+- [AWS Skill Builder - Introduction to Amazon Kinesis Streams](certificados)
+- [AWS Skill Builder - Introduction to Amazon Kinesis Analytics](certificados)
+- [AWS Skill Builder - Introduction to Amazon Elastic MapReduce (EMR) (Portuguese)](ertificados)
+- [AWS Skill Builder - Introduction to Amazon Athena (Portuguese)](certificados)
+- [AWS Skill Builder - Introduction to Amazon Quicksight (Portuguese)](certificados)
+- [AWS Skill Builder - Introduction to AWS IoT Analytics](certificados)
+- [AWS Skill Builder - Getting Started with Amazon Redshift](certificados)
+- [AWS Skill Builder - Deep Dive into Concepts and Tools for Analyzing Streaming Data (Portuguese)](certificados)
+- [AWS Skill Builder - Best Practices for Data Warehousing with Amazon Redshift (Portuguese)](certificados)
+- [AWS Skill Builder - Serverless Analytics (Portuguese)](certificados)
+- [AWS Skill Builder - Why Analytics for Games (Portuguese)](certificados)
 
 <br>
 
@@ -59,3 +59,45 @@ Testar o endpoint do site
 
 ---
 
+### AWS Athena
+
+Configurar Athena, criar um banco de dados, criar uma tabela
+
+<img src="exercicios/queries.png" alt="Texto Alternativo" width="600">
+
+<img src="exercicios/meubanco.png" alt="Texto Alternativo" width="600">
+
+<img src="exercicios/table.png" alt="Texto Alternativo" width="600">
+
+
+Crie uma consulta que lista os 3 nomes mais usados em cada década desde o 1950 até hoje.
+
+Código:
+
+```sql
+WITH rankingtable AS (
+    SELECT
+        nome, 
+        CONCAT(SUBSTR(CAST(ano AS VARCHAR), 1, 3), '0') AS decada, 
+        RANK() OVER(PARTITION BY CONCAT(SUBSTR(CAST(ano AS VARCHAR), 1, 3), '0') ORDER BY SUM(total) DESC, nome ASC) AS ranking 
+    FROM meubanco.nomestable
+    WHERE ano >= 1950
+    GROUP BY nome, CONCAT(SUBSTR(CAST(ano AS VARCHAR), 1, 3), '0') 
+)
+
+SELECT 
+    nome, 
+    decada,
+    RANK() OVER(PARTITION BY decada ORDER BY ranking) AS posicao
+FROM rankingtable 
+WHERE ranking IN (1, 2, 3) 
+ORDER BY decada, posicao;
+```
+
+<img src="exercicios/query.png" alt="Texto Alternativo" width="600">
+
+* [Resultado - saida.csv](evidencias/saida.csv)
+
+---
+
+### 
