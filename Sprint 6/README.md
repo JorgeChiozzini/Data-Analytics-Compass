@@ -40,22 +40,13 @@ Explorar as capacidades do serviço AWS S3.  Nos passos que seguem, você será 
 * [index.html](evidencias/index.html)
 * [404.html](evidencias/404.html)
 
-Criar um bucket e habilitar hospedagem de site estático    
+Criar um bucket e habilitar hospedagem de site estático, editar as configurações do Bloqueio de acesso público, adicionar política de bucket que torna o conteúdo do bucket publicamente disponível, configurar um documento de índice   
 
-<img src="exercicios/s3.png" alt="Texto Alternativo" width="600">
-
-Editar as configurações do Bloqueio de acesso público, adicionar política de bucket que torna o conteúdo do bucket publicamente disponível   
-
-<img src="exercicios/politica.png" alt="Texto Alternativo" width="600">
-
-Configurar um documento de índice   
-
-<img src="exercicios/bucket.png" alt="Texto Alternativo" width="600">
+<img src="exercicios/bucket.png" alt="Texto Alternativo" width="800">
 
 Testar o endpoint do site    
 
-<img src="exercicios/site.png" alt="Texto Alternativo" width="600">
-<img src="exercicios/nomesCSV.png" alt="Texto Alternativo" width="600">
+<img src="exercicios/site.png" alt="Texto Alternativo" width="800">
 
 ---
 
@@ -63,12 +54,7 @@ Testar o endpoint do site
 
 Configurar Athena, criar um banco de dados, criar uma tabela
 
-<img src="exercicios/queries.png" alt="Texto Alternativo" width="600">
-
-<img src="exercicios/meubanco.png" alt="Texto Alternativo" width="600">
-
-<img src="exercicios/table.png" alt="Texto Alternativo" width="600">
-
+<img src="exercicios/queries.png" alt="Texto Alternativo" width="800">
 
 Crie uma consulta que lista os 3 nomes mais usados em cada década desde o 1950 até hoje.
 
@@ -94,7 +80,7 @@ WHERE ranking IN (1, 2, 3)
 ORDER BY decada, posicao;
 ```
 
-<img src="exercicios/query.png" alt="Texto Alternativo" width="600">
+<img src="exercicios/query.png" alt="Texto Alternativo" width="800">
 
 * [Resultado - saida.csv](evidencias/saida.csv)
 
