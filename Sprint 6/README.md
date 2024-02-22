@@ -64,11 +64,11 @@ Código:
 WITH rankingtable AS (
     SELECT
         nome, 
-        CONCAT(SUBSTR(CAST(ano AS VARCHAR), 1, 3), '0') AS decada, 
-        RANK() OVER(PARTITION BY CONCAT(SUBSTR(CAST(ano AS VARCHAR), 1, 3), '0') ORDER BY SUM(total) DESC, nome ASC) AS ranking 
+        FLOOR(ano / 10) * 10 AS decada, 
+        RANK() OVER(PARTITION BY FLOOR(ano / 10) * 10 ORDER BY SUM(total) DESC, nome ASC) AS ranking 
     FROM meubanco.nomestable
     WHERE ano >= 1950
-    GROUP BY nome, CONCAT(SUBSTR(CAST(ano AS VARCHAR), 1, 3), '0') 
+    GROUP BY nome, FLOOR(ano / 10) * 10
 )
 
 SELECT 
@@ -78,6 +78,7 @@ SELECT
 FROM rankingtable 
 WHERE ranking IN (1, 2, 3) 
 ORDER BY decada, posicao;
+
 ```
 
 <img src="exercicios/query.png" alt="Texto Alternativo" width="800">
