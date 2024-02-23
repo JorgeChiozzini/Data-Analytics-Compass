@@ -12,19 +12,19 @@
 
 ### Cursos e certificados
 
-- [AWS Skill Builder - Data Analytics Fundamentals (Portuguese)](certificados/DataAnalytics%20Fundamentals.png)
-- [AWS Partner: Data Analytics on AWS (Business) (Portuguese)](certificados)
+- [AWS Skill Builder - Data Analytics Fundamentals](certificados/DataAnalytics%20Fundamentals.png)
+- [AWS Partner: Data Analytics on AWS (Business)](certificados/Data%20Analytics%20on%20AWS.png)
 - [AWS Skill Builder - Introduction to Amazon Kinesis Streams](certificados)
 - [AWS Skill Builder - Introduction to Amazon Kinesis Analytics](certificados)
-- [AWS Skill Builder - Introduction to Amazon Elastic MapReduce (EMR) (Portuguese)](certificados)
-- [AWS Skill Builder - Introduction to Amazon Athena (Portuguese)](certificados)
-- [AWS Skill Builder - Introduction to Amazon Quicksight (Portuguese)](certificados)
+- [AWS Skill Builder - Introduction to Amazon Elastic MapReduce (EMR)](certificados)
+- [AWS Skill Builder - Introduction to Amazon Athena](certificados)
+- [AWS Skill Builder - Introduction to Amazon Quicksight](certificados)
 - [AWS Skill Builder - Introduction to AWS IoT Analytics](certificados)
 - [AWS Skill Builder - Getting Started with Amazon Redshift](certificados)
-- [AWS Skill Builder - Deep Dive into Concepts and Tools for Analyzing Streaming Data (Portuguese)](certificados)
-- [AWS Skill Builder - Best Practices for Data Warehousing with Amazon Redshift (Portuguese)](certificados)
-- [AWS Skill Builder - Serverless Analytics (Portuguese)](certificados)
-- [AWS Skill Builder - Why Analytics for Games (Portuguese)](certificados)
+- [AWS Skill Builder - Deep Dive into Concepts and Tools for Analyzing Streaming Data](certificados)
+- [AWS Skill Builder - Best Practices for Data Warehousing with Amazon Redshift](certificados)
+- [AWS Skill Builder - Serverless Analytics](certificados)
+- [AWS Skill Builder - Why Analytics for Games](certificados)
 
 <br>
 
@@ -98,6 +98,6 @@ Criar uma Layer
 
 <img src="exercicios/docker.png" alt="Texto Alternativo" width="800">
 
-Utilizando a Layer
+Utilizando a Layer, resultado
 
 <img src="exercicios/resultado.png" alt="Texto Alternativo" width="800">
