@@ -87,4 +87,17 @@ ORDER BY decada, posicao;
 
 ---
 
-### 
+### AWS Lambda
+
+Criar a função do Lambda, construir o código
+
+<img src="exercicios/func.png" alt="Texto Alternativo" width="800">
+
+Criar uma Layer
+* [minha-camada-pandas](docker/minha-camada-pandas.zip)
+
+<img src="exercicios/docker.png" alt="Texto Alternativo" width="800">
+
+Utilizando a Layer
+
+<img src="exercicios/resultado.png" alt="Texto Alternativo" width="800">
