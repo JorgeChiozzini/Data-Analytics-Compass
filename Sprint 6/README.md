@@ -16,7 +16,7 @@
 - [AWS Partner: Data Analytics on AWS (Business) (Portuguese)](certificados)
 - [AWS Skill Builder - Introduction to Amazon Kinesis Streams](certificados)
 - [AWS Skill Builder - Introduction to Amazon Kinesis Analytics](certificados)
-- [AWS Skill Builder - Introduction to Amazon Elastic MapReduce (EMR) (Portuguese)](ertificados)
+- [AWS Skill Builder - Introduction to Amazon Elastic MapReduce (EMR) (Portuguese)](certificados)
 - [AWS Skill Builder - Introduction to Amazon Athena (Portuguese)](certificados)
 - [AWS Skill Builder - Introduction to Amazon Quicksight (Portuguese)](certificados)
 - [AWS Skill Builder - Introduction to AWS IoT Analytics](certificados)
