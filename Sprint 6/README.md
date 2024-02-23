@@ -95,6 +95,10 @@ Criar a função do Lambda, construir o código
 
 Criar uma Layer
 * [minha-camada-pandas](docker/minha-camada-pandas.zip)
+* [pandas-lambda-layer](docker/pandas-lambda-layer.zip)
+* [numpy-lambda-layer](docker/numpy-lambda-layer.zip)
+
+<img src="exercicios/layers.png" alt="Texto Alternativo" width="800">
 
 <img src="exercicios/docker.png" alt="Texto Alternativo" width="800">
 
