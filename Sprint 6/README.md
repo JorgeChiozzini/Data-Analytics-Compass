@@ -42,6 +42,8 @@ Explorar as capacidades do serviço AWS S3.  Nos passos que seguem, você será 
 
 Criar um bucket e habilitar hospedagem de site estático, editar as configurações do Bloqueio de acesso público, adicionar política de bucket que torna o conteúdo do bucket publicamente disponível, configurar um documento de índice   
 
+<img src="exercicios/politica.png" alt="Texto Alternativo" width="800">
+
 <img src="exercicios/bucket.png" alt="Texto Alternativo" width="800">
 
 Testar o endpoint do site    
@@ -53,6 +55,8 @@ Testar o endpoint do site
 ### AWS Athena
 
 Configurar Athena, criar um banco de dados, criar uma tabela
+
+<img src="exercicios/table.png" alt="Texto Alternativo" width="800">
 
 <img src="exercicios/queries.png" alt="Texto Alternativo" width="800">
 
@@ -94,6 +98,7 @@ Criar a função do Lambda, construir o código
 <img src="exercicios/func.png" alt="Texto Alternativo" width="800">
 
 Criar uma Layer
+* [dockerfile](docker/dockerfile)
 * [minha-camada-pandas](docker/minha-camada-pandas.zip)
 * [pandas-lambda-layer](docker/pandas-lambda-layer.zip)
 * [numpy-lambda-layer](docker/numpy-lambda-layer.zip)
