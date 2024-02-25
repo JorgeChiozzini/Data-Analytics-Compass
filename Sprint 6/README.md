@@ -14,17 +14,17 @@
 
 - [AWS Skill Builder - Data Analytics Fundamentals](certificados/DataAnalytics%20Fundamentals.png)
 - [AWS Partner: Data Analytics on AWS (Business)](certificados/Data%20Analytics%20on%20AWS.png)
-- [AWS Skill Builder - Introduction to Amazon Kinesis Streams](certificados)
-- [AWS Skill Builder - Introduction to Amazon Kinesis Analytics](certificados)
-- [AWS Skill Builder - Introduction to Amazon Elastic MapReduce (EMR)](certificados)
-- [AWS Skill Builder - Introduction to Amazon Athena](certificados)
-- [AWS Skill Builder - Introduction to Amazon Quicksight](certificados)
-- [AWS Skill Builder - Introduction to AWS IoT Analytics](certificados)
+- [AWS Skill Builder - Introduction to Amazon Kinesis Streams](certificados/Introduction%20to%20Amazon%20Kinesis%20Streams.png)
+- [AWS Skill Builder - Introduction to Amazon Kinesis Analytics](certificados/Introduction%20to%20Amazon%20Kinesis%20Analytics.png)
+- [AWS Skill Builder - Introduction to Amazon Elastic MapReduce (EMR)](certificados/Introduction%20to%20Amazon%20Elastic%20MapReduce.png)
+- [AWS Skill Builder - Introduction to Amazon Athena](certificados/Introduction%20to%20Amazon%20Athena.png)
+- [AWS Skill Builder - Introduction to Amazon Quicksight](certificados/Introduction%20to%20Amazon%20Quicksight.png)
+- [AWS Skill Builder - Introduction to AWS IoT Analytics](certificados/Introduction%20to%20AWS%20loT%20Analytics.png)
 - [AWS Skill Builder - Getting Started with Amazon Redshift](certificados)
 - [AWS Skill Builder - Deep Dive into Concepts and Tools for Analyzing Streaming Data](certificados)
 - [AWS Skill Builder - Best Practices for Data Warehousing with Amazon Redshift](certificados)
 - [AWS Skill Builder - Serverless Analytics](certificados)
-- [AWS Skill Builder - Why Analytics for Games](certificados)
+- [AWS Skill Builder - Why Analytics for Games](certificados/Why%20Analytics%20for%20Games.png)
 
 <br>
 
