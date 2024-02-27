@@ -44,10 +44,10 @@ Inspirados pelo método SCRUM, organizamos os ciclos de estudos em sprints, guia
 
 
 ### 5. [Sprint 5](Sprint%205/README.md)
-- [x] Computação em núvem (AWS)
+- [x] AWS Skill Builder
 
 ### 6. [Sprint 6](Sprint%206/README.md)
-- [ ] Computação em núvem (AWS)
+- [ ] AWS Skill Builder
 - [x] Laboratório 
 
 ### 7. [Sprint 7](Sprint%207/README.md)
@@ -56,7 +56,7 @@ Inspirados pelo método SCRUM, organizamos os ciclos de estudos em sprints, guia
 - [ ] Exercício
 
 ### 8. [Sprint 8](Sprint%208/README.md)
-- [ ] Apache Spark Batch
+- [ ] AWS - Tutoriais Técnicos - Analytics
 - [ ] Exercício 
 
 ### 9. [Sprint 9](Sprint%209/README.md)

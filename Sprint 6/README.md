@@ -20,10 +20,10 @@
 - [AWS Skill Builder - Introduction to Amazon Athena](certificados/Introduction%20to%20Amazon%20Athena.png)
 - [AWS Skill Builder - Introduction to Amazon Quicksight](certificados/Introduction%20to%20Amazon%20Quicksight.png)
 - [AWS Skill Builder - Introduction to AWS IoT Analytics](certificados/Introduction%20to%20AWS%20loT%20Analytics.png)
-- [AWS Skill Builder - Getting Started with Amazon Redshift](certificados)
+- [AWS Skill Builder - Getting Started with Amazon Redshift](certificados/Getting%20Started%20with%20Amazon%20Redshift.png)
 - [AWS Skill Builder - Deep Dive into Concepts and Tools for Analyzing Streaming Data](certificados)
 - [AWS Skill Builder - Best Practices for Data Warehousing with Amazon Redshift](certificados)
-- [AWS Skill Builder - Serverless Analytics](certificados)
+- [AWS Skill Builder - Serverless Analytics](certificados/Serverless%20Analytics.png)
 - [AWS Skill Builder - Why Analytics for Games](certificados/Why%20Analytics%20for%20Games.png)
 
 <br>
