@@ -47,7 +47,7 @@ Inspirados pelo método SCRUM, organizamos os ciclos de estudos em sprints, guia
 - [x] AWS Skill Builder
 
 ### 6. [Sprint 6](Sprint%206/README.md)
-- [ ] AWS Skill Builder
+- [x] AWS Skill Builder
 - [x] Laboratório 
 
 ### 7. [Sprint 7](Sprint%207/README.md)
