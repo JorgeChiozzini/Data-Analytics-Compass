@@ -15,13 +15,21 @@
 - [Hadoop, MapReduce for Big Data problems](certificados/hadoop.png)
 - [Formação Spark com Pyspark](certificados)
 
+### Leitura
+- [Arquitetura Lambda, ETL/ELT, Bibliotecas Python NumPy e Pandas](certificados/DA-ETL-Pandas-NumPy.pdf)
+- [Apache Hadoop e Apache Spark](certificados/DA-Apache+Hadoop+e+Apache+Spark.pdf)
 
 <br>
 
 <a id="tarefa"></a>
 ## 📝   tarefa
 
-### tarefa
+### Python com Pandas e Numpy
+- [actors.csv](evidencias/actors.csv)
+- [Tarefa 1 .ipynb - Respostas](evidencias/Tarefa1.ipynb)
+
+### Apache Spark - Contador de Palavras
+
 
 <br>
 
