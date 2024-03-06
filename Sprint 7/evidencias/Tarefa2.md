@@ -84,6 +84,14 @@ $ docker cp 9a1c9f8e76b5:/home/jovyan/output.txt .
 
 - [output.txt](output.txt)
 
+```
+$ docker exec -it e7075b2a475d bash
+```
+```
+spark-submit WordCount.py 
+```
+
+
 <img src="terminal.png" alt="Texto Alternativo" width="1000">
 
 
