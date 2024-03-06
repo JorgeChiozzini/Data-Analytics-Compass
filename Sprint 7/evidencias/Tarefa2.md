@@ -12,7 +12,7 @@
    1.2 - Criar um container a partir da imagem.
 
    ```bash
-   $ docker run -it -p 8888:8888 -v jupyter/all-spark-notebook
+   $ docker run -it -p 8888:8888 jupyter/all-spark-notebook
    ```
    <img src="container.png" alt="Texto Alternativo" width="800">
 
