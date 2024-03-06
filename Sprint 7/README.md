@@ -26,11 +26,11 @@
 
 ### Python com Pandas e Numpy
 - [actors.csv](evidencias/actors.csv)
-- [Tarefa 1 .ipynb - Respostas](evidencias/Tarefa1.ipynb)
+- [Tarefa 1 - Resultado](evidencias/Tarefa1.ipynb)
 
 ### Apache Spark - Contador de Palavras
-
-
+- [Tarefa 2 - Resultado](evidencias/Tarefa2.md)
+- [output.txt](evidencias/output.txt)
 <br>
 
 <a id="desafio"></a>
