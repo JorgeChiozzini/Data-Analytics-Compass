@@ -1,0 +1,11 @@
+FROM python:3
+
+WORKDIR /Sprint%207/desafio/app
+
+COPY . .
+
+RUN pip install boto3
+
+CMD ["s3_uploader.py"]
+
+ENTRYPOINT ["python3"]
