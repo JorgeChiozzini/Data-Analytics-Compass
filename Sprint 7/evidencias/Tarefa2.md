@@ -38,7 +38,6 @@ $ docker cp README.md 9a1c9f8e76b5:/home/jovyan
 ```python
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import explode, lower, trim, regexp_replace
-from pyspark.sql import functions as F
 
 # Inicia a sessão Spark
 spark = SparkSession.builder.appName('WordCount').getOrCreate()
@@ -49,7 +48,7 @@ arquivo = spark.read.text("README.md")
 # Utiliza Spark SQL para extrair palavras
 arquivo.createOrReplaceTempView("arquivo_view")
 palavras = spark.sql("""
-    SELECT explode(split(lower(trim(regexp_replace(value, '[^a-zA-Z ]', ''))), ' ')) as palavra
+    SELECT explode(split(lower(trim(regexp_replace(value, '[^a-zA-Záéíóúâêîôûãõäëïöüàèìòùçü& ]', ''))), ' ')) as palavra
     FROM arquivo_view
     WHERE trim(value) != ''
 """)
