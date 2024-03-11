@@ -1,6 +1,6 @@
 FROM python:3
 
-WORKDIR /Sprint%207/desafio/app
+WORKDIR /Sprint%207/desafio/
 
 COPY . .
 
