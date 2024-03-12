@@ -55,8 +55,6 @@
 
 A ingestão dos arquivos CSV será realizada no Bucket Amazon S3 RAW Zone. Nesta etapa do desafio, é necessário construir um código Python que será executado dentro de um container Docker para carregar os dados locais dos arquivos para a nuvem. O processo utilizará principalmente a biblioteca boto3 para a ingestão via batch, gerando arquivos CSV.
 
-**Perguntas dessa tarefa:**
-
 1. **Implementar código Python:**
     - Ler os 2 arquivos (filmes e séries) no formato CSV inteiros, ou seja, sem filtrar os dados.
     - Utilizar a biblioteca boto3 para carregar os dados para a AWS.
@@ -75,6 +73,7 @@ A ingestão dos arquivos CSV será realizada no Bucket Amazon S3 RAW Zone. Nesta
         - `2022/05/02` é a data de processamento separada por ano/mês/dia.
         - `movies.csv` ou `series.csv` é o nome do arquivo.
 
+<br>
 
 - [Resultado - s3_uploader.py](desafio/s3_uploader.py)
 
@@ -87,7 +86,9 @@ A ingestão dos arquivos CSV será realizada no Bucket Amazon S3 RAW Zone. Nesta
 ```
 $ docker build -t meu_container .      
 ```
-<img src="build.png" alt="Texto Alternativo" width="1000"> 
+<img src="evidencias/build.png" alt="Texto Alternativo" width="800"> 
+
+<br>
 
 3. **Executar localmente o container Docker para realizar a carga dos dados ao S3.**
 
@@ -97,9 +98,9 @@ $ docker build -t meu_container .
 ```
 $ docker run -it -v /Users/jorgechiozzini/Desktop/Workspace/Data-Analytics-Compass/Sprint%207/desafio/dados:/root/app/dados --env-file .env meu_container 
 ```
-<img src="sucess.png" alt="Texto Alternativo" width="1000">
+<img src="evidencias/sucess.png" alt="Texto Alternativo" width="800">
 
-<img src="movies.png" alt="Texto Alternativo" width="1000">
+<img src="evidencias/movies.png" alt="Texto Alternativo" width="800">
 
-<img src="series.png" alt="Texto Alternativo" width="1000">
+<img src="evidencias/series.png" alt="Texto Alternativo" width="800">
 

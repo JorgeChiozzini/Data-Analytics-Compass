@@ -52,8 +52,8 @@ Inspirados pelo método SCRUM, organizamos os ciclos de estudos em sprints, guia
 
 ### 7. [Sprint 7](Sprint%207/README.md)
 - [x] Apache Hadoop
-- [ ] Apache Spark
-- [ ] Exercício
+- [x] Apache Spark
+- [x] Exercício
 
 ### 8. [Sprint 8](Sprint%208/README.md)
 - [ ] AWS - Tutoriais Técnicos - Analytics
