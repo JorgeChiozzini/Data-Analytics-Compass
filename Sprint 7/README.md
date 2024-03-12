@@ -49,21 +49,57 @@
 ### Tarefa: Desafio Parte 1 - ETL
 
 
-Instruções da tarefa
+**Instruções da Tarefa**
 
-Ingestão Batch: a ingestão dos arquivos CSV em Bucket Amazon S3 RAW Zone. Nesta etapa do desafio deve ser construído um código Python que será executado dentro de um container Docker para carregar os dados locais dos arquivos para a nuvem. Nesse caso utilizaremos, principalmente, as lib boto3 como parte do processo de ingestão via batch para geração de arquivo (CSV).
+**Ingestão Batch:**
 
-Perguntas dessa tarefa
+A ingestão dos arquivos CSV será realizada no Bucket Amazon S3 RAW Zone. Nesta etapa do desafio, é necessário construir um código Python que será executado dentro de um container Docker para carregar os dados locais dos arquivos para a nuvem. O processo utilizará principalmente a biblioteca boto3 para a ingestão via batch, gerando arquivos CSV.
 
-1. Implementar código Python:
-- ler os 2 arquivos (filmes e series) no formato CSV inteiros, ou seja, sem filtrar os dados
-- utilizar a lib boto3 para carregar os dados para a AWS
-- acessar a AWS e grava no S3, no bucket definido com RAW Zone
-- no momento da gravação dos dados deve-se considerar o padrão: <nome do bucket>\<camada de armazenamento>\<origem do dado>\<formato do dado>\<especificação do dado>\<data de processamento separada por ano\mes\dia>\<arquivo>
-Por exemplo:
-S3:\\data-lake-do-fulano\Raw\Local\CSV\Movies\2022\05\02\movies.csv
-S3:\\data-lake-do-fulano\Raw\Local\CSV\Series\2022\05\02\series.csv
+**Perguntas dessa tarefa:**
 
-2. Criar container Docker com um volume para armazenar os arquivos CSV e executar processo Python implementado
+1. **Implementar código Python:**
+    - Ler os 2 arquivos (filmes e séries) no formato CSV inteiros, ou seja, sem filtrar os dados.
+    - Utilizar a biblioteca boto3 para carregar os dados para a AWS.
+    - Acessar a AWS e gravar no S3, no bucket definido como RAW Zone.
+    - No momento da gravação dos dados, considerar o padrão:
+        ```
+        S3://data-lake-do-fulano/Raw/Local/CSV/Movies/2022/05/02/movies.csv
+        S3://data-lake-do-fulano/Raw/Local/CSV/Series/2022/05/02/series.csv
+        ```
+        Onde:
+        - `data-lake-do-fulano` é o nome do bucket.
+        - `Raw` é a camada de armazenamento.
+        - `Local` é a origem do dado.
+        - `CSV` é o formato do dado.
+        - `Movies` ou `Series` são as especificações do dado.
+        - `2022/05/02` é a data de processamento separada por ano/mês/dia.
+        - `movies.csv` ou `series.csv` é o nome do arquivo.
 
-3. Executar localmente o container docker para realizar a carga dos dados ao S3
+
+- [Resultado - s3_uploader.py](desafio/s3_uploader.py)
+
+<br>
+
+2. **Criar container Docker com um volume para armazenar os arquivos CSV e executar processo Python implementado.**
+
+- [Resultado - dockerfile](desafio/dockerfile)
+
+```
+$ docker build -t meu_container .      
+```
+<img src="build.png" alt="Texto Alternativo" width="1000"> 
+
+3. **Executar localmente o container Docker para realizar a carga dos dados ao S3.**
+
+- [dados](desafio/dados/dados.zip)
+- [.env](desafio/.env)
+
+```
+$ docker run -it -v /Users/jorgechiozzini/Desktop/Workspace/Data-Analytics-Compass/Sprint%207/desafio/dados:/root/app/dados --env-file .env meu_container 
+```
+<img src="sucess.png" alt="Texto Alternativo" width="1000">
+
+<img src="movies.png" alt="Texto Alternativo" width="1000">
+
+<img src="series.png" alt="Texto Alternativo" width="1000">
+
