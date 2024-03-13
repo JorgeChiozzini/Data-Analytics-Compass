@@ -72,10 +72,10 @@ max_male_year = (
 
 print("Nome feminino com mais registros:", max_female_name["nome"],
       "com", max_female_name["max_total"],
-      "registros em", max_female_year)
+      "ano", max_female_year)
 
 print("Nome masculino com mais registros:", max_male_name["nome"],
       "com", max_male_name["max_total"],
-      "registros em", max_male_year)
+      "ano", max_male_year)
 
 job.commit()

@@ -14,7 +14,6 @@ spark = glueContext.spark_session
 job = Job(glueContext)
 job.init(args['JOB_NAME'], args)
 
-# Passo 1: Ler o arquivo nomes.csv no S3
 source_file = args['S3_INPUT_PATH']
 df = glueContext.create_dynamic_frame.from_options(
     "s3", 
