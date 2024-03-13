@@ -14,7 +14,7 @@
 
 ### Cursos e certificados
 - [Hadoop, MapReduce for Big Data problems](certificados/hadoop.png)
-- [Formação Spark com Pyspark](certificados)
+- [Formação Spark com Pyspark](certificados/Spark.jpeg)
 
 ### Leitura
 - [Arquitetura Lambda, ETL/ELT, Bibliotecas Python NumPy e Pandas](certificados/DA-ETL-Pandas-NumPy.pdf)
