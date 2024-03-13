@@ -84,3 +84,5 @@ O particionamento deverá ser realizado pelas colunas sexo e ano (nesta ordem)
 ## 6. Criando novo crawler
 
 <img src="craw.png" alt="Texto Alternativo" width="1000">  
+
+<img src="craw2.png" alt="Texto Alternativo" width="1000">  
