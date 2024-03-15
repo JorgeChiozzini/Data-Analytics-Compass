@@ -38,7 +38,7 @@ resp = DynamicFrame.fromDF(df, glueContext, "resp")
 glueContext.write_dynamic_frame.from_options(
     frame = resp,
     connection_type = "s3",
-    connection_options = {"path": target_path},
+    connection_options={"path": target_path, "partitionKeys": ["sexo", "ano"]},  
     format = "json")
 
 job.commit()

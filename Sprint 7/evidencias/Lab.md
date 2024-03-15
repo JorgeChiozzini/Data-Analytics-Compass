@@ -75,7 +75,7 @@ O particionamento deverá ser realizado pelas colunas sexo e ano (nesta ordem)
 
 <img src="end.png" alt="Texto Alternativo" width="1000">  
 
-<img src="json.png" alt="Texto Alternativo" width="1000">  
+<img src="end2.png" alt="Texto Alternativo" width="1000">  
 
 - [write.py](write.py)
 
