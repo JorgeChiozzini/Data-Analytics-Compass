@@ -106,8 +106,6 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
     Informação adicional:
     Podemos utilizar os serviços  CloudWatch Event ou Amazon EventBridge para agendar extrações periódicas de dados no Twitter de forma automática.
 
-    **Sobre minha decisão: Optei por complementar apenas as informações dos filmes de gênero Drama que foram lançados nos últimos 2 anos e encontrados no input CSV da etapa 1, por ser o tema de minha Squad, abaixo segue o código:**
-
     - [Código usado na Lambda - lambda_handler.py](etapa-2/evidencias/lambda_handler.py) 
 
     <br>
@@ -115,8 +113,6 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
     Execution results da Lambda:
 
     <img src="etapa-2/evidencias/fuk.png" alt="Texto Alternativo" width="800">
-
-    - [Output - filmes.json](etapa-2/evidencias/filmes.json) 
     
     <br>
 

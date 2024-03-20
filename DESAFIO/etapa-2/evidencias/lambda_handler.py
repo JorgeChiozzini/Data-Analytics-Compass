@@ -29,61 +29,72 @@ def lambda_handler(event, context):
     # Filtrar os filmes de Drama ou Romance lançados nos últimos 10 anos
     ano_atual = datetime.now().year
     filmes_filtrados = movies_imdb[
-        (movies_imdb['genero'].str.contains('Drama|Romance', regex=True, na=False)) &
+        (movies_imdb['genero'].str.contains('Drama', regex=True, na=False)) &
         (~movies_imdb['anoLancamento'].isna()) & 
-        (movies_imdb['anoLancamento'].dt.year >= ano_atual - 10)
+        (movies_imdb['anoLancamento'].dt.year >= ano_atual - 3)
     ]
 
-    # Inicializar uma lista para armazenar os resultados de cada filme
-    resultados = []
+    # Dividir os filmes filtrados em lotes de 100 resultados
+    resultados_por_lote = [filmes_filtrados[i:i+100] for i in range(0, len(filmes_filtrados), 100)]
 
-    # Iterar sobre cada filme filtrado
-    for index, row in filmes_filtrados.iterrows():
-        # Obter o ID do filme
-        movie_id = row['id']
-    
-        # Construir a URL da chamada à API para obter os IDs externos do filme
-        url_external_ids = f"https://api.themoviedb.org/3/movie/{movie_id}/external_ids?api_key={API_KEY}&language=pt-BR"
+    # Inicializar contador de arquivos
+    arquivo_num = 1
 
-        # Fazer a chamada à API para obter os IDs externos do filme
-        response_external_ids = requests.get(url_external_ids)
-        data_external_ids = response_external_ids.json()
+    # Iterar sobre cada lote de resultados
+    for lote in resultados_por_lote:
+        # Inicializar uma lista para armazenar os resultados de cada lote
+        resultados = []
 
-        # Verificar se a chamada foi bem-sucedida
-        if response_external_ids.status_code == 200:
-            # Verificar se há um ID IMDb retornado
-            if 'imdb_id' in data_external_ids:
-                # Obter o ID IMDb do filme
-                imdb_id = data_external_ids['imdb_id']
+        # Iterar sobre cada filme no lote
+        for index, row in lote.iterrows():
+            # Obter o ID do filme
+            movie_id = row['id']
+        
+            # Construir a URL da chamada à API para obter os IDs externos do filme
+            url_external_ids = f"https://api.themoviedb.org/3/movie/{movie_id}/external_ids?api_key={API_KEY}&language=pt-BR"
 
-                # Construir a URL da chamada à API para obter detalhes do filme
-                url_movie_details = f"https://api.themoviedb.org/3/movie/{imdb_id}?api_key={API_KEY}&language=pt-BR&external_source=imdb_id"
+            # Fazer a chamada à API para obter os IDs externos do filme
+            response_external_ids = requests.get(url_external_ids)
+            data_external_ids = response_external_ids.json()
 
-                # Fazer a chamada à API para obter detalhes do filme
-                response_movie_details = requests.get(url_movie_details)
-                data_movie_details = response_movie_details.json()
+            # Verificar se a chamada foi bem-sucedida
+            if response_external_ids.status_code == 200:
+                # Verificar se há um ID IMDb retornado
+                if 'imdb_id' in data_external_ids:
+                    # Obter o ID IMDb do filme
+                    imdb_id = data_external_ids['imdb_id']
 
-                # Verificar se a chamada foi bem-sucedida
-                if response_movie_details.status_code == 200:
-                    # Adicionar os detalhes do filme à lista de resultados
-                    resultados.append(data_movie_details)
+                    # Construir a URL da chamada à API para obter detalhes do filme
+                    url_movie_details = f"https://api.themoviedb.org/3/movie/{imdb_id}?api_key={API_KEY}&language=pt-BR&external_source=imdb_id"
+
+                    # Fazer a chamada à API para obter detalhes do filme
+                    response_movie_details = requests.get(url_movie_details)
+                    data_movie_details = response_movie_details.json()
+
+                    # Verificar se a chamada foi bem-sucedida
+                    if response_movie_details.status_code == 200:
+                        # Adicionar os detalhes do filme à lista de resultados
+                        resultados.append(data_movie_details)
+                    else:
+                        print(f"Falha na solicitação para obter detalhes do filme {movie_id}.")
                 else:
-                    print(f"Falha na solicitação para obter detalhes do filme {movie_id}.")
+                    print(f"ID IMDb não encontrado nos IDs externos do filme {movie_id}.")
             else:
-                print(f"ID IMDb não encontrado nos IDs externos do filme {movie_id}.")
-        else:
-            print(f"Falha na solicitação para obter IDs externos do filme {movie_id}. Código de status:", response_external_ids.status_code)
+                print(f"Falha na solicitação para obter IDs externos do filme {movie_id}. Código de status:", response_external_ids.status_code)
 
-    # Converter os resultados para JSON
-    json_data = json.dumps(resultados, indent=4)
+        # Converter os resultados do lote para JSON
+        json_data = json.dumps(resultados, indent=4)
 
-    # Formata o nome do arquivo com base na data atual e um contador
-    data_atual = datetime.now().strftime("%Y/%m/%d")
-    file_name = f'Raw/TMDB/JSON/{data_atual}/filmes.json'
+        # Formata o nome do arquivo com base na data atual, contador e lote
+        data_atual = datetime.now().strftime("%Y/%m/%d")
+        file_name = f'Raw/TMDB/JSON/{data_atual}/filmes_{arquivo_num}.json'
 
-    # Enviar o arquivo JSON para o Amazon S3
-    s3_client.put_object(Body=json_data, Bucket=BUCKET, Key=file_name)
+        # Enviar o arquivo JSON para o Amazon S3
+        s3_client.put_object(Body=json_data, Bucket=BUCKET, Key=file_name)
 
-    print("Resultados salvos com sucesso no Amazon S3.")
+        print(f"Resultados do lote {arquivo_num} salvos com sucesso no Amazon S3.")
 
-    
+        # Incrementar o contador de arquivos
+        arquivo_num += 1
+
+    print("Todos os resultados foram salvos com sucesso no Amazon S3.")
