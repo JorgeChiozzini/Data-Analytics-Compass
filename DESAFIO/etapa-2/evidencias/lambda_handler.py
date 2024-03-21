@@ -26,7 +26,7 @@ def lambda_handler(event, context):
     # Converter a coluna 'anoLancamento' para o tipo de dados datetime
     movies_imdb['anoLancamento'] = pd.to_datetime(movies_imdb['anoLancamento'], errors='coerce')
 
-    # Filtrar os filmes de Drama ou Romance lançados nos últimos 10 anos
+    # Filtrar os filmes de Drama lançados nos últimos 3 anos
     ano_atual = datetime.now().year
     filmes_filtrados = movies_imdb[
         (movies_imdb['genero'].str.contains('Drama', regex=True, na=False)) &

@@ -16,7 +16,9 @@ Nesta atividades iremos criar um processo de extração de dados da API do TMDB 
 
 **Etapa 1 -  Criando sua conta no TMDB**
 
-<img src="evidencias/user.png" alt="Texto Alternativo" width="800">
+<img src="evidencias/user.png" alt="Texto Alternativo" width="800">  
+
+<br>
 
 **Etapa 2 - Testando rapidamente as credenciais e a biblioteca**
 
@@ -25,11 +27,12 @@ Nesta atividades iremos criar um processo de extração de dados da API do TMDB 
 <br>
 
 <a id="desafio"></a>
+
 ## 🎯  Desafio 
 
 ### Desafio Parte II - Ingestão de dados do TMBD
 
-- [Resultado](/DESAFIO/README.md)
+- [Resultado](/DESAFIO/README.md#desafio-parte-ii---ingestão-de-dados-do-tmbd)
 
 <br>
 

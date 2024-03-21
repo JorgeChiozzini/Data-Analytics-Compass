@@ -78,17 +78,17 @@ $ docker run -it -v /Users/jorgechiozzini/Desktop/Workspace/Data-Analytics-Compa
 Nesta etapa do desafio capturaremos dados do TMDB, utilizando AWS Lambda para realizar chamadas de API. Os dados coletados devem ser persistidos no Amazon S3, na camada RAW, mantendo o formato da origem (JSON).  
 O objetivo desta etapa é complementar os dados dos Filmes e Series, carregados na Etapa 1, com dados oriundos do TMDB. Opcionalmente, você pode complementar com mais dados de outra API de sua escolha.
 
+- [**Relatório sobre minha proposta**](etapa-2/evidencias/minhaProposta.md) 
+
 **Perguntas dessa tarefa**
 
 Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
 1.  Criar nova camada (layer) no AWS Lambda para as libs necessárias à ingestão de dados.
 
     Layer:
-
     <img src="etapa-2/evidencias/layer.png" alt="Texto Alternativo" width="800">
 
-    api_key do TMDB em Environment variables e localmente no apikey.py 
-
+    api_key do TMDB em Environment variables e localmente no apikey.py: 
     <img src="etapa-2/evidencias/api_key.png" alt="Texto Alternativo" width="400">
 
     - [apikey.py](etapa-2/evidencias/apikey.py)   
@@ -111,13 +111,13 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
     <br>
 
     Execution results da Lambda:
-
     <img src="etapa-2/evidencias/fuk.png" alt="Texto Alternativo" width="800">
+
+    - [output lambda](etapa-2/evidencias/output_lambda/) 
     
     <br>
 
     Path:
-
     <img src="etapa-2/evidencias/diretory.png" alt="Texto Alternativo" width="800">
     
     <br>

@@ -1,0 +1,4609 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/1BN7dEPtyX4HH8sNDyY6t1Y3ApB.jpg",
+        "belongs_to_collection": null,
+        "budget": 1065465,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Com\u00e9dia"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 879337,
+        "imdb_id": "tt14598754",
+        "original_language": "pa",
+        "original_title": "\u0a39\u0a4c\u0a02\u0a38\u0a32\u0a3e \u0a30\u0a71\u0a16",
+        "overview": "",
+        "popularity": 4.318,
+        "poster_path": "/2qyTW8y0GR2LNgSbPUZfbbxXPyy.jpg",
+        "production_companies": [
+            {
+                "id": 165520,
+                "logo_path": null,
+                "name": "Storytime Productions",
+                "origin_country": "IN"
+            },
+            {
+                "id": 165521,
+                "logo_path": null,
+                "name": "Thind Motion Films",
+                "origin_country": ""
+            },
+            {
+                "id": 75199,
+                "logo_path": null,
+                "name": "White Hill Production",
+                "origin_country": "CA"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "release_date": "2021-10-15",
+        "revenue": 7100000,
+        "runtime": 145,
+        "spoken_languages": [
+            {
+                "english_name": "Punjabi",
+                "iso_639_1": "pa",
+                "name": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\u0a39\u0a4c\u0a02\u0a38\u0a32\u0a3e \u0a30\u0a71\u0a16",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l4ftWu1AMW7mUiOyMFKHn29Kmmt.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 28,
+                "name": "A\u00e7\u00e3o"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 925876,
+        "imdb_id": "tt14598840",
+        "original_language": "ta",
+        "original_title": "\u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0ba9\u0bcd",
+        "overview": "",
+        "popularity": 2.005,
+        "poster_path": "/3IbYPctKq2aftC2yXmM9aC6Z42V.jpg",
+        "production_companies": [
+            {
+                "id": 167710,
+                "logo_path": null,
+                "name": "Benchmark Films",
+                "origin_country": "IN"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "release_date": "2022-01-13",
+        "revenue": 0,
+        "runtime": 115,
+        "spoken_languages": [
+            {
+                "english_name": "Tamil",
+                "iso_639_1": "ta",
+                "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0ba9\u0bcd",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lsMOP1kSFDI7HjJXljiMgBiFjz4.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 936273,
+        "imdb_id": "tt14598876",
+        "original_language": "en",
+        "original_title": "Udd Ja Re",
+        "overview": "",
+        "popularity": 0.6,
+        "poster_path": "/6OpOKkUQhJPJsQTkmKPd8EtsRbz.jpg",
+        "production_companies": [
+            {
+                "id": 136176,
+                "logo_path": null,
+                "name": "Pandey Motion Pictures",
+                "origin_country": "IN"
+            }
+        ],
+        "production_countries": [],
+        "release_date": "2022-01-22",
+        "revenue": 0,
+        "runtime": 83,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "Udd Ja Re",
+        "video": true,
+        "vote_average": 2.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 899199,
+        "imdb_id": "tt14604446",
+        "original_language": "ko",
+        "original_title": "\uc7a5\ub18d",
+        "overview": "",
+        "popularity": 2.403,
+        "poster_path": "/lyiw72N5vpjkBbesYeD76m5Tg5B.jpg",
+        "production_companies": [
+            {
+                "id": 172176,
+                "logo_path": null,
+                "name": "9taleskorea",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "release_date": "2021-02-18",
+        "revenue": 0,
+        "runtime": 0,
+        "spoken_languages": [
+            {
+                "english_name": "Korean",
+                "iso_639_1": "ko",
+                "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\uc7a5\ub18d",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Com\u00e9dia"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 1094935,
+        "imdb_id": "tt14605066",
+        "original_language": "el",
+        "original_title": "\u039a\u03b1\u03b8\u03b1\u03c1\u03c4\u03ae\u03c1\u03b9\u03bf",
+        "overview": "",
+        "popularity": 0.689,
+        "poster_path": "/kRnGLzkS1eCPwWqPTpgZuJsVcPB.jpg",
+        "production_companies": [
+            {
+                "id": 89191,
+                "logo_path": null,
+                "name": "Horme Pictures",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GR",
+                "name": "Greece"
+            }
+        ],
+        "release_date": "2022-11-10",
+        "revenue": 0,
+        "runtime": 95,
+        "spoken_languages": [
+            {
+                "english_name": "Greek",
+                "iso_639_1": "el",
+                "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\u039a\u03b1\u03b8\u03b1\u03c1\u03c4\u03ae\u03c1\u03b9\u03bf",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mymdrsS14mBblgpz2h5MNV0803t.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 853731,
+        "imdb_id": "tt14605210",
+        "original_language": "ja",
+        "original_title": "\u305d\u3057\u3066\u3001\u30d0\u30c8\u30f3\u306f\u6e21\u3055\u308c\u305f",
+        "overview": "",
+        "popularity": 11.388,
+        "poster_path": "/cGtfIofAjugXoALErSJ9qlTrgvD.jpg",
+        "production_companies": [
+            {
+                "id": 104048,
+                "logo_path": null,
+                "name": "Warner Brothers Studios",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "2021-10-29",
+        "revenue": 0,
+        "runtime": 137,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "\u65e5\u672c\u8a9e"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\u305d\u3057\u3066\u3001\u30d0\u30c8\u30f3\u306f\u6e21\u3055\u308c\u305f",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8sdVuzdNeiXykfUYur0c5leBiAf.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 826702,
+        "imdb_id": "tt14605258",
+        "original_language": "ja",
+        "original_title": "\u7a7a\u767d",
+        "overview": "",
+        "popularity": 4.708,
+        "poster_path": "/IUeriwxPpr6NPKbVpX5siEYe9R.jpg",
+        "production_companies": [
+            {
+                "id": 90125,
+                "logo_path": null,
+                "name": "STAR SANDS",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "2021-09-23",
+        "revenue": 0,
+        "runtime": 107,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "\u65e5\u672c\u8a9e"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\u7a7a\u767d",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 99,
+                "name": "Document\u00e1rio"
+            }
+        ],
+        "homepage": "",
+        "id": 813098,
+        "imdb_id": "tt14609660",
+        "original_language": "da",
+        "original_title": "Klub kranium",
+        "overview": "",
+        "popularity": 0.6,
+        "poster_path": "/w54xN839Rppbuw6kJZU5YlGBEr3.jpg",
+        "production_companies": [
+            {
+                "id": 16439,
+                "logo_path": "/saXOIbS0x4LxBUHQZvuKuoV4tAk.png",
+                "name": "Made in Copenhagen",
+                "origin_country": "DK"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DK",
+                "name": "Denmark"
+            }
+        ],
+        "release_date": "2021-05-08",
+        "revenue": 0,
+        "runtime": 80,
+        "spoken_languages": [
+            {
+                "english_name": "Danish",
+                "iso_639_1": "da",
+                "name": "Dansk"
+            },
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Urdu",
+                "iso_639_1": "ur",
+                "name": "\u0627\u0631\u062f\u0648"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Klub kranium",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/26PIuTE2o92o5yqfXdcUOzWeuTr.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 826704,
+        "imdb_id": "tt14611910",
+        "original_language": "ja",
+        "original_title": "BLUE/\u30d6\u30eb\u30fc",
+        "overview": "",
+        "popularity": 2.277,
+        "poster_path": "/rPd4f3CSfIMvKrpnQfW30gc9kgV.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "2021-04-09",
+        "revenue": 0,
+        "runtime": 107,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "\u65e5\u672c\u8a9e"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "BLUE/\u30d6\u30eb\u30fc",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 1017086,
+        "imdb_id": "tt14617248",
+        "original_language": "ne",
+        "original_title": "\u092a\u094d\u0930\u0915\u093e\u0936",
+        "overview": "",
+        "popularity": 1.266,
+        "poster_path": "/w2gnb8sijpVasHkUqXyxbLx246g.jpg",
+        "production_companies": [
+            {
+                "id": 181194,
+                "logo_path": null,
+                "name": "DAR Movies & Film Industries Pvt. Ltd.",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NP",
+                "name": "Nepal"
+            }
+        ],
+        "release_date": "2022-08-26",
+        "revenue": 0,
+        "runtime": 125,
+        "spoken_languages": [
+            {
+                "english_name": "Nepali",
+                "iso_639_1": "ne",
+                "name": ""
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\u092a\u094d\u0930\u0915\u093e\u0936",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 25000,
+        "genres": [],
+        "homepage": "",
+        "id": 860085,
+        "imdb_id": "tt14617336",
+        "original_language": "en",
+        "original_title": "RUINS",
+        "overview": "",
+        "popularity": 1.005,
+        "poster_path": "/vVvBfQdyaCccPxeEX470nlCIRJk.jpg",
+        "production_companies": [
+            {
+                "id": 158846,
+                "logo_path": null,
+                "name": "Look Around Film",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2020-11-24",
+        "revenue": 0,
+        "runtime": 77,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "RUINS",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [],
+        "homepage": "",
+        "id": 1043415,
+        "imdb_id": "tt14617536",
+        "original_language": "kn",
+        "original_title": "Dwimukha",
+        "overview": "",
+        "popularity": 0.6,
+        "poster_path": null,
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2022-06-06",
+        "revenue": 0,
+        "runtime": 0,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "Dwimukha",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kFlykR6KkwUp1PmXIpV4UxCLhUV.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 756501,
+        "imdb_id": "tt14617622",
+        "original_language": "ko",
+        "original_title": "\uc544\ub4e4\uc758 \uc774\ub984\uc73c\ub85c",
+        "overview": "",
+        "popularity": 5.09,
+        "poster_path": "/oBhVwzUC4WSAXHj4GyqtpyOeS6K.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "release_date": "2021-05-12",
+        "revenue": 0,
+        "runtime": 90,
+        "spoken_languages": [
+            {
+                "english_name": "Korean",
+                "iso_639_1": "ko",
+                "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\uc544\ub4e4\uc758 \uc774\ub984\uc73c\ub85c",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10751,
+                "name": "Fam\u00edlia"
+            }
+        ],
+        "homepage": "",
+        "id": 834284,
+        "imdb_id": "tt14617732",
+        "original_language": "en",
+        "original_title": "Poppy",
+        "overview": "",
+        "popularity": 2.401,
+        "poster_path": "/fjxV05kMKPjazkFI3CC85CRRWVs.jpg",
+        "production_companies": [
+            {
+                "id": 147895,
+                "logo_path": null,
+                "name": "Frontal21",
+                "origin_country": ""
+            },
+            {
+                "id": 181794,
+                "logo_path": null,
+                "name": "Frontal",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "NZ",
+                "name": "New Zealand"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2021-10-01",
+        "revenue": 0,
+        "runtime": 100,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Poppy",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [],
+        "homepage": "",
+        "id": 1010574,
+        "imdb_id": "tt14617914",
+        "original_language": "es",
+        "original_title": "Tierra Santa. El \u00faltimo peregrino",
+        "overview": "",
+        "popularity": 1.108,
+        "poster_path": "/ad2yp2wEh2d185H4V8sChaYoHiU.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2021-05-21",
+        "revenue": 0,
+        "runtime": 0,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "Tierra Santa. El \u00faltimo peregrino",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r6HC6TAy7uHRqdS77MeZOE1Wsb9.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 36,
+                "name": "Hist\u00f3ria"
+            }
+        ],
+        "homepage": "https://www.giros.com.br/portfolio/revolta-dos-males/",
+        "id": 658168,
+        "imdb_id": "tt14618902",
+        "original_language": "pt",
+        "original_title": "Revolta dos Mal\u00eas",
+        "overview": "Salvador, Bahia, janeiro de 1835. Ap\u00f3s mais de uma d\u00e9cada de \u00e1rduo trabalho, Guilhermina, 27, uma escrava de origem mu\u00e7ulmana, finalmente consegue recursos para comprar sua alforria, bem como a de Teresa, 11, sua filha adolescente. Mas, contrariando uma antiga promessa, seu \u201csenhor\u201d, o fazendeiro Souza Velho, se recusa a vender a carta da menina. Quando Pac\u00edfico Licutan, a mais estimada lideran\u00e7a isl\u00e2mica de Salvador, \u00e9 preso pelas autoridades baianas, a comunidade mu\u00e7ulmana entra em estado de ebuli\u00e7\u00e3o e come\u00e7a a articular uma jihad. Em desespero, Guilhermina enxerga no levante a \u00fanica forma de conquistar a liberdade da filha.",
+        "popularity": 1.818,
+        "poster_path": "/cIOpnXEil7KyVlEAd4aqdGXBz3e.jpg",
+        "production_companies": [
+            {
+                "id": 127881,
+                "logo_path": "/1WSisosuuSk1jS2AOdAWmqUw1Nt.png",
+                "name": "Giros Filmes",
+                "origin_country": "BR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BR",
+                "name": "Brazil"
+            }
+        ],
+        "release_date": "2023-09-21",
+        "revenue": 0,
+        "runtime": 83,
+        "spoken_languages": [
+            {
+                "english_name": "Portuguese",
+                "iso_639_1": "pt",
+                "name": "Portugu\u00eas"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Revolta dos Mal\u00eas",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wdZfufTSnz34JcTGc0pXtEcL50P.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10402,
+                "name": "M\u00fasica"
+            }
+        ],
+        "homepage": "",
+        "id": 879753,
+        "imdb_id": "tt14619078",
+        "original_language": "it",
+        "original_title": "My Soul Summer",
+        "overview": "",
+        "popularity": 1.334,
+        "poster_path": "/jW0xf71HhbRbvuTdhatKTEPfr4o.jpg",
+        "production_companies": [
+            {
+                "id": 121145,
+                "logo_path": null,
+                "name": "Bartlebyfilm",
+                "origin_country": "IT"
+            },
+            {
+                "id": 155642,
+                "logo_path": "/xhT6YXpqHdSXGjZ5FeknPhvBXXU.png",
+                "name": "Fidelio",
+                "origin_country": "IT"
+            },
+            {
+                "id": 155990,
+                "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+                "name": "RAI Cinema",
+                "origin_country": "IT"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "release_date": "2022-10-24",
+        "revenue": 0,
+        "runtime": 115,
+        "spoken_languages": [
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "My Soul Summer",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oIcRkYkKFfM2nN6uaWQYeiqkGQi.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 851721,
+        "imdb_id": "tt14620048",
+        "original_language": "it",
+        "original_title": "Takeaway",
+        "overview": "",
+        "popularity": 2.239,
+        "poster_path": "/wfHTuCYMr2ph3vyFjo2YlqJgO4K.jpg",
+        "production_companies": [
+            {
+                "id": 94435,
+                "logo_path": "/Ar1NCTgUdpRgLjwJ92QYcTsZFL6.png",
+                "name": "39Films",
+                "origin_country": "IT"
+            },
+            {
+                "id": 64732,
+                "logo_path": null,
+                "name": "Interzone Pictures",
+                "origin_country": ""
+            },
+            {
+                "id": 14016,
+                "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+                "name": "MiC",
+                "origin_country": "IT"
+            },
+            {
+                "id": 20416,
+                "logo_path": "/jTXzZRiKZt7L4YvVW4DGvqU51RU.png",
+                "name": "Regione Lazio",
+                "origin_country": "IT"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "release_date": "2022-01-20",
+        "revenue": 0,
+        "runtime": 95,
+        "spoken_languages": [
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Takeaway",
+        "video": false,
+        "vote_average": 5.286,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ncDmXn077EDJZaHvut7AAfoibK5.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 36,
+                "name": "Hist\u00f3ria"
+            }
+        ],
+        "homepage": "",
+        "id": 827991,
+        "imdb_id": "tt14620236",
+        "original_language": "en",
+        "original_title": "Hilma",
+        "overview": "",
+        "popularity": 5.164,
+        "poster_path": "/Akc1svle4eI2wLqXI11V3BNtsdc.jpg",
+        "production_companies": [
+            {
+                "id": 108472,
+                "logo_path": "/tFVfsfRFv8sGpX6SvoDvw2nGoeO.png",
+                "name": "Viaplay Group",
+                "origin_country": "SE"
+            },
+            {
+                "id": 124223,
+                "logo_path": null,
+                "name": "Viaplay",
+                "origin_country": "SE"
+            },
+            {
+                "id": 186769,
+                "logo_path": "/3PBzxvictiTdhfxXpmElD80eY47.png",
+                "name": "Viaplay Studios",
+                "origin_country": "SE"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SE",
+                "name": "Sweden"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2022-10-19",
+        "revenue": 0,
+        "runtime": 120,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "Hilma",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cXvp5Bz9AzpKyW9wIYHDuuP3tGw.jpg",
+        "belongs_to_collection": null,
+        "budget": 4800000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 836202,
+        "imdb_id": "tt14622802",
+        "original_language": "fr",
+        "original_title": "Fr\u00e8re et S\u0153ur",
+        "overview": "A hist\u00f3ria gira em torno de um irm\u00e3o e uma irm\u00e3 que est\u00e3o chegando aos cinquenta anos - Alice \u00e9 atriz, Louis era professor e poeta. Eles n\u00e3o se falam mais e se evitam h\u00e1 mais de vinte anos, mas a morte de seus pais os for\u00e7ar\u00e1 a se cruzar.",
+        "popularity": 15.018,
+        "poster_path": "/uKD8FK85gBcRyqclrsDs4oUfLHt.jpg",
+        "production_companies": [
+            {
+                "id": 729,
+                "logo_path": "/hNxGdbddbsDDnEWJ7RNLcGCRSLQ.png",
+                "name": "Why Not Productions",
+                "origin_country": "FR"
+            },
+            {
+                "id": 310,
+                "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+                "name": "CNC",
+                "origin_country": "FR"
+            },
+            {
+                "id": 104,
+                "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+                "name": "Canal+",
+                "origin_country": "FR"
+            },
+            {
+                "id": 75242,
+                "logo_path": "/hrZzmOGhzhv473sIInHtSNwQOhT.png",
+                "name": "Pictanovo",
+                "origin_country": "FR"
+            },
+            {
+                "id": 10611,
+                "logo_path": "/zQ4fGaEnNkWfSzyygXRcUZwPmDG.png",
+                "name": "Cin\u00e9+",
+                "origin_country": "FR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "release_date": "2022-05-20",
+        "revenue": 369419,
+        "runtime": 108,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            },
+            {
+                "english_name": "Hebrew",
+                "iso_639_1": "he",
+                "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Fr\u00e8re et S\u0153ur",
+        "video": false,
+        "vote_average": 4.82,
+        "vote_count": 86
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vjb6xW6lTbwbXYABlpmzlPyk9UL.jpg",
+        "belongs_to_collection": null,
+        "budget": 4000000,
+        "genres": [
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 848526,
+        "imdb_id": "tt14624330",
+        "original_language": "fr",
+        "original_title": "Arsenault & Fils",
+        "overview": "Os Arsenaults s\u00e3o uma fam\u00edlia de ca\u00e7adores, que administram diversas atividades ilegais em uma cidade rural do Canad\u00e1. Enquanto s\u00e3o investigados pelas autoridades locais, eles precisam lidar com a volta do irrespons\u00e1vel filho mais novo.",
+        "popularity": 14.176,
+        "poster_path": "/5CNyDfoMb4bqo6AZs0Y3OOL5oqb.jpg",
+        "production_companies": [
+            {
+                "id": 77187,
+                "logo_path": null,
+                "name": "La Maison de Prod",
+                "origin_country": "CA"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "release_date": "2022-06-17",
+        "revenue": 0,
+        "runtime": 110,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Ca\u00e7adores",
+        "video": false,
+        "vote_average": 6.615,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 80,
+                "name": "Crime"
+            }
+        ],
+        "homepage": "",
+        "id": 847699,
+        "imdb_id": "tt14624430",
+        "original_language": "en",
+        "original_title": "No Lost Love",
+        "overview": "",
+        "popularity": 2.589,
+        "poster_path": "/8k9oJjahUCd5iDw6n7c3y6Foxk7.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2021-07-05",
+        "revenue": 0,
+        "runtime": 83,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "No Lost Love",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iWLaiSUEp5UAcyqdQz0weEaaREQ.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 805050,
+        "imdb_id": "tt14626814",
+        "original_language": "ko",
+        "original_title": "\uc131\uc801\ud45c\uc758 \uae40\ubbfc\uc601",
+        "overview": "",
+        "popularity": 1.567,
+        "poster_path": "/yyQaZly9LMyfZip1ad27PzR5d5o.jpg",
+        "production_companies": [
+            {
+                "id": 201635,
+                "logo_path": null,
+                "name": "Takgu Film",
+                "origin_country": ""
+            },
+            {
+                "id": 201636,
+                "logo_path": null,
+                "name": "HBT",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "release_date": "2022-09-08",
+        "revenue": 0,
+        "runtime": 97,
+        "spoken_languages": [
+            {
+                "english_name": "Korean",
+                "iso_639_1": "ko",
+                "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\uc131\uc801\ud45c\uc758 \uae40\ubbfc\uc601",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5pS2CuYi2SRztTrLyKLPj565fCp.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 805046,
+        "imdb_id": "tt14627004",
+        "original_language": "ko",
+        "original_title": "\ub0ab\uc544\uc6c3",
+        "overview": "",
+        "popularity": 3.567,
+        "poster_path": "/bHYM06VdgmeA1Sqnpl3ynzJBWvu.jpg",
+        "production_companies": [
+            {
+                "id": 119446,
+                "logo_path": "/OtKHwFyTlm5XUFMrWakECpve7T.png",
+                "name": "kth",
+                "origin_country": "KR"
+            },
+            {
+                "id": 6944,
+                "logo_path": "/jx8c0sSDzzORq9HjtGRyFtG289Q.png",
+                "name": "Pancinema",
+                "origin_country": "KR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "KR",
+                "name": "South Korea"
+            }
+        ],
+        "release_date": "2021-06-03",
+        "revenue": 0,
+        "runtime": 107,
+        "spoken_languages": [
+            {
+                "english_name": "Korean",
+                "iso_639_1": "ko",
+                "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\ub0ab\uc544\uc6c3",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vbfaC5B7zaUDjqiDBxDxZspbEQq.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 35,
+                "name": "Com\u00e9dia"
+            }
+        ],
+        "homepage": "https://www.primevideo.com/detail/0T9TNDZSSZSVLGFVPKMBQP4TZ5/ref=atv_dp_share_cu_r",
+        "id": 828483,
+        "imdb_id": "tt14627144",
+        "original_language": "pt",
+        "original_title": "Me Sinto Bem Com Voc\u00ea",
+        "overview": "Cinco histo\u0301rias de amor em tempos de quarentena. Cinco amores de diferentes formatos e origens. Cinco histo\u0301rias sobre a importa\u0302ncia de uma companhia que te fac\u0327a sentir bem em meio ao caos. Pessoas, em meio ao isolamento social, fazendo de tudo para se manter pro\u0301ximas. Um filme sobre conexo\u0303es: virtuais e reais.",
+        "popularity": 2.365,
+        "poster_path": "/b9warWIwUNNKQ6Bn40Us2GvEojj.jpg",
+        "production_companies": [
+            {
+                "id": 154111,
+                "logo_path": null,
+                "name": "DLKTSN",
+                "origin_country": ""
+            },
+            {
+                "id": 154112,
+                "logo_path": null,
+                "name": "Papaki Filmes",
+                "origin_country": ""
+            },
+            {
+                "id": 154113,
+                "logo_path": null,
+                "name": "Seiva Filmes",
+                "origin_country": ""
+            },
+            {
+                "id": 142875,
+                "logo_path": null,
+                "name": "Delicatessen Filmes",
+                "origin_country": "BR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BR",
+                "name": "Brazil"
+            }
+        ],
+        "release_date": "2021-05-20",
+        "revenue": 0,
+        "runtime": 103,
+        "spoken_languages": [
+            {
+                "english_name": "Portuguese",
+                "iso_639_1": "pt",
+                "name": "Portugu\u00eas"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Me Sinto Bem Com Voc\u00ea",
+        "video": false,
+        "vote_average": 7.269,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6gcXySbEdXC9V39chjcJ1ZxOi07.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 37,
+                "name": "Faroeste"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 843846,
+        "imdb_id": "tt1462759",
+        "original_language": "en",
+        "original_title": "Butcher's Crossing",
+        "overview": "Na d\u00e9cada de 1870, um jovem que abandonou Harvard busca seu destino no Oeste, vinculando seu destino a uma equipe de ca\u00e7adores de b\u00fafalos liderada por um homem chamado Miller. Juntos, eles embarcam em uma jornada angustiante arriscando a vida e a sanidade.",
+        "popularity": 39.613,
+        "poster_path": "/yRJUdzPrqh1QcVBWEU54qQzB8sR.jpg",
+        "production_companies": [
+            {
+                "id": 46936,
+                "logo_path": "/eTIGBsxyrXOBfcfILxyINROgeQ1.png",
+                "name": "Gabriel Polsky Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 107513,
+                "logo_path": "/rkIrMsS6rmTjgs5wc2odqco0P5i.png",
+                "name": "Phiphen Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 19638,
+                "logo_path": "/6R3XtbihMWuDRFnlm4MkpxhmEKf.png",
+                "name": "Altitude Film Entertainment",
+                "origin_country": "GB"
+            },
+            {
+                "id": 290,
+                "logo_path": "/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png",
+                "name": "Ingenious Media",
+                "origin_country": "GB"
+            },
+            {
+                "id": 76992,
+                "logo_path": "/mw3j3P8SUQJKLSJQrLKuSDO9Xr6.png",
+                "name": "Saban Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 831,
+                "logo_path": "/vLENXiYTyITnMDrTKabUXhgTKX2.png",
+                "name": "Saturn Films",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-02-03",
+        "revenue": 15648,
+        "runtime": 105,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Jornada Para o Inferno",
+        "video": false,
+        "vote_average": 5.726,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iFi9fo2iiDOo1kn5GIOqmq6giAp.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Com\u00e9dia"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 951436,
+        "imdb_id": "tt14628220",
+        "original_language": "en",
+        "original_title": "Forty Winks",
+        "overview": "",
+        "popularity": 2.632,
+        "poster_path": "/gzOHsSvlz9iTq3T31DTMhVFBSq1.jpg",
+        "production_companies": [
+            {
+                "id": 171909,
+                "logo_path": null,
+                "name": "River Styx Productions",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [],
+        "release_date": "2022-03-19",
+        "revenue": 0,
+        "runtime": 80,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "Forty Winks",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7KVfI3GqQtW4YDYeKSMG2D1AgXT.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 9648,
+                "name": "Mist\u00e9rio"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 1012672,
+        "imdb_id": "tt14631142",
+        "original_language": "gu",
+        "original_title": "Raktbeej",
+        "overview": "",
+        "popularity": 1.047,
+        "poster_path": "/xNTKbns6UKxq8cN1qbwFi3xE0Jm.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2022-04-01",
+        "revenue": 0,
+        "runtime": 0,
+        "spoken_languages": [
+            {
+                "english_name": "Gujarati",
+                "iso_639_1": "gu",
+                "name": ""
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Raktbeej",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xnMVnB8MtcjFkvHVgwbb8wmaCaV.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 878,
+                "name": "Fic\u00e7\u00e3o cient\u00edfica"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 1024210,
+        "imdb_id": "tt14631276",
+        "original_language": "de",
+        "original_title": "The Social Experiment",
+        "overview": "",
+        "popularity": 1.367,
+        "poster_path": "/4OxCa8ybFLyh1pgX7181DU4nBHj.jpg",
+        "production_companies": [
+            {
+                "id": 217690,
+                "logo_path": null,
+                "name": "Gipfelst\u00fcrmer Film",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [],
+        "release_date": "2022-10-27",
+        "revenue": 0,
+        "runtime": 97,
+        "spoken_languages": [
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Social Experiment",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ozcQOx9OysMdnHfWPofGZARbIjx.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 35,
+                "name": "Com\u00e9dia"
+            }
+        ],
+        "homepage": "",
+        "id": 766218,
+        "imdb_id": "tt14631466",
+        "original_language": "sv",
+        "original_title": "Br\u00f6llop, begravning och dop - filmen",
+        "overview": "",
+        "popularity": 2.507,
+        "poster_path": "/7bR1O1DjHf55oZ5ZZ2PRdorrMNO.jpg",
+        "production_companies": [
+            {
+                "id": 1005,
+                "logo_path": "/aNvdEYfswPjbZoZiprCqDUxX6SB.png",
+                "name": "Sweetwater Production",
+                "origin_country": "SE"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "SE",
+                "name": "Sweden"
+            }
+        ],
+        "release_date": "2021-10-22",
+        "revenue": 0,
+        "runtime": 108,
+        "spoken_languages": [
+            {
+                "english_name": "Swedish",
+                "iso_639_1": "sv",
+                "name": "svenska"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Br\u00f6llop, begravning och dop - filmen",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 831841,
+        "imdb_id": "tt14631532",
+        "original_language": "en",
+        "original_title": "The Dutch Boys",
+        "overview": "",
+        "popularity": 1.874,
+        "poster_path": "/xhZbRqjpLENn1YTfCvw098hqiiu.jpg",
+        "production_companies": [
+            {
+                "id": 120864,
+                "logo_path": null,
+                "name": "NQV Media",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2021-05-21",
+        "revenue": 0,
+        "runtime": 98,
+        "spoken_languages": [
+            {
+                "english_name": "Dutch",
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Dutch Boys",
+        "video": true,
+        "vote_average": 2.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 828801,
+        "imdb_id": "tt14631866",
+        "original_language": "bn",
+        "original_title": "Halt",
+        "overview": "",
+        "popularity": 0.608,
+        "poster_path": "/5U3iT3wFEFBBxd7TWwPO5BJgCDX.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2021-04-07",
+        "revenue": 0,
+        "runtime": 84,
+        "spoken_languages": [
+            {
+                "english_name": "Bengali",
+                "iso_639_1": "bn",
+                "name": "\u09ac\u09be\u0982\u09b2\u09be"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Halt",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 822547,
+        "imdb_id": "tt14632036",
+        "original_language": "id",
+        "original_title": "Hari Yang Dijanjikan",
+        "overview": "",
+        "popularity": 0.6,
+        "poster_path": "/2kirO9myAalZZMXsl4CCAVs7fIz.jpg",
+        "production_companies": [
+            {
+                "id": 148904,
+                "logo_path": "/oEp0EY7zGqYShh3zzyzGWIYJzlJ.png",
+                "name": "Klikfilm Production",
+                "origin_country": "ID"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ID",
+                "name": "Indonesia"
+            }
+        ],
+        "release_date": "2021-05-12",
+        "revenue": 0,
+        "runtime": 68,
+        "spoken_languages": [
+            {
+                "english_name": "Indonesian",
+                "iso_639_1": "id",
+                "name": "Bahasa indonesia"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Hari Yang Dijanjikan",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9GWBx7DJkjsyAiAtQtxy6iepxoG.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 933943,
+        "imdb_id": "tt14636114",
+        "original_language": "de",
+        "original_title": "Sch\u00e4chten",
+        "overview": "",
+        "popularity": 4.576,
+        "poster_path": "/eESrgbnhMC4ju3v17xGa77u4RS.jpg",
+        "production_companies": [
+            {
+                "id": 74819,
+                "logo_path": null,
+                "name": "Cult Film",
+                "origin_country": "AT"
+            },
+            {
+                "id": 169131,
+                "logo_path": "/cpkhmtnBCyOx1dhN0us1QkmT0CQ.png",
+                "name": "Hallmann Entertainment Company",
+                "origin_country": "AT"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AT",
+                "name": "Austria"
+            }
+        ],
+        "release_date": "2022-07-30",
+        "revenue": 0,
+        "runtime": 105,
+        "spoken_languages": [
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Sch\u00e4chten",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": {
+            "id": 871573,
+            "name": "First Lady Collection",
+            "poster_path": null,
+            "backdrop_path": null
+        },
+        "budget": 0,
+        "genres": [],
+        "homepage": "",
+        "id": 871571,
+        "imdb_id": "tt14636620",
+        "original_language": "en",
+        "original_title": "First Lady 3",
+        "overview": "",
+        "popularity": 2.022,
+        "poster_path": "/o3mq2EmoGAD0TeF0RI7AIauoIWY.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2021-05-20",
+        "revenue": 0,
+        "runtime": 107,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "First Lady 3",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Com\u00e9dia"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 985618,
+        "imdb_id": "tt14637796",
+        "original_language": "kn",
+        "original_title": "Gajanana And Gang",
+        "overview": "",
+        "popularity": 1.372,
+        "poster_path": null,
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "release_date": "2022-06-03",
+        "revenue": 0,
+        "runtime": 108,
+        "spoken_languages": [
+            {
+                "english_name": "Kannada",
+                "iso_639_1": "kn",
+                "name": "?????"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Gajanana And Gang",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xAzM9LiVVtfDfyvjyH3DwraKSEr.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Com\u00e9dia"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 778508,
+        "imdb_id": "tt14637930",
+        "original_language": "ru",
+        "original_title": "\u0421\u0432\u0438\u043d\u0433\u0435\u0440\u044b",
+        "overview": "",
+        "popularity": 11.308,
+        "poster_path": "/2H8aCZKcoDXTrUE1yQQXqdWCQWy.jpg",
+        "production_companies": [
+            {
+                "id": 13322,
+                "logo_path": null,
+                "name": "Motor! Film Studio",
+                "origin_country": "RU"
+            },
+            {
+                "id": 84180,
+                "logo_path": null,
+                "name": "Cinevilla Studio",
+                "origin_country": "LV"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "release_date": "2022-01-06",
+        "revenue": 0,
+        "runtime": 96,
+        "spoken_languages": [
+            {
+                "english_name": "Russian",
+                "iso_639_1": "ru",
+                "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\u0421\u0432\u0438\u043d\u0433\u0435\u0440\u044b",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g2xbutVPtv65Y5izhOrDqTkkNyq.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Com\u00e9dia"
+            }
+        ],
+        "homepage": "",
+        "id": 837548,
+        "imdb_id": "tt14640242",
+        "original_language": "en",
+        "original_title": "Together",
+        "overview": "Um marido e uma esposa s\u00e3o obrigados a reavaliar a si mesmos e seu relacionamento atrav\u00e9s da realidade do confinamento da COVID-19.",
+        "popularity": 15.872,
+        "poster_path": "/oeocQg0Bhmy0pqqRy50wEo0iwFB.jpg",
+        "production_companies": [
+            {
+                "id": 3324,
+                "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+                "name": "BBC",
+                "origin_country": "GB"
+            },
+            {
+                "id": 28473,
+                "logo_path": null,
+                "name": "Shoebox Films",
+                "origin_country": "GB"
+            },
+            {
+                "id": 108890,
+                "logo_path": "/jzpBa1CBrQaoz0lwxZ1YdqNzRXQ.png",
+                "name": "Sonia Friedman Productions",
+                "origin_country": "GB"
+            },
+            {
+                "id": 100640,
+                "logo_path": "/5BR67T28TVm2UMH8GCRDftafsaJ.png",
+                "name": "Endeavor Content",
+                "origin_country": "US"
+            },
+            {
+                "id": 288,
+                "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+                "name": "BBC Film",
+                "origin_country": "GB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "2021-08-27",
+        "revenue": 214390,
+        "runtime": 87,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Juntos",
+        "video": false,
+        "vote_average": 5.89,
+        "vote_count": 77
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hag9edxgL2RgG9FMfqAV0KgjPK0.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 803700,
+        "imdb_id": "tt14641542",
+        "original_language": "it",
+        "original_title": "Le otto montagne",
+        "overview": "Esta \u00e9 a hist\u00f3ria de dois meninos que se tornam grandes amigos aos 11 anos de idade, quando Pietro vai passar f\u00e9rias nos alpes italianos. Uma rela\u00e7\u00e3o que se prolonga at\u00e9 que a vida os afasta.  Quando Pietro perde o pai e volta aos alpes para descobrir a \u00fanica heran\u00e7a deixada pelo progenitor: uma casa abandonada na montanha, \u00e9 a oportunidade de reatar a \u00fanica amizade significativa e duradoura que teve em toda a sua vida.",
+        "popularity": 17.497,
+        "poster_path": "/yzgP42SQVV9fy6habr2A7WyGkVr.jpg",
+        "production_companies": [
+            {
+                "id": 186,
+                "logo_path": "/1xlcFvAz1PQIkMhO0pBLBPW4PWY.png",
+                "name": "Pyramide Productions",
+                "origin_country": "FR"
+            },
+            {
+                "id": 115535,
+                "logo_path": "/mYoc1K3UPAUqKfuCYkvDLJN2aAA.png",
+                "name": "Vision Distribution",
+                "origin_country": "IT"
+            },
+            {
+                "id": 4232,
+                "logo_path": "/5uY5oqgSEUvzfmn8xC4eqGVU0s5.png",
+                "name": "Menuet",
+                "origin_country": "BE"
+            },
+            {
+                "id": 21246,
+                "logo_path": "/e5NWP10OYWCUa0T363WxkNzL78s.png",
+                "name": "Wildside",
+                "origin_country": "IT"
+            },
+            {
+                "id": 184146,
+                "logo_path": null,
+                "name": "Elastic Film",
+                "origin_country": "GB"
+            },
+            {
+                "id": 202711,
+                "logo_path": null,
+                "name": "Rufus",
+                "origin_country": "BE"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "2022-12-21",
+        "revenue": 9494985,
+        "runtime": 147,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "english_name": "Nepali",
+                "iso_639_1": "ne",
+                "name": ""
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "As Oito Montanhas",
+        "video": false,
+        "vote_average": 7.688,
+        "vote_count": 613
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/922OdyNwXHoP6UL6GtjIIaNpHij.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 10751,
+                "name": "Fam\u00edlia"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 949087,
+        "imdb_id": "tt14641876",
+        "original_language": "de",
+        "original_title": "Himbeeren mit Senf",
+        "overview": "",
+        "popularity": 1.575,
+        "poster_path": "/sZ9IXBDjoDrZeupomg3zfsWv5M7.jpg",
+        "production_companies": [
+            {
+                "id": 9054,
+                "logo_path": "/zb7XWmOcLTLmat8ZjybzJrAwBrP.png",
+                "name": "BosBros",
+                "origin_country": "NL"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "LU",
+                "name": "Luxembourg"
+            }
+        ],
+        "release_date": "2022-03-12",
+        "revenue": 0,
+        "runtime": 88,
+        "spoken_languages": [
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Himbeeren mit Senf",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pa9lkYBeGakSJQc5XTi76ihGZvh.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 928200,
+        "imdb_id": "tt14644048",
+        "original_language": "fr",
+        "original_title": "Goutte d\u2019Or",
+        "overview": "",
+        "popularity": 5.631,
+        "poster_path": "/RTk5Qccbr4r9MyJNe68jFcsA7E.jpg",
+        "production_companies": [
+            {
+                "id": 49934,
+                "logo_path": "/ns14fiims2htw1kiEI9xCJFFlWO.png",
+                "name": "Kazak Productions",
+                "origin_country": "FR"
+            },
+            {
+                "id": 83,
+                "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+                "name": "France 2 Cin\u00e9ma",
+                "origin_country": "FR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "release_date": "2023-03-01",
+        "revenue": 0,
+        "runtime": 98,
+        "spoken_languages": [
+            {
+                "english_name": "Arabic",
+                "iso_639_1": "ar",
+                "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+            },
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Vis\u00f5es de Rams\u00e9s",
+        "video": false,
+        "vote_average": 6.317,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5wJUIcmTL3VQ5PRdgPxpY4m7UDU.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 912368,
+        "imdb_id": "tt14650838",
+        "original_language": "it",
+        "original_title": "Lupo bianco",
+        "overview": "",
+        "popularity": 1.421,
+        "poster_path": "/q1jXctEd6c8LeOzWB5qWkvHTXh.jpg",
+        "production_companies": [
+            {
+                "id": 165881,
+                "logo_path": null,
+                "name": "Cinemaset",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "release_date": "2022-03-30",
+        "revenue": 0,
+        "runtime": 0,
+        "spoken_languages": [
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Lupo bianco",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [],
+        "homepage": "",
+        "id": 835084,
+        "imdb_id": "tt14653702",
+        "original_language": "hi",
+        "original_title": "Antenna",
+        "overview": "",
+        "popularity": 0.6,
+        "poster_path": "/kxKReW5IBvxE9kMLVfV4ylSA4aC.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "release_date": "2021-05-14",
+        "revenue": 0,
+        "runtime": 84,
+        "spoken_languages": [
+            {
+                "english_name": "Hindi",
+                "iso_639_1": "hi",
+                "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Antenna",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mteK54LxesGA4nsgdzmu2EXC0iw.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 887988,
+        "imdb_id": "tt14653804",
+        "original_language": "pa",
+        "original_title": "Qazi",
+        "overview": "",
+        "popularity": 1.39,
+        "poster_path": "/4pBAkvLfMtjmLHSbbCYEnzhSNN3.jpg",
+        "production_companies": [
+            {
+                "id": 177987,
+                "logo_path": null,
+                "name": "Loop Postproduktion UG",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "PK",
+                "name": "Pakistan"
+            }
+        ],
+        "release_date": "2021-09-20",
+        "revenue": 0,
+        "runtime": 81,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "english_name": "Punjabi",
+                "iso_639_1": "pa",
+                "name": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Qazi",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/whtSQsZZbraiF1Y6DXQVWxUegdd.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 28,
+                "name": "A\u00e7\u00e3o"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 961413,
+        "imdb_id": "tt14657380",
+        "original_language": "ta",
+        "original_title": "\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bc7",
+        "overview": "",
+        "popularity": 1.208,
+        "poster_path": "/eDaFfX6sqf7FKYXlWbi1NcYEG2m.jpg",
+        "production_companies": [
+            {
+                "id": 173316,
+                "logo_path": null,
+                "name": "D Company",
+                "origin_country": "IN"
+            },
+            {
+                "id": 69278,
+                "logo_path": "/imHOBSZGspSP6HBFRtWjXMjZpjs.png",
+                "name": "Axess Film Factory",
+                "origin_country": "IN"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "release_date": "2022-04-14",
+        "revenue": 0,
+        "runtime": 107,
+        "spoken_languages": [
+            {
+                "english_name": "Tamil",
+                "iso_639_1": "ta",
+                "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bc7",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gFphm51Uj69ziAdX9Q6YEan7rKl.jpg",
+        "belongs_to_collection": null,
+        "budget": 70000,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Com\u00e9dia"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 957502,
+        "imdb_id": "tt14657412",
+        "original_language": "en",
+        "original_title": "Last Chance Charlene",
+        "overview": "",
+        "popularity": 2.169,
+        "poster_path": "/uNc09GPq9fmoPaVK7TNoq7EYkWK.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2022-04-01",
+        "revenue": 0,
+        "runtime": 115,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Last Chance Charlene",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qdMIBjgOINGtU1iAlNG2pQCMr05.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Com\u00e9dia"
+            },
+            {
+                "id": 36,
+                "name": "Hist\u00f3ria"
+            }
+        ],
+        "homepage": "",
+        "id": 890576,
+        "imdb_id": "tt14661418",
+        "original_language": "it",
+        "original_title": "Il pataffio",
+        "overview": "",
+        "popularity": 2.375,
+        "poster_path": "/85HyfPKf7Rzay6sM3tK0ztrX5kT.jpg",
+        "production_companies": [
+            {
+                "id": 7144,
+                "logo_path": "/wqc8HTYdCCFnguN2Ma55lr2HIyC.png",
+                "name": "Vivo Film",
+                "origin_country": "IT"
+            },
+            {
+                "id": 19037,
+                "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+                "name": "uMedia",
+                "origin_country": "BE"
+            },
+            {
+                "id": 2534,
+                "logo_path": "/6aizJC0RRO5oprJMYf2PBAB7lyZ.png",
+                "name": "Colorado Film",
+                "origin_country": "IT"
+            },
+            {
+                "id": 155990,
+                "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+                "name": "RAI Cinema",
+                "origin_country": "IT"
+            },
+            {
+                "id": 14016,
+                "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+                "name": "MiC",
+                "origin_country": "IT"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "IT",
+                "name": "Italy"
+            }
+        ],
+        "release_date": "2022-08-03",
+        "revenue": 0,
+        "runtime": 117,
+        "spoken_languages": [
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Il pataffio",
+        "video": false,
+        "vote_average": 4.852,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [],
+        "homepage": "",
+        "id": 1098986,
+        "imdb_id": "tt14662334",
+        "original_language": "en",
+        "original_title": "The Business of Christmas 2",
+        "overview": "",
+        "popularity": 0.6,
+        "poster_path": "/fdaR32jn5StdReYkPKG3DYY8N3w.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2021-12-02",
+        "revenue": 0,
+        "runtime": 0,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Business of Christmas 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ebht48EBMS6OxJptnvY3xMVI7Iq.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 851073,
+        "imdb_id": "tt14662420",
+        "original_language": "ja",
+        "original_title": "\u88cf\u30a2\u30ab",
+        "overview": "",
+        "popularity": 7.486,
+        "poster_path": "/4VOWvvqDsl7q6qTFy8owTR3zFJp.jpg",
+        "production_companies": [
+            {
+                "id": 157387,
+                "logo_path": null,
+                "name": "Culture Entertainment Co.",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "2021-04-21",
+        "revenue": 0,
+        "runtime": 100,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "\u65e5\u672c\u8a9e"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\u88cf\u30a2\u30ab",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iNbg4Blc3zlYGViTdi1PUPzJzgZ.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 878,
+                "name": "Fic\u00e7\u00e3o cient\u00edfica"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 795092,
+        "imdb_id": "tt14663456",
+        "original_language": "ja",
+        "original_title": "Arc \u30a2\u30fc\u30af",
+        "overview": "",
+        "popularity": 6.224,
+        "poster_path": "/ked5Rn06lvfFfxO8o4ztC4NYhdH.jpg",
+        "production_companies": [
+            {
+                "id": 3627,
+                "logo_path": "/i1eW4O13B28b4JHpIL5C9rRiiur.png",
+                "name": "Warner Bros. Japan",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "2021-06-25",
+        "revenue": 0,
+        "runtime": 127,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "\u65e5\u672c\u8a9e"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Arc \u30a2\u30fc\u30af",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 875540,
+        "imdb_id": "tt14664116",
+        "original_language": "ta",
+        "original_title": "\u0b9a\u0bc6\u0ba8\u0bcd\u0ba8\u0bbe\u0baf\u0bcd",
+        "overview": "",
+        "popularity": 1.4,
+        "poster_path": "/kFBNmKbo8kiq5tY3TM3EN5NqF8n.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "release_date": "2021-08-11",
+        "revenue": 0,
+        "runtime": 60,
+        "spoken_languages": [
+            {
+                "english_name": "Tamil",
+                "iso_639_1": "ta",
+                "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\u0b9a\u0bc6\u0ba8\u0bcd\u0ba8\u0bbe\u0baf\u0bcd",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d15f0w6yrpXRu3qShbuo9kfKwWa.jpg",
+        "belongs_to_collection": null,
+        "budget": 300000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 943019,
+        "imdb_id": "tt14664312",
+        "original_language": "pt",
+        "original_title": "Verona",
+        "overview": "",
+        "popularity": 2.297,
+        "poster_path": "/qQhcMJG0PbSR9xOXyMaA8RCo6Pk.jpg",
+        "production_companies": [
+            {
+                "id": 17680,
+                "logo_path": "/7RtrfAVWgne5MRgXl8O3oD6Ncom.png",
+                "name": "Accorde Filmes",
+                "origin_country": "BR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BR",
+                "name": "Brazil"
+            }
+        ],
+        "release_date": "2021-10-22",
+        "revenue": 0,
+        "runtime": 95,
+        "spoken_languages": [
+            {
+                "english_name": "Portuguese",
+                "iso_639_1": "pt",
+                "name": "Portugu\u00eas"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Verona",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cTrHrEKrK7ge9B5CgYUTyANGgvd.jpg",
+        "belongs_to_collection": null,
+        "budget": 340000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 851476,
+        "imdb_id": "tt14665658",
+        "original_language": "uk",
+        "original_title": "\u042f\u043a \u0442\u0430\u043c \u041a\u0430\u0442\u044f?",
+        "overview": "",
+        "popularity": 2.003,
+        "poster_path": "/3G0YzHX98A0oeCLWDnYEeLPc2lI.jpg",
+        "production_companies": [
+            {
+                "id": 161429,
+                "logo_path": "/r4Ik31qNsyrI9KjrtWr4yb7EnYt.png",
+                "name": "Evos Film",
+                "origin_country": "UA"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "UA",
+                "name": "Ukraine"
+            }
+        ],
+        "release_date": "2024-01-25",
+        "revenue": 0,
+        "runtime": 101,
+        "spoken_languages": [
+            {
+                "english_name": "Ukrainian",
+                "iso_639_1": "uk",
+                "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\u042f\u043a \u0442\u0430\u043c \u041a\u0430\u0442\u044f?",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sP3lTZue3uvj58g0rqy0otNU1wg.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Com\u00e9dia"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 1039483,
+        "imdb_id": "tt14667224",
+        "original_language": "fr",
+        "original_title": "Bungalow",
+        "overview": "",
+        "popularity": 3.916,
+        "poster_path": "/qnt6UcGLXesveY9RUyBxn2UKOIT.jpg",
+        "production_companies": [
+            {
+                "id": 20181,
+                "logo_path": null,
+                "name": "Coop Vid\u00e9o de Montr\u00e9al",
+                "origin_country": "CA"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "release_date": "2023-04-07",
+        "revenue": 0,
+        "runtime": 101,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Bungalow",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hHJCg8qmUpCtnDnDELOecaWZD7d.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 764510,
+        "imdb_id": "tt14667700",
+        "original_language": "pt",
+        "original_title": "A Felicidade das Coisas",
+        "overview": "Paula sonha em construir uma piscina para os filhos na sua modesta casa de praia. No entanto, seus planos se desfazem por conta de problemas financeiros, e ela se v\u00ea cada vez mais sufocada pelo peso das responsabilidades.",
+        "popularity": 1.799,
+        "poster_path": "/8Jjd0ebhZwHFT0PYsOVVRBGQ1su.jpg",
+        "production_companies": [
+            {
+                "id": 37098,
+                "logo_path": "/wPQrM2TrAnYi93HkRlmu7vYvZhX.png",
+                "name": "Filmes de Pl\u00e1stico",
+                "origin_country": "BR"
+            },
+            {
+                "id": 37199,
+                "logo_path": null,
+                "name": "Lira Cinematogr\u00e1fica",
+                "origin_country": "BR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BR",
+                "name": "Brazil"
+            }
+        ],
+        "release_date": "2022-05-19",
+        "revenue": 0,
+        "runtime": 87,
+        "spoken_languages": [
+            {
+                "english_name": "Portuguese",
+                "iso_639_1": "pt",
+                "name": "Portugu\u00eas"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "A Felicidade das Coisas",
+        "video": false,
+        "vote_average": 5.75,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/A2Eux6ZPJBBJ1vgfYAgkXiujQeS.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 858388,
+        "imdb_id": "tt14668028",
+        "original_language": "fr",
+        "original_title": "Nouveau-Qu\u00e9bec",
+        "overview": "",
+        "popularity": 1.87,
+        "poster_path": "/2CM6oS3rSRk3qjXmZx0ESdzrmc6.jpg",
+        "production_companies": [
+            {
+                "id": 88623,
+                "logo_path": "/yuGgqKQz3mVgqLn4nokSGcmeAUA.png",
+                "name": "Voyelles Films",
+                "origin_country": "CA"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "release_date": "2022-02-01",
+        "revenue": 0,
+        "runtime": 96,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Nouveau-Qu\u00e9bec",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fHWUxzEgCqIfToLjlY9UrR6uQtz.jpg",
+        "belongs_to_collection": {
+            "id": 534531,
+            "name": "Prancer: Cole\u00e7\u00e3o",
+            "poster_path": "/eoxzbLAeEtRJIIQ2VZfrdWczlOq.jpg",
+            "backdrop_path": "/tajdb8B4DPNxreLfvmEQocP9Fl9.jpg"
+        },
+        "budget": 7000000,
+        "genres": [
+            {
+                "id": 10751,
+                "name": "Fam\u00edlia"
+            },
+            {
+                "id": 14,
+                "name": "Fantasia"
+            }
+        ],
+        "homepage": "",
+        "id": 1047431,
+        "imdb_id": "tt14668196",
+        "original_language": "en",
+        "original_title": "Prancer: A Christmas Tale",
+        "overview": "A jovem Grace \u00e9 for\u00e7ada a passar o natal na casa de Bud, seu av\u00f4 rabugento. A festa parece fadada ao fracasso at\u00e9 ela conhecer Prancer, uma rena m\u00e1gica que \u00e9 amiga de Bud. Mas um ca\u00e7ador impiedoso est\u00e1 ca\u00e7ando o animal.",
+        "popularity": 19.646,
+        "poster_path": "/vdubjRZoszEOHFYr6FpIdqrKvxJ.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2022-11-22",
+        "revenue": 18600000,
+        "runtime": 90,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Prancer: Um Conto de Natal",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 640334,
+        "imdb_id": "tt14670172",
+        "original_language": "es",
+        "original_title": "Donde duermen los p\u00e1jaros",
+        "overview": "",
+        "popularity": 0.6,
+        "poster_path": "/lMkqcj0su4dHk8ISagL3h1ZpRhx.jpg",
+        "production_companies": [
+            {
+                "id": 124264,
+                "logo_path": null,
+                "name": "Real Human Cinema",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "release_date": "2022-03-12",
+        "revenue": 0,
+        "runtime": 98,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Espa\u00f1ol"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Donde duermen los p\u00e1jaros",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y8y0n2XxPYtW9IZhZe495Of7ZqZ.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 955575,
+        "imdb_id": "tt14670276",
+        "original_language": "pa",
+        "original_title": "\u0a32\u0a47\u0a16\u0a3c",
+        "overview": "",
+        "popularity": 4.463,
+        "poster_path": "/xUQK8J7RrDRxdd00oGOM55KjJzg.jpg",
+        "production_companies": [
+            {
+                "id": 159299,
+                "logo_path": null,
+                "name": "White Hill Studios",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "release_date": "2022-04-01",
+        "revenue": 0,
+        "runtime": 130,
+        "spoken_languages": [
+            {
+                "english_name": "Punjabi",
+                "iso_639_1": "pa",
+                "name": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\u0a32\u0a47\u0a16\u0a3c",
+        "video": false,
+        "vote_average": 8.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8AOWfPgWtWCSfX1TZjj9O9aQupO.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            }
+        ],
+        "homepage": "",
+        "id": 855355,
+        "imdb_id": "tt14670524",
+        "original_language": "en",
+        "original_title": "Victim",
+        "overview": "",
+        "popularity": 0.6,
+        "poster_path": "/9mNZnvFSpnvNVPXXwfHrBEMJbzq.jpg",
+        "production_companies": [],
+        "production_countries": [],
+        "release_date": "2021-02-14",
+        "revenue": 0,
+        "runtime": 0,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "Victim",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/56okeNiTIIo0VR1xaZRfUj0Twkm.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Com\u00e9dia"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 830991,
+        "imdb_id": "tt14673560",
+        "original_language": "en",
+        "original_title": "Ride the Eagle",
+        "overview": "Na com\u00e9dia Ride the Eagle, quando a m\u00e3e ausente de Leif (Jake Johnson), Honey (Susan Sarandon) morre, ela deixa para ele uma \"heran\u00e7a condicional\". Com o objetivo de tentar, de alguma forma, se reconciliar com o filho mesmo ap\u00f3s a morte, ela elabora uma lista duvidosa de coisas a fazer, para que ele possa adquirir para a pitoresca cabana dela em Yosemite. Leif e Nora, sua melhor amiga canina, entram ent\u00e3o no mundo e na cabe\u00e7a selvagem de Honey, para completar essa elaborada miss\u00e3o.",
+        "popularity": 16.079,
+        "poster_path": "/gL6peypABodBTnMwWBZ75xymPK8.jpg",
+        "production_companies": [
+            {
+                "id": 156903,
+                "logo_path": "/fU4120R991AGlFnAqRbDY0ATirS.png",
+                "name": "Decal",
+                "origin_country": ""
+            },
+            {
+                "id": 156904,
+                "logo_path": null,
+                "name": "Kookaburra Films",
+                "origin_country": ""
+            },
+            {
+                "id": 156905,
+                "logo_path": null,
+                "name": "Fire Pit, Inc.",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2021-07-30",
+        "revenue": 0,
+        "runtime": 88,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Voe com a \u00c1guia",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 57
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7V9diNdJSP1sDBURTVEFS4OiROH.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 28,
+                "name": "A\u00e7\u00e3o"
+            }
+        ],
+        "homepage": "",
+        "id": 633951,
+        "imdb_id": "tt14678156",
+        "original_language": "fr",
+        "original_title": "Confessions",
+        "overview": "",
+        "popularity": 8.651,
+        "poster_path": "/4ONGOxqOqStYqufm97TxtzQ41xJ.jpg",
+        "production_companies": [
+            {
+                "id": 13094,
+                "logo_path": null,
+                "name": "Crystal Film Productions",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "release_date": "2022-07-20",
+        "revenue": 0,
+        "runtime": 109,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Confessions",
+        "video": false,
+        "vote_average": 6.574,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wezQ7EtGupEpygJJlBNDROOwy8t.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Com\u00e9dia"
+            }
+        ],
+        "homepage": "",
+        "id": 939576,
+        "imdb_id": "tt14680782",
+        "original_language": "ro",
+        "original_title": "Lebensdorf",
+        "overview": "",
+        "popularity": 1.442,
+        "poster_path": "/28oJwA4XCe9FemoDRlICD0hDxd0.jpg",
+        "production_companies": [
+            {
+                "id": 79268,
+                "logo_path": "/2wFd7q4dk8mo0QApTQ0v1UvD6Wu.png",
+                "name": "HiFilm Productions",
+                "origin_country": "RO"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "RO",
+                "name": "Romania"
+            }
+        ],
+        "release_date": "2022-02-11",
+        "revenue": 0,
+        "runtime": 97,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "english_name": "Romanian",
+                "iso_639_1": "ro",
+                "name": "Rom\u00e2n\u0103"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Lebensdorf",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wb0piyDqg6MemeFilp3sCQb3zZ3.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 872417,
+        "imdb_id": "tt14682578",
+        "original_language": "tl",
+        "original_title": "Historya ni Ha",
+        "overview": "",
+        "popularity": 1.153,
+        "poster_path": "/4HBiK18McR2GaBW2pnaYZIIE74R.jpg",
+        "production_companies": [
+            {
+                "id": 33812,
+                "logo_path": "/fwpLmRnRFxnYg9mD8K4FOb0GqwT.png",
+                "name": "Sine Olivia Pilipinas",
+                "origin_country": "PH"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "PH",
+                "name": "Philippines"
+            }
+        ],
+        "release_date": "2021-10-12",
+        "revenue": 0,
+        "runtime": 296,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "\u65e5\u672c\u8a9e"
+            },
+            {
+                "english_name": "Tagalog",
+                "iso_639_1": "tl",
+                "name": ""
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Historya ni Ha",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [],
+        "homepage": "",
+        "id": 822308,
+        "imdb_id": "tt14683902",
+        "original_language": "fr",
+        "original_title": "Au jour d\u2019aujourd\u2019hui",
+        "overview": "",
+        "popularity": 0.6,
+        "poster_path": "/rRkevBeTLOfBM4JsUa5OgMsZ5qP.jpg",
+        "production_companies": [
+            {
+                "id": 120893,
+                "logo_path": null,
+                "name": "Agathe Berman Studio",
+                "origin_country": ""
+            },
+            {
+                "id": 113481,
+                "logo_path": null,
+                "name": "Bad Manners",
+                "origin_country": ""
+            },
+            {
+                "id": 154747,
+                "logo_path": null,
+                "name": "Hutong Productions",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            }
+        ],
+        "release_date": "2021-06-02",
+        "revenue": 0,
+        "runtime": 67,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "Au jour d\u2019aujourd\u2019hui",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nhmfrR29vVZ8mTvb04OL2FLKQs3.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 12,
+                "name": "Aventura"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10402,
+                "name": "M\u00fasica"
+            }
+        ],
+        "homepage": "",
+        "id": 836263,
+        "imdb_id": "tt14690080",
+        "original_language": "hi",
+        "original_title": "\u0936\u093e\u0926\u0940\u0938\u094d\u0925\u093e\u0928",
+        "overview": "",
+        "popularity": 1.966,
+        "poster_path": "/1PZhWelraC8UqDsNMJUAprrWhHJ.jpg",
+        "production_companies": [
+            {
+                "id": 155272,
+                "logo_path": null,
+                "name": "Famous Digital Studios",
+                "origin_country": ""
+            },
+            {
+                "id": 116624,
+                "logo_path": null,
+                "name": "Opticus",
+                "origin_country": "IN"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "release_date": "2021-06-11",
+        "revenue": 0,
+        "runtime": 93,
+        "spoken_languages": [
+            {
+                "english_name": "Hindi",
+                "iso_639_1": "hi",
+                "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\u0936\u093e\u0926\u0940\u0938\u094d\u0925\u093e\u0928",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7vtlAiXISoix1jgS0nJwGbSM0dO.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 926112,
+        "imdb_id": "tt14690596",
+        "original_language": "ro",
+        "original_title": "Om-c\u00e2ine",
+        "overview": "",
+        "popularity": 1.74,
+        "poster_path": "/6TdPCcuhY3vXbBw0Y8Jxm1WlOt1.jpg",
+        "production_companies": [
+            {
+                "id": 128289,
+                "logo_path": "/2h3ByW3BTy126E7OZ7sYcBqzH3M.png",
+                "name": "Doppelganger",
+                "origin_country": "SE"
+            },
+            {
+                "id": 2801,
+                "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+                "name": "Film i V\u00e4st",
+                "origin_country": "SE"
+            },
+            {
+                "id": 142486,
+                "logo_path": "/zjBPLzaz6x0Ei1ecI6oesRq69yo.png",
+                "name": "microFILM",
+                "origin_country": "RO"
+            },
+            {
+                "id": 17390,
+                "logo_path": "/ijBPMFIV5nWzjVupZWIlt4Limlf.png",
+                "name": "Pandora Films",
+                "origin_country": "DE"
+            },
+            {
+                "id": 70098,
+                "logo_path": null,
+                "name": "Klas Film",
+                "origin_country": "BG"
+            },
+            {
+                "id": 79268,
+                "logo_path": "/2wFd7q4dk8mo0QApTQ0v1UvD6Wu.png",
+                "name": "HiFilm Productions",
+                "origin_country": "RO"
+            },
+            {
+                "id": 142485,
+                "logo_path": null,
+                "name": "nomada.solo",
+                "origin_country": "RO"
+            },
+            {
+                "id": 172070,
+                "logo_path": "/5cgVSuKP8R9ejWlaKntGR5nl9cR.png",
+                "name": "Visual Walkabout",
+                "origin_country": "RO"
+            },
+            {
+                "id": 197286,
+                "logo_path": "/y7ExmnrLNLOdFQwIrx9qeyJTo39.png",
+                "name": "Shoot&Post",
+                "origin_country": "SE"
+            },
+            {
+                "id": 197287,
+                "logo_path": null,
+                "name": "Auditory",
+                "origin_country": ""
+            },
+            {
+                "id": 141181,
+                "logo_path": null,
+                "name": "Magic Shop",
+                "origin_country": "BG"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BG",
+                "name": "Bulgaria"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "RO",
+                "name": "Romania"
+            },
+            {
+                "iso_3166_1": "SE",
+                "name": "Sweden"
+            }
+        ],
+        "release_date": "2022-01-28",
+        "revenue": 0,
+        "runtime": 110,
+        "spoken_languages": [
+            {
+                "english_name": "Romanian",
+                "iso_639_1": "ro",
+                "name": "Rom\u00e2n\u0103"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Om-c\u00e2ine",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2a4oTmYU2j7JAYWzfBYpRBoy8NA.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10402,
+                "name": "M\u00fasica"
+            }
+        ],
+        "homepage": "",
+        "id": 1034311,
+        "imdb_id": "tt14691100",
+        "original_language": "nl",
+        "original_title": "Piece of My Heart",
+        "overview": "",
+        "popularity": 5.751,
+        "poster_path": "/hP3YxdJPWpnCANYOKXXEzX57lRI.jpg",
+        "production_companies": [
+            {
+                "id": 24845,
+                "logo_path": "/eRT3fMGdAaQaFyOYXMEIt8GCe6I.png",
+                "name": "Topkapi Films",
+                "origin_country": "NL"
+            },
+            {
+                "id": 8962,
+                "logo_path": "/dNe4iMWCGaQRA6RTIYzUfqMigYh.png",
+                "name": "Eyeworks Film & TV Drama",
+                "origin_country": "NL"
+            },
+            {
+                "id": 22294,
+                "logo_path": "/xD7TJlNqBQM6KmdWyr22TUK1rCt.png",
+                "name": "NTR",
+                "origin_country": "NL"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            }
+        ],
+        "release_date": "2022-12-01",
+        "revenue": 0,
+        "runtime": 114,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Dutch",
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Piece of My Heart",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/flq1u5lDy7Z3bcbq0mQ1zUyjKih.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 878,
+                "name": "Fic\u00e7\u00e3o cient\u00edfica"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 884087,
+        "imdb_id": "tt14692892",
+        "original_language": "en",
+        "original_title": "Envision",
+        "overview": "",
+        "popularity": 3.179,
+        "poster_path": "/fkYzmH9avVBBdWCk92EllPeSG3O.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2021-10-12",
+        "revenue": 0,
+        "runtime": 81,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Envision",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4PxofgZvmG3U3YWoj3YOwMJVYIV.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Com\u00e9dia"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            }
+        ],
+        "homepage": "",
+        "id": 866480,
+        "imdb_id": "tt14694114",
+        "original_language": "en",
+        "original_title": "9 Stacks",
+        "overview": "",
+        "popularity": 0.932,
+        "poster_path": "/58S1WCEOsqP9KHQdv04GigUiVMI.jpg",
+        "production_companies": [
+            {
+                "id": 159881,
+                "logo_path": null,
+                "name": "Stevenosleep Films",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2021-08-02",
+        "revenue": 0,
+        "runtime": 103,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "9 Stacks",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 80,
+                "name": "Crime"
+            }
+        ],
+        "homepage": "",
+        "id": 887861,
+        "imdb_id": "tt14694744",
+        "original_language": "en",
+        "original_title": "Noir",
+        "overview": "",
+        "popularity": 0.647,
+        "poster_path": "/rN5mPn9VJQ5mSzA5FOF2AAmvYDq.jpg",
+        "production_companies": [
+            {
+                "id": 162986,
+                "logo_path": null,
+                "name": "Vertigo Theatre Productions",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "2021-10-20",
+        "revenue": 0,
+        "runtime": 149,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Noir",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/muuXRo6aC4A3dxBztFg8P73Aken.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 586386,
+        "imdb_id": "tt14694956",
+        "original_language": "ru",
+        "original_title": "\u041c\u0438\u0441\u0442\u0435\u0440 \u041d\u043e\u043a\u0430\u0443\u0442",
+        "overview": "",
+        "popularity": 3.279,
+        "poster_path": "/pjBj6g3jZVQqX2z3co1JMmpWW1C.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "RU",
+                "name": "Russia"
+            }
+        ],
+        "release_date": "2022-02-23",
+        "revenue": 0,
+        "runtime": 0,
+        "spoken_languages": [
+            {
+                "english_name": "Russian",
+                "iso_639_1": "ru",
+                "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\u041c\u0438\u0441\u0442\u0435\u0440 \u041d\u043e\u043a\u0430\u0443\u0442",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oXJq7bVXfKzx1qMI0J8qOM1Yr9A.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 10402,
+                "name": "M\u00fasica"
+            },
+            {
+                "id": 10751,
+                "name": "Fam\u00edlia"
+            },
+            {
+                "id": 35,
+                "name": "Com\u00e9dia"
+            }
+        ],
+        "homepage": "",
+        "id": 826953,
+        "imdb_id": "tt14696284",
+        "original_language": "en",
+        "original_title": "Better Nate Than Ever",
+        "overview": "Nate tem 13 anos e sonha em se apresentar na Broadway. Mas, quando n\u00e3o consegue um papel na pe\u00e7a da escola, ele e a melhor amiga, Libby, fogem para Nova York, onde se encontram inesperadamente com a tia dele, Heidi. Juntos, eles precisam provar que as maiores aventuras da vida t\u00eam o tamanho dos nossos sonhos.",
+        "popularity": 31.36,
+        "poster_path": "/rGDKEbrblKMXrHOgPO0w7tDsbzV.jpg",
+        "production_companies": [
+            {
+                "id": 2,
+                "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+                "name": "Walt Disney Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 2527,
+                "logo_path": "/osO7TGmlRMistSQ5JZusPhbKUHk.png",
+                "name": "Marc Platt Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2022-03-15",
+        "revenue": 0,
+        "runtime": 92,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Toda aventura come\u00e7a com um sonho.",
+        "title": "Apresentando, Nate",
+        "video": false,
+        "vote_average": 6.644,
+        "vote_count": 87
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5MAadZv95R5kV3LDv8swunOLVEf.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 1018523,
+        "imdb_id": "tt14697622",
+        "original_language": "id",
+        "original_title": "Until Tomorrow",
+        "overview": "",
+        "popularity": 2.325,
+        "poster_path": "/pCY9A7lZHRdB44853CjDgJ7wOLl.jpg",
+        "production_companies": [
+            {
+                "id": 10658,
+                "logo_path": null,
+                "name": "Unlimited Production",
+                "origin_country": "ID"
+            },
+            {
+                "id": 181407,
+                "logo_path": null,
+                "name": "Dwi Abisatya Persada",
+                "origin_country": ""
+            },
+            {
+                "id": 181408,
+                "logo_path": null,
+                "name": "Lighthouse Capital Management",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ID",
+                "name": "Indonesia"
+            }
+        ],
+        "release_date": "2022-09-29",
+        "revenue": 0,
+        "runtime": 0,
+        "spoken_languages": [
+            {
+                "english_name": "Indonesian",
+                "iso_639_1": "id",
+                "name": "Bahasa indonesia"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Until Tomorrow",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ezSEshfwYXntBcfgxYPlC9uycvt.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 984752,
+        "imdb_id": "tt14701278",
+        "original_language": "en",
+        "original_title": "Fighting Chance",
+        "overview": "Um lutador profissional de MMA de uma pequena cidade treinou a vida inteira por uma chance de brigar pelo t\u00edtulo mundial, mas para que seu sonho se torne realidade ele precisar\u00e1 enfrentar um desafio que pode custar a sua vida.",
+        "popularity": 5.022,
+        "poster_path": "/jM9HhujEVbKAG0gaUXVzuCinrLC.jpg",
+        "production_companies": [
+            {
+                "id": 176674,
+                "logo_path": "/60DG5vScQorCVJPUp2EowKWFatC.png",
+                "name": "Future Movie Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 176675,
+                "logo_path": null,
+                "name": "Rob Diamond Films",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2022-02-22",
+        "revenue": 0,
+        "runtime": 76,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Uma Chance para Vencer",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/An9C1RVSKSn6SUDDy6g9iRFMWFm.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Com\u00e9dia"
+            },
+            {
+                "id": 10751,
+                "name": "Fam\u00edlia"
+            }
+        ],
+        "homepage": "",
+        "id": 823970,
+        "imdb_id": "tt14703070",
+        "original_language": "ja",
+        "original_title": "Ribbon",
+        "overview": "",
+        "popularity": 3.023,
+        "poster_path": "/sVFfxLbltuVZ4LeGZ5iSVdNxIJi.jpg",
+        "production_companies": [
+            {
+                "id": 17828,
+                "logo_path": "/g0qJBMunT2lnlHEw5opkCRcMOgR.png",
+                "name": "Booster Project",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "2022-02-25",
+        "revenue": 0,
+        "runtime": 115,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "\u65e5\u672c\u8a9e"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Ribbon",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 1237553,
+        "imdb_id": "tt14708610",
+        "original_language": "en",
+        "original_title": "Kepengen Hijrah",
+        "overview": "",
+        "popularity": 0.6,
+        "poster_path": "/f4VCjwzmIDBWoLH4CeJWsHbuyH8.jpg",
+        "production_companies": [
+            {
+                "id": 160436,
+                "logo_path": "/Aa7GOT1Hi2R10o9tGrjqo3iUsJP.png",
+                "name": "MNC Media",
+                "origin_country": "ID"
+            },
+            {
+                "id": 216701,
+                "logo_path": null,
+                "name": "Vaclav Studios",
+                "origin_country": ""
+            },
+            {
+                "id": 186588,
+                "logo_path": null,
+                "name": "Vision+",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [],
+        "release_date": "2021-05-07",
+        "revenue": 0,
+        "runtime": 90,
+        "spoken_languages": [
+            {
+                "english_name": "Indonesian",
+                "iso_639_1": "id",
+                "name": "Bahasa indonesia"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Kepengen Hijrah",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 818932,
+        "imdb_id": "tt14708802",
+        "original_language": "st",
+        "original_title": "Hotele Lerallaneng",
+        "overview": "",
+        "popularity": 2.146,
+        "poster_path": "/twEVhNTXgGok02wGoWLSir4dk7T.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "ZA",
+                "name": "South Africa"
+            }
+        ],
+        "release_date": "2021-06-03",
+        "revenue": 0,
+        "runtime": 76,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Sotho",
+                "iso_639_1": "st",
+                "name": ""
+            },
+            {
+                "english_name": "Xhosa",
+                "iso_639_1": "xh",
+                "name": ""
+            },
+            {
+                "english_name": "Zulu",
+                "iso_639_1": "zu",
+                "name": "isiZulu"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Hotele Lerallaneng",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dWuUGzpxlDzQHkBGcELqxOOq0VU.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 806443,
+        "imdb_id": "tt14713814",
+        "original_language": "cn",
+        "original_title": "\u6bba\u51fa\u500b\u9ec3\u660f",
+        "overview": "",
+        "popularity": 6.402,
+        "poster_path": "/rbkMrMthhFVEKbbPMnLYnfhtD24.jpg",
+        "production_companies": [
+            {
+                "id": 185705,
+                "logo_path": null,
+                "name": "Fei Fan Entertainment",
+                "origin_country": ""
+            },
+            {
+                "id": 185706,
+                "logo_path": null,
+                "name": "Homemade Holdings",
+                "origin_country": ""
+            },
+            {
+                "id": 20542,
+                "logo_path": null,
+                "name": "Sun Entertainment Culture",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "release_date": "2021-07-15",
+        "revenue": 0,
+        "runtime": 99,
+        "spoken_languages": [
+            {
+                "english_name": "Cantonese",
+                "iso_639_1": "cn",
+                "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "\u6bba\u51fa\u500b\u9ec3\u660f",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bAfawNnepj2ga9FdaEiU7rNHuD7.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 795912,
+        "imdb_id": "tt14715098",
+        "original_language": "id",
+        "original_title": "Persahabatan Bagai Kepompong",
+        "overview": "",
+        "popularity": 1.808,
+        "poster_path": "/h09qMHZ9Lk6MkUSm28Zg8i1WmFg.jpg",
+        "production_companies": [
+            {
+                "id": 84442,
+                "logo_path": "/26lMqyZAFqRu9UFiYszYX3kHOo2.png",
+                "name": "Max Pictures",
+                "origin_country": "ID"
+            },
+            {
+                "id": 131472,
+                "logo_path": "/girQYOxcU12pHj553vJEHwT7RDr.png",
+                "name": "Frame Ritz",
+                "origin_country": "ID"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ID",
+                "name": "Indonesia"
+            }
+        ],
+        "release_date": "2021-02-26",
+        "revenue": 0,
+        "runtime": 94,
+        "spoken_languages": [
+            {
+                "english_name": "Indonesian",
+                "iso_639_1": "id",
+                "name": "Bahasa indonesia"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Persahabatan Bagai Kepompong",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [],
+        "homepage": "",
+        "id": 1228121,
+        "imdb_id": "tt14715848",
+        "original_language": "te",
+        "original_title": "Dream Boy",
+        "overview": "",
+        "popularity": 0.775,
+        "poster_path": "/hszBtBmDsbjtmoVRLtdKpI5HEfP.jpg",
+        "production_companies": [],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "release_date": "2022-07-08",
+        "revenue": 0,
+        "runtime": 138,
+        "spoken_languages": [
+            {
+                "english_name": "Telugu",
+                "iso_639_1": "te",
+                "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Dream Boy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 9648,
+                "name": "Mist\u00e9rio"
+            }
+        ],
+        "homepage": "",
+        "id": 988168,
+        "imdb_id": "tt14715982",
+        "original_language": "en",
+        "original_title": "218: Behind the Wall of Silence",
+        "overview": "",
+        "popularity": 0.6,
+        "poster_path": null,
+        "production_companies": [
+            {
+                "id": 177183,
+                "logo_path": null,
+                "name": "Sharjah Media City (shams)",
+                "origin_country": ""
+            },
+            {
+                "id": 156458,
+                "logo_path": null,
+                "name": "Empire Entertainment",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AE",
+                "name": "United Arab Emirates"
+            }
+        ],
+        "release_date": "2021-05-20",
+        "revenue": 0,
+        "runtime": 100,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "218: Behind the Wall of Silence",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g5sqKfHxkv3wTz08PUc5zvMtNpA.jpg",
+        "belongs_to_collection": null,
+        "budget": 40000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10751,
+                "name": "Fam\u00edlia"
+            }
+        ],
+        "homepage": "",
+        "id": 988489,
+        "imdb_id": "tt14717428",
+        "original_language": "en",
+        "original_title": "Forgiving God",
+        "overview": "",
+        "popularity": 1.04,
+        "poster_path": "/dwbSuEl9Ke7Zb3O6p0vTagVauXZ.jpg",
+        "production_companies": [
+            {
+                "id": 202536,
+                "logo_path": null,
+                "name": "Blanket Hill Productions",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2022-06-11",
+        "revenue": 0,
+        "runtime": 83,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Forgiving God",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1
+    }
+]
