@@ -47,6 +47,7 @@ Nesta atividades iremos criar um processo de extração de dados da API do TMDB 
 
 - [nomes_aleatorios.txt - zip](evidencias/nomes_aleatorios.txt)
 
+VS code com meu repositório e o nomes_aleatorios.txt aberto:
 <img src="evidencias/nomes.png" alt="Texto Alternativo" width="800">  
 
 <br>
@@ -56,4 +57,9 @@ Nesta atividades iremos criar um processo de extração de dados da API do TMDB 
 
 ### Exercícios - Apache Spark
 
-- [Resultado](evidencias/tarefa4.md)
+- [Resultado tarefa4.ipynb](evidencias/tarefa4.ipynb)
+
+Servidor rodando spark em jupyter notebook onde desenvolvi a tarefa:
+<img src="evidencias/jupyter.png" alt="Texto Alternativo" width="800">  
+
+<img src="evidencias/terminal.png" alt="Texto Alternativo" width="800">  
