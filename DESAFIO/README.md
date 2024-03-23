@@ -103,14 +103,12 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
                - S3:\\data-lake-do-fulano\raw\tmdb\json\2023\10\31\prt-uty-nfd.json
                - S3:\\data-lake-do-fulano\raw\tmdb\json\2023\10\31\idf-uet-wqt.json
 
-    Informação adicional:
-    Podemos utilizar os serviços  CloudWatch Event ou Amazon EventBridge para agendar extrações periódicas de dados no Twitter de forma automática.
 
     - [Código usado na Lambda - lambda_handler.py](etapa-2/evidencias/lambda_handler.py) 
 
     <br>
 
-    Execution results da Lambda:
+    CloudWatch Log events:
     <img src="etapa-2/evidencias/fuk.png" alt="Texto Alternativo" width="800">
 
     - [output lambda](etapa-2/evidencias/output_lambda/) 
@@ -120,6 +118,17 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
     Path:
     <img src="etapa-2/evidencias/diretory.png" alt="Texto Alternativo" width="800">
     
+    <br>
+
+    Informação adicional:
+    Podemos utilizar os serviços  CloudWatch Event ou Amazon EventBridge para agendar extrações periódicas de dados no TMDB de forma automática.
+
+    Schedule detail (Dia 01 todos os meses):
+    <img src="etapa-2/evidencias/schedule.png" alt="Texto Alternativo" width="800">
+
+    Target:
+    <img src="etapa-2/evidencias/event.png" alt="Texto Alternativo" width="800">
+
     <br>
 
     ps.: Jupyter Notebook usado para análises do input csv, output json, testar as api's e os métodos get_object / put_object do boto3: 
