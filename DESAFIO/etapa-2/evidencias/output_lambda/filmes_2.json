@@ -1,0 +1,82 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/gGiKWF8ZK7xOEX7TzmG1W9ssZKQ.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Com\u00e9dia"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 597588,
+        "imdb_id": "tt10011336",
+        "original_language": "en",
+        "original_title": "Lucky Grandma",
+        "overview": "Situada em Chinatown, na cidade de Nova York, uma av\u00f3 chinesa irritadi\u00e7a e fumante inveterada entra no cassino, aterrissando no lado errado da sorte - e no meio de uma guerra de gangues.",
+        "popularity": 4.463,
+        "poster_path": "/suBJZGCXLbOK85k8dyPeltoFLz7.jpg",
+        "production_companies": [
+            {
+                "id": 111941,
+                "logo_path": null,
+                "name": "Parris Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 110399,
+                "logo_path": null,
+                "name": "Treehead Films",
+                "origin_country": ""
+            },
+            {
+                "id": 49937,
+                "logo_path": "/j14jwTsJj6ok9IkUFewX7acufKu.png",
+                "name": "Good Deed Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2020-10-22",
+        "revenue": 0,
+        "runtime": 87,
+        "spoken_languages": [
+            {
+                "english_name": "Cantonese",
+                "iso_639_1": "cn",
+                "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+            },
+            {
+                "english_name": "Mandarin",
+                "iso_639_1": "zh",
+                "name": "\u666e\u901a\u8bdd"
+            },
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Lucky Grandma",
+        "video": false,
+        "vote_average": 6.482,
+        "vote_count": 28
+    }
+]

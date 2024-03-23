@@ -20,4 +20,4 @@ Em seguida, filtrei os filmes do gênero drama, focando nos últimos 10 anos. Is
 
 Para otimizar o processo e lidar com o grande volume de dados, dividi o CSV em lotes de 5000 linhas. A cada iteração, processava-se um lote de dados, fazendo chamadas à API e gravando os resultados em JSON no bucket S3 da AWS.
 
-Durante o processo, enfrentei desafios devido à lentidão das chamadas à API e ao limite de tempo do Lambda. Algumas IDs não retornaram resultados, o que resultou na perda de cerca de 10% dos dados. Optei por não tratar esse problema, mantendo o foco na análise dos dados disponíveis.
+Durante o processo, enfrentei desafios devido à lentidão das chamadas à API e ao limite de tempo do Lambda. Algumas IDs não retornaram resultados, o que resultou na perda de cerca de 16,5% dos dados. Optei por não tratar esse problema, mantendo o foco na análise dos dados disponíveis.
