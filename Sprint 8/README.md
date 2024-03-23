@@ -41,7 +41,13 @@ Nesta atividades iremos criar um processo de extração de dados da API do TMDB 
 
 ### Exercícios - Geração de massa de dados
 
-- [Resultado](evidencias/tarefa3.md)
+- [Resultado tarefa3.ipynb](evidencias/tarefa3.ipynb)
+
+- [animais_exoticos.csv](evidencias/animais_exoticos.csv)
+
+- [nomes_aleatorios.txt - zip](evidencias/nomes_aleatorios.txt)
+
+<img src="evidencias/nomes.png" alt="Texto Alternativo" width="800">  
 
 <br>
 
