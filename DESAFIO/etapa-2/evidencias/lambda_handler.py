@@ -31,11 +31,14 @@ def lambda_handler(event, context):
     filmes_filtrados = movies_imdb[
         (movies_imdb['genero'].str.contains('Drama', regex=True, na=False)) &
         (~movies_imdb['anoLancamento'].isna()) & 
-        (movies_imdb['anoLancamento'].dt.year >= ano_atual - 3)
+        (movies_imdb['anoLancamento'].dt.year >= ano_atual - 10)
     ]
 
+    # Selecionar as próximas 5000 linhas dos filmes filtrados
+    filmes_proximos_5000 = filmes_filtrados.iloc[:5000]
+
     # Dividir os filmes filtrados em lotes de 100 resultados
-    resultados_por_lote = [filmes_filtrados[i:i+100] for i in range(0, len(filmes_filtrados), 100)]
+    resultados_por_lote = [filmes_proximos_5000[i:i+100] for i in range(0, len(filmes_proximos_5000), 100)]
 
     # Inicializar contador de arquivos
     arquivo_num = 1
