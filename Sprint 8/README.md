@@ -1,15 +1,16 @@
 <h1 align="center"> Sprint 8</h1>
 
 <p align="center">
- <a href="#tarefa">Tarefa I</a> •
+ <a href="#tarefa">Tarefa 1</a> •
  <a href="#desafio">Desafio</a> •
- <a href="#tarefa2">Tarefa II</a>
+ <a href="#tarefa3">Tarefa 3</a> •
+ <a href="#tarefa4">Tarefa 4</a>
 </p>
 
 <br>
 
 <a id="tarefa"></a>
-## 📝   Tarefa I
+## 📝   Tarefa 1
 
 ### Exercício TMDB
 Nesta atividades iremos criar um processo de extração de dados da API do TMDB utilizando serviços da AWS.
@@ -27,7 +28,6 @@ Nesta atividades iremos criar um processo de extração de dados da API do TMDB 
 <br>
 
 <a id="desafio"></a>
-
 ## 🎯  Desafio 
 
 ### Desafio Parte II - Ingestão de dados do TMBD
@@ -36,15 +36,18 @@ Nesta atividades iremos criar um processo de extração de dados da API do TMDB 
 
 <br>
 
-<a id="tarefa2"></a>
-## 📝   Tarefa II
+<a id="tarefa3"></a>
+## 📝   Tarefa 3
 
 ### Exercícios - Geração de massa de dados
 
-- [Resultado](evidencias)
+- [Resultado](evidencias/tarefa3.md)
 
 <br>
 
+<a id="tarefa4"></a>
+## 📝   Tarefa 4
+
 ### Exercícios - Apache Spark
 
-- [Resultado](evidencias)
+- [Resultado](evidencias/tarefa4.md)
