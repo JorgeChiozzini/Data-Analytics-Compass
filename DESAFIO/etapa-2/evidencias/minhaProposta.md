@@ -1,7 +1,7 @@
 **Descritivo do Desafio**
 
 **Objetivo:**
-O objetivo deste desafio é elaborar um Top 100 filmes da América do Sul, considerando a representação proporcional de cada país nesta lista. Em outras palavras, busca-se medir a popularidade das produções cinematográficas dos países sul-americanos nos últimos 10 anos, focando em filmes do gênero drama.
+A proposta deste desafio é elaborar um Top 100 filmes da América do Sul, considerando a representação proporcional de cada país nesta lista. Em outras palavras, busca-se medir a popularidade das produções cinematográficas dos países sul-americanos nos últimos 10 anos, focando em filmes do gênero drama.
 
 **Endpoints Utilizados:**
 - Para obter os IDs externos do filme:
@@ -20,4 +20,6 @@ Em seguida, filtrei os filmes do gênero drama, focando nos últimos 10 anos. Is
 
 Para otimizar o processo e lidar com o grande volume de dados, dividi o CSV em lotes de 5000 linhas. A cada iteração, processava-se um lote de dados, fazendo chamadas à API e gravando os resultados em JSON no bucket S3 da AWS.
 
-Durante o processo, enfrentei desafios devido à lentidão das chamadas à API e ao limite de tempo do Lambda. Algumas IDs não retornaram resultados, o que resultou na perda de cerca de 16,5% dos dados. Optei por não tratar esse problema, mantendo o foco na análise dos dados disponíveis.
+Durante o processo, enfrentei desafios devido à lentidão das chamadas à API e ao limite de tempo do Lambda. Algumas IDs não retornaram resultados, o que resultou na perda de cerca de 16,5% dos dados duarante a conversão de IMDB para TMDB. Optei por não tratar esse problema, mantendo o foco na análise dos dados disponíveis.
+
+- [Teste Arquivos json](/DESAFIO/etapa-2/evidencias/output_lambda/teste.ipynb)
