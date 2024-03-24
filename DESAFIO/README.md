@@ -86,9 +86,11 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
 1.  Criar nova camada (layer) no AWS Lambda para as libs necessárias à ingestão de dados.
 
     Layer:
+
     <img src="etapa-2/evidencias/layer.png" alt="Texto Alternativo" width="800">
 
     api_key do TMDB em Environment variables e localmente no apikey.py: 
+
     <img src="etapa-2/evidencias/api_key.png" alt="Texto Alternativo" width="400">
 
     - [apikey.py](etapa-2/evidencias/apikey.py)   
@@ -109,6 +111,7 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
     <br>
 
     CloudWatch Log events:
+
     <img src="etapa-2/evidencias/fuk.png" alt="Texto Alternativo" width="800">
 
     - [output lambda](etapa-2/evidencias/output_lambda/) 
@@ -116,6 +119,7 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
     <br>
 
     Path:
+
     <img src="etapa-2/evidencias/diretory.png" alt="Texto Alternativo" width="800">
     
     <br>
@@ -124,9 +128,11 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
     Podemos utilizar os serviços  CloudWatch Event ou Amazon EventBridge para agendar extrações periódicas de dados no TMDB de forma automática.
 
     Schedule detail (Dia 01 todos os meses):
+
     <img src="etapa-2/evidencias/schedule.png" alt="Texto Alternativo" width="800">
 
     Target:
+
     <img src="etapa-2/evidencias/event.png" alt="Texto Alternativo" width="800">
 
     <br>
