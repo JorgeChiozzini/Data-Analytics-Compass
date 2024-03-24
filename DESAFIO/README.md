@@ -135,13 +135,6 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
 
     <img src="etapa-2/evidencias/event.png" alt="Texto Alternativo" width="800">
 
-    <br>
-
-    ps.: Jupyter Notebook usado para análises do input csv, output json, testar as api's e os métodos get_object / put_object do boto3: 
-    
-    - [iteracao_desafio.ipynb](etapa-2/evidencias/iteracao_desafio.ipynb) 
-    - [teste.ipynb](etapa-2/evidencias/teste.ipynb) 
-
 <br>
 
 <a id="Desafio3"></a>
