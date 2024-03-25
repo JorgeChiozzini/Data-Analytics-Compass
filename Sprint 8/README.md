@@ -60,6 +60,6 @@ VS Code com nomes_aleatorios.txt:
 
 - [Resultado tarefa4.ipynb](evidencias/tarefa4.ipynb)
 
-Servidor rodando spark em jupyter notebook onde desenvolvi a tarefa:
+Jupyter notebook com spark:
 
 <img src="evidencias/tar.png" alt="Texto Alternativo" width="800">  
