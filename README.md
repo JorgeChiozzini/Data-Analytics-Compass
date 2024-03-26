@@ -56,8 +56,8 @@ Inspirados pelo método SCRUM, organizamos os ciclos de estudos em sprints, guia
 - [x] Exercício
 
 ### 8. [Sprint 8](Sprint%208/README.md)
-- [ ] AWS - Tutoriais Técnicos - Analytics
-- [ ] Exercício 
+- [x] AWS - Tutoriais Técnicos - Analytics
+- [x] Exercício 
 
 ### 9. [Sprint 9](Sprint%209/README.md)
 - [ ] Exercício
