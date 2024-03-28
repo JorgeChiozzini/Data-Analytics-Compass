@@ -72,7 +72,7 @@ Inspirados pelo método SCRUM, organizamos os ciclos de estudos em sprints, guia
 
 ## 🎯 Projeto Final
 
-* [Desafio Final](Desafio/README.md)
+* [Desafio Final](DESAFIO/README.md)
 
 ___
 
