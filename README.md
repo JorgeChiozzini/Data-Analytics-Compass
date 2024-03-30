@@ -76,9 +76,3 @@ Inspirados pelo método SCRUM, organizamos os ciclos de estudos em sprints, guia
 
 ___
 
-<br>
-
-## 💡 Referências
-
-- [Mark Down - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
-- [Github - Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
