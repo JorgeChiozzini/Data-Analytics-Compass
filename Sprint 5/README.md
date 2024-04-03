@@ -5,6 +5,7 @@
 <a href="#Certificados">Certificados</a> 
 </p>
 
+---
 <br> 
 
 <a id="sobre"></a>
@@ -18,6 +19,7 @@
 - Exam Prep: AWS Certified Cloud Practitioner
 - AWS Cloud Quest: Cloud Practitioner (Game)
 
+---
 <br>
 
 
@@ -41,3 +43,4 @@
 <img src="certificados/AWS Quest.png" alt="Texto Alternativo" width="600">
 
 
+---

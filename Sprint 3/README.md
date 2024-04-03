@@ -7,6 +7,7 @@
  <a href="#Certificados">Certificados</a>
 </p>
 
+---
 <br> 
 
 <a id="sobre"></a>
@@ -15,7 +16,7 @@
 ### Cursos
 - [Programação em Python do básico ao avançado](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/) (Apenas uma parte do curso)
 
-
+---
 <br>
 
 <a id="Exercícios"></a>
@@ -42,10 +43,12 @@ Aqui encontram-se as respostas aos exercícios propostos no Curso Python:
 
 10. ... [Resposta Ex10.](exercicios/ex10.py)  20. ... [Resposta Ex20.](exercicios/ex20.py)
 
+---
 <br>
 
 <a id="Desafio"></a>
-### 🚀 Desafio - ETL com Python
+
+## 🚀 Desafio - ETL com Python
 
 * Dados: [actors.csv](evidencias/actors.csv)
 
@@ -61,10 +64,14 @@ Aqui encontram-se as respostas aos exercícios propostos no Curso Python:
 
 5. Resposta Script 05: [Etapa05.txt](evidencias/etapa-5.txt) ; [Etapa05.py](evidencias/etapa-5.py) ; [Saída 05](evidencias/resultado5.txt)
 
+---
 <br>
 
 <a id="Certificados"></a>
+
 ## 🏆 Certificados
 
 - Certificado do Curso Python 3 - Curso Completo
 <img src="certificados/Python3.jpg" alt="Texto Alternativo" width="600">
+
+---

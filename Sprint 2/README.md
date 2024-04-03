@@ -7,6 +7,7 @@
  <a href="#Certificados">Certificados</a>
 </p>
 
+---
 <br> 
 
 <a id="sobre"></a>
@@ -16,6 +17,7 @@
 - [SQL para Análise de Dados: Do básico ao avançado](https://www.udemy.com/course/sql-para-analise-de-dados/)
 - [Big Data Fundamentos 3.0](https://www.datascienceacademy.com.br/course/big-data-fundamentos-3)
 
+---
 <br>
 
 <a id="Exercícios"></a>
@@ -70,6 +72,7 @@ Nesta seção encontram-se os respectivos arquivos contendo os resultados dos de
 16. ...
 [Resposta Ex16.](exercicios/SECAO4-E16.txt) ; [SQL 16](evidencias/SECAO4-E16.sql) ; [CSV 16](evidencias/SECAO4-E16.csv)
 
+---
 <br>
 
 <a id="Tarefas"></a>
@@ -82,6 +85,7 @@ Nesta seção encontram-se os arquivos de exportação CSV propostos pelas Taref
 - Tareda 02 "|"
 [Tarefa 02](tarefas/Tarefa-02.csv)
 
+---
 <br>
 
 <a id="Certificados"></a>
@@ -92,3 +96,5 @@ Nesta seção encontram-se os arquivos de exportação CSV propostos pelas Taref
 
 - Certificado do Curso SQL para Análise de Dados
 <img src="certificados/SQL.jpg" alt="Texto Alternativo" width="600">
+
+---

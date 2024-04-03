@@ -3,15 +3,18 @@
 <p align="center">
  <a href="#Desafio1">Etapa I</a> •
  <a href="#Desafio2">Etapa II</a> •
- <a href="#Desafio3">Etapa III</a>
+ <a href="#Desafio3">Etapa III</a> •
+ <a href="#Desafio4">Etapa IV</a>
 </p>
 
+---
 <br>
 
 <a id="Desafio1"></a>
 
-### Tarefa: Desafio Parte I - ETL
+### Desafio Parte I - ETL
 
+---
 
 **Instruções da Tarefa**
 
@@ -68,11 +71,13 @@ $ docker run -it -v /Users/jorgechiozzini/Desktop/Workspace/Data-Analytics-Compa
 
 <img src="etapa-1/evidencias/series.png" alt="Texto Alternativo" width="800">
 
+---
 <br>
 
 <a id="Desafio2"></a>
 
 ### Desafio Parte II - Ingestão de dados do TMBD
+---
 **Etapa 2 - Ingestão streaming/micro batch**
 
 Nesta etapa do desafio capturaremos dados do TMDB, utilizando AWS Lambda para realizar chamadas de API. Os dados coletados devem ser persistidos no Amazon S3, na camada RAW, mantendo o formato da origem (JSON).  
@@ -135,9 +140,26 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
 
     <img src="etapa-2/evidencias/event.png" alt="Texto Alternativo" width="800">
 
+---
 <br>
 
 <a id="Desafio3"></a>
 
-### Tarefa: Desafio Parte III - ETL
+### Desafio Parte III 
+---
+**Tarefa 3 - Processamento da Trusted**
 
+
+**Tarefa 4 - Modelagem de dados da Refined**
+
+
+**Tarefa 5 - Processamento da Refined**
+
+---
+<br>
+
+<a id="Desafio4"></a>
+
+### Tarefa: Desafio Parte IV - 
+
+---

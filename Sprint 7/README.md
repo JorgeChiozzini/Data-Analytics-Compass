@@ -7,6 +7,7 @@
  <a href="#desafio">Desafio</a>
 </p>
 
+---
 <br> 
 
 <a id="sobre"></a>
@@ -20,6 +21,7 @@
 - [Arquitetura Lambda, ETL/ELT, Bibliotecas Python NumPy e Pandas](certificados/DA-ETL-Pandas-NumPy.pdf)
 - [Apache Hadoop e Apache Spark](certificados/DA-Apache+Hadoop+e+Apache+Spark.pdf)
 
+---
 <br>
 
 <a id="tarefa"></a>
@@ -33,6 +35,7 @@
 - [Tarefa 2 - Resultado](evidencias/Tarefa2.md)
 - [output.txt](evidencias/output.txt)
 
+---
 <br>
 
 <a id="Laboratório"></a>
@@ -41,6 +44,7 @@
 ### Lab AWS Glue
 - [Lab - Resultado](evidencias/Lab.md)
 
+---
 <br>
 
 <a id="desafio"></a>
@@ -48,3 +52,5 @@
 
 ### Desafio Parte I - ETL
 - [Resultado](/DESAFIO/README.md#tarefa-desafio-parte-i---etl)
+
+---

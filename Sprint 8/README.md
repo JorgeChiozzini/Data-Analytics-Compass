@@ -7,6 +7,7 @@
  <a href="#tarefa4">Tarefa 4</a>
 </p>
 
+---
 <br>
 
 <a id="tarefa"></a>
@@ -25,6 +26,7 @@ Nesta atividades iremos criar um processo de extração de dados da API do TMDB 
 
 - [Resultado / teste](evidencias/usertmdb.ipynb)
 
+---
 <br>
 
 <a id="desafio"></a>
@@ -34,6 +36,7 @@ Nesta atividades iremos criar um processo de extração de dados da API do TMDB 
 
 - [Resultado](/DESAFIO/README.md#desafio-parte-ii---ingestão-de-dados-do-tmbd)
 
+---
 <br>
 
 <a id="tarefa3"></a>
@@ -51,6 +54,7 @@ VS Code com nomes_aleatorios.txt:
 
 <img src="evidencias/nomes.png" alt="Texto Alternativo" width="800">  
 
+---
 <br>
 
 <a id="tarefa4"></a>
@@ -63,3 +67,5 @@ VS Code com nomes_aleatorios.txt:
 Jupyter notebook com spark:
 
 <img src="evidencias/tar.png" alt="Texto Alternativo" width="800">  
+
+---

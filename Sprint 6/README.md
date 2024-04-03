@@ -5,6 +5,7 @@
  <a href="#labs">Laboratórios</a>
 </p>
 
+---
 <br> 
 
 <a id="sobre"></a>
@@ -26,6 +27,7 @@
 - [AWS Skill Builder - Serverless Analytics](certificados/Serverless%20Analytics.png)
 - [AWS Skill Builder - Why Analytics for Games](certificados/Why%20Analytics%20for%20Games.png)
 
+---
 <br>
 
 <a id="labs"></a>
@@ -110,3 +112,5 @@ Criar uma Layer
 Utilizando a Layer, resultado
 
 <img src="exercicios/resultado.png" alt="Texto Alternativo" width="800">
+
+---
