@@ -14,6 +14,8 @@
 
 ### Desafio Parte I - ETL
 
+<img src="etapa-1/evidencias/parte1.png" alt="Texto Alternativo" width="800"> 
+
 ---
 
 **Instruções da Tarefa**
@@ -67,7 +69,11 @@ $ docker run -it -v /Users/jorgechiozzini/Desktop/Workspace/Data-Analytics-Compa
 ```
 <img src="etapa-1/evidencias/sucess.png" alt="Texto Alternativo" width="800">
 
+Diretório Movies no Bucket S3:
+
 <img src="etapa-1/evidencias/movies.png" alt="Texto Alternativo" width="800">
+
+Diretório Series no Bucket S3:
 
 <img src="etapa-1/evidencias/series.png" alt="Texto Alternativo" width="800">
 
@@ -77,6 +83,9 @@ $ docker run -it -v /Users/jorgechiozzini/Desktop/Workspace/Data-Analytics-Compa
 <a id="Desafio2"></a>
 
 ### Desafio Parte II - Ingestão de dados do TMBD
+
+<img src="etapa-2/evidencias/parte2.png" alt="Texto Alternativo" width="800"> 
+
 ---
 **Etapa 2 - Ingestão streaming/micro batch**
 
@@ -145,15 +154,68 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
 
 <a id="Desafio3"></a>
 
-### Desafio Parte III 
+### Desafio Parte III - Camadas Trusted e Refined
+
+<img src="etapa-3/evidencias/parte3.png" alt="Texto Alternativo" width="800">
+
 ---
 **Tarefa 3 - Processamento da Trusted**
 
+A camada Trusted de um data lake corresponde àquela em que os dados encontram-se limpos e são confiáveis. É resultado da integração das diversas fontes de origem, que encontram-se na camada anterior, que chamamos de Raw.
+
+Aqui faremos uso do Apache Spark no processo, integrando dados existentes na camada Raw Zone. O objetivo é gerar uma visão padronizada dos dados, persistida no S3,  compreendendo a Trusted Zone do data lake.  Nossos jobs Spark serão criados por meio do AWS Glue.
+
+Todos os dados serão persistidos na Trusted no formato PARQUET, particionados por data de coleta do TMDB (dt=<ano-mês-dia> exemplo: dt=2023-11-31). A exceção fica para os dados oriundos do processamento batch (CSV), que não precisam ser particionados.
+
+Iremos separar o processamento em dois jobs: o primeiro, para carga histórica, será responsável pelo processamento dos arquivos CSV  e o segundo, para carga de dados do TMDB (e outra API, se utilizada). Lembre-se que suas origens serão os dados existentes na RAW Zone.
+
+- [Resultado - Script Glue para Trusted CSV](etapa-3/evidencias/trusted_movies.py) 
+
+- [Resultado - Script Glue para Trusted JSON](etapa-3/evidencias/trusted_tmdb.py)
+
+Jobs:
+
+<img src="etapa-3/evidencias/jobs.png" alt="Texto Alternativo" width="800">
+
+Camada Trusted no Bucket S3:
+
+<img src="etapa-3/evidencias/trusted.png" alt="Texto Alternativo" width="800">
+
+<br>
 
 **Tarefa 4 - Modelagem de dados da Refined**
 
+A camada Refined corresponde à camada de um data lake em que os dados estão prontos para análise e extração de insights. Sua origem corresponde aos dados da camada anterior, a Trusted.
+
+Devemos pensar em estruturar os dados seguindo os princípios de modelagem multidimensional, a fim de permitir consultas sobre diferentes perspectivas.
+
+Nesta etapa do desafio, você deve fazer a modelagem de dados da camada refined, definindo as tabelas e, se necessário, views, a fim de disponibilizar os dados para a ferramenta de visualização (QuickSight, a partir da próxima Sprint). Lembre-se que a origem será os dados oriundos da Trusted Zone.
+
+Modelagem relacional de chave única:
+
+<img src="etapa-3/evidencias/mod_dim_star.png" alt="Texto Alternativo" width="800">
+
+<br>
 
 **Tarefa 5 - Processamento da Refined**
+
+Na atividade anterior, você definiu seu modelo de dados da camada Refined. Agora você deve processar os dados da camada Trusted, armazenando-os na Refined, de acordo com seu modelo.
+
+Usaremos novamente do Apache Spark no processo, utilizando jobs cuja origem sejam dados da camada Trusted Zone e o destino, a camada Refined Zone. Aqui, novamente, todos os dados serão persistidos no formato PARQUET, particionados, se necessário,  de acordo com as necessidades definidas para a camada de visualização. Além disso, é necessário registrar as tabelas geradas no AWS Glue Data Catalog para poder fazer consultas posteriormente.
+
+- [Resultado - Script Glue para Refined](etapa-3/evidencias/refined.py)
+
+Jobs:
+
+<img src="etapa-3/evidencias/job_mon.png" alt="Texto Alternativo" width="800">
+
+Bucket S3 com camadas:
+
+<img src="etapa-3/evidencias/refined.png" alt="Texto Alternativo" width="800">
+
+Tabelas no Data Catalog:
+
+<img src="etapa-3/evidencias/tables.png" alt="Texto Alternativo" width="800">
 
 ---
 <br>
@@ -161,5 +223,7 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
 <a id="Desafio4"></a>
 
 ### Tarefa: Desafio Parte IV - 
+
+<img src="etapa-4/parte4.png" alt="Texto Alternativo" width="800">
 
 ---

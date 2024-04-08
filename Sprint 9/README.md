@@ -10,9 +10,9 @@
 <br> 
 
 <a id="tarefa1"></a>
-## 📝   Tarefa 1 
+## 📝   Tarefa 1 : Modelagem Relacional - Normalização
 
-### Modelagem Relacional - Normalização
+- [Texto Modelagem Relacional](evidencias/modeloRelacional.md)
 
 Aqui você irá praticar conceitos de Modelagem relacional que estudou anteriormente. Estaremos considerando a base de dados Concessionaria, cujo modelo é apresentado na Modelagem Lógica abaixo.
 
@@ -29,7 +29,6 @@ O desafio é normalizar esta base de dados, ou seja, aplicar as formas normais.
 Adicione sua resposta (formato .SQL) ao seu repositório Git na respectiva Sprint.
 
 - [Resultado - Script-Relacional.sql](evidencias/Script-SQL-Com.sql)
-- [Resultado - concessionaria(MOD).sqlite](evidencias/concessionaria(MOD).sqlite)
 
 **Depois da normalização:**
 
@@ -40,9 +39,9 @@ Adicione sua resposta (formato .SQL) ao seu repositório Git na respectiva Sprin
 <br>
 
 <a id="tarefa2"></a>
-## 📝   Tarefa 2  
+## 📝   Tarefa 2 : Modelagem Dimensional - Criação de Modelo 
 
-### Modelagem Dimensional - Criação de Modelo
+- [Texto Modelagem Dimensional](evidencias/modeloDimensional.md)
 
 Aqui você irá praticar conceitos de Modelagem Dimensional que estudou anteriormente. Estaremos considerando a base de dados Concessionaria, cujo modelo será o criado por vocês na seção anterior (Modelagem Relacional).
 
@@ -55,7 +54,7 @@ Adicione sua resposta (formato .SQL) ao seu repositório Git na respectiva Sprin
 
 **Star Schema:**
 
-<img src="evidencias/starschema.sqlite.png" alt="Texto Alternativo" width="800"> 
+<img src="evidencias/starschema.sqlite.png" alt="Texto Alternativo" width="600"> 
 
 ---
 <br>
