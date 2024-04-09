@@ -193,7 +193,7 @@ Nesta etapa do desafio, você deve fazer a modelagem de dados da camada refined,
 
 Modelagem relacional de chave única:
 
-<img src="etapa-3/evidencias/mod_dim_star.png" alt="Texto Alternativo" width="800">
+<img src="etapa-3/evidencias/mod_dim_star.png" alt="Texto Alternativo" width="400">
 
 <br>
 
