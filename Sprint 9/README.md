@@ -64,6 +64,6 @@ Adicione sua resposta (formato .SQL) ao seu repositório Git na respectiva Sprin
 
 <br>
 
-- [Resultado](/DESAFIO/README.md#desafio-parte-iii)
+- [Resultado](/DESAFIO/README.md#desafio-parte-iii---camadas-trusted-e-refined)
 
 ---
