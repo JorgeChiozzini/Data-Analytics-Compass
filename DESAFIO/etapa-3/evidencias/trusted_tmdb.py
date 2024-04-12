@@ -38,7 +38,7 @@ df = df.withColumn("release_date", df["release_date"].cast(DateType()))
 # Remove linhas vazias
 df = df.filter(df['id'].isNotNull())
 
-# Particiona em 1 arquivo só, já que é pequeno
+# Particiona em 1 arquivo só
 df = df.coalesce(1)
 
 # Salva o arquivo em Parquet

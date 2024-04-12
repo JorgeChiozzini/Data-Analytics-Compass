@@ -26,23 +26,18 @@ destino_paises = args['S3_TARGET_PAISES']
 destino_associacao_paises = args['S3_TARGET_ASSOCIACAO_PAISES']
 
 # Lê os dados do S3 em formato parquet
-# Lendo os dados de filmes do S3
 csv = spark.read.parquet(source_movies)
-# Lendo os dados do TMDB do S3
 json = spark.read.parquet(source_tmdb)
 
-# Filtra os filmes de drama lançados a partir de 2000
 # Filtrando os dados do CSV pelos filmes de drama lançados a partir de 2000
 csv = csv.filter(csv["genero"].contains("Drama") & (csv["anoLancamento"] >= 2000))
 # Filtrando os dados do JSON pelos filmes de drama lançados a partir de 2000
 json = json.withColumn("genre_names", expr("transform(genres, x -> x.name)"))
 json = json.filter(array_contains(json["genre_names"], "Drama") & (year("release_date") >= 2000))
 
-# Realiza o join dos dataframes
 # Juntando os dataframes CSV e JSON usando o ID do IMDB como chave
 joined_df = json.join(csv, json["imdb_id"] == csv["id"], "inner")
 
-# Seleciona as colunas necessárias para os diferentes datasets
 # Selecionando as colunas relevantes para a dimensão de filmes
 filme_dim = joined_df.select(
     json["imdb_id"].alias("id"),
@@ -84,14 +79,9 @@ paises_dim = paises_dim.coalesce(1)
 associacao_filme_pais = associacao_filme_pais.coalesce(1)
 
 # Salva os datasets como tabelas no formato Parquet no S3
-# Salva a dimensão de filmes no S3
 filme_fato.write.format("parquet").mode("overwrite").option("path", destino_filmes_fato).saveAsTable("meubanco.fato_filme")
-# Salva a fato de filmes no S3
 filme_dim.write.format("parquet").mode("overwrite").option("path", destino_filmes_dim).saveAsTable("meubanco.dim_filme")
-# Salva a dimensão de países no S3
 paises_dim.write.format("parquet").mode("overwrite").option("path", destino_paises).saveAsTable("meubanco.dim_paises")
-# Salva a associação entre filmes e países no S3
 associacao_filme_pais.write.format("parquet").mode("overwrite").option("path", destino_associacao_paises).saveAsTable("meubanco.associacao_filme_pais")
 
-# Finaliza o job
 job.commit()

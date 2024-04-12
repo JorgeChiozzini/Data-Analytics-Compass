@@ -173,13 +173,17 @@ Iremos separar o processamento em dois jobs: o primeiro, para carga histórica, 
 
 - [Resultado - Script Glue para Trusted JSON](etapa-3/evidencias/trusted_tmdb.py)
 
-Jobs:
-
-<img src="etapa-3/evidencias/jobs.png" alt="Texto Alternativo" width="800">
-
 Camada Trusted no Bucket S3:
 
 <img src="etapa-3/evidencias/trusted.png" alt="Texto Alternativo" width="800">
+
+Query s3 do parquet movies CSV:
+
+<img src="etapa-3/evidencias/csv.png" alt="Texto Alternativo" width="800">
+
+Query s3 do parquet tmdb JSON:
+
+<img src="etapa-3/evidencias/json.png" alt="Texto Alternativo" width="800">
 
 <br>
 
@@ -205,13 +209,13 @@ Usaremos novamente do Apache Spark no processo, utilizando jobs cuja origem seja
 
 - [Resultado - Script Glue para Refined](etapa-3/evidencias/refined.py)
 
-Jobs:
-
-<img src="etapa-3/evidencias/job_mon.png" alt="Texto Alternativo" width="800">
-
-Bucket S3 com camadas:
+Camada Refined no Bucket S3:
 
 <img src="etapa-3/evidencias/refined.png" alt="Texto Alternativo" width="800">
+
+Query s3 do parquet Filme_Fato:
+
+<img src="etapa-3/evidencias/filme_fato.png" alt="Texto Alternativo" width="800">
 
 Tabelas no Data Catalog:
 
