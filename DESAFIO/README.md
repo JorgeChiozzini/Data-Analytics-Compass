@@ -226,8 +226,17 @@ Tabelas no Data Catalog:
 
 <a id="Desafio4"></a>
 
-### Tarefa: Desafio Parte IV - 
+### Tarefa: Desafio Parte IV - Consumo e Apresentação dos Dados
 
 <img src="etapa-4/parte4.png" alt="Texto Alternativo" width="800">
+
+Chegamos na última etapa do desafio. Até este ponto, suas atividades no data lake foram voltadas à ingestão e preparação dos dados. Agora é momento de extrair insights, apresentando-os através de uma ferramenta de visualização de dados (QuickSight).  
+Para tal, você deverá criar um dashboard no AWS QuickSight, utilizando como fonte de dados as tabelas que estão na camada Refined do data lake. Considere utilizar o Athena para como tipo de datasource.  
+Lembre-se que um dashboard é um agregado de diferentes visualizações que retratam uma visão agregada e de alto nível sobre os dados. Explore os diferentes recursos que o QuickSight oferece para, a partir dela, realizar uma boa narrativa com os dados disponíveis.
+
+**Perguntas dessa tarefa**  
+Desenvolva um dashboard utilizando AWS QuickSight conforme instruções da tarefa.
+
+- [Resultado - MonDash.pdf](etapa-4/MonDash.pdf)
 
 ---

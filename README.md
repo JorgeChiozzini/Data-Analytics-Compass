@@ -64,11 +64,9 @@ Inspirados pelo método SCRUM, organizamos os ciclos de estudos em sprints, guia
 
 ### 10. [Sprint 10](Sprint%2010/README.md)
 - [ ] AWS QuickSight
-- [ ] Workshop QuickSight
 - [ ] Exercício
 
 <br> 
-
 
 ## 🎯 Projeto Final
 

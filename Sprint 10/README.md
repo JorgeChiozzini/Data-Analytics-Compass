@@ -1,33 +1,27 @@
 <h1 align="center"> Sprint 10</h1>
 
 <p align="center">
- <a href="#tarefa">Tarefa</a> •
+ <a href="#sobre">Sobre</a> •
  <a href="#desafio">Desafio IV</a>
 </p>
 
 ---
-<br>
+<br> 
 
-<a id="tarefa"></a>
-## 📝  Tarefa
+<a id="sobre"></a>
+## 📎  Sobre
 
-### Tarefa
+### Cursos e certificados
 
-- [Resultado -](evidencias)
-
-<img src="evidencias" alt="Texto Alternativo" width="800">  
+- [Complete Introduction to AWS QuickSight](evidencias/)
 
 ---
+
 <br>
 
 <a id="desafio"></a>
-## 🎯  Desafio 
+## 🎯  Desafio Parte IV
 
-### Desafio
-
-- [Resultado -](evidencias)
-
-<img src="evidencias" alt="Texto Alternativo" width="800">  
-
+- [Resultado](/DESAFIO/README.md#tarefa-desafio-parte-iv)
 ---
 
