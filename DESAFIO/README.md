@@ -237,6 +237,17 @@ Lembre-se que um dashboard é um agregado de diferentes visualizações que retr
 **Perguntas dessa tarefa**  
 Desenvolva um dashboard utilizando AWS QuickSight conforme instruções da tarefa.
 
-- [Resultado - MonDash.pdf](etapa-4/MonDash.pdf)
+- [Resultado - Exploring.pdf](etapa-4/Pop.pdf)
+
+<img src="etapa-4/pop.png" alt="Texto Alternativo" width="800">
+
+- [Resultado - Trends.pdf](etapa-4/Trend.pdf)
+
+<img src="etapa-4/trend.png" alt="Texto Alternativo" width="800">
+
+- [Resultado - Financial.pdf](etapa-4/Money.pdf)
+
+<img src="etapa-4/money.png" alt="Texto Alternativo" width="800">
+
 
 ---

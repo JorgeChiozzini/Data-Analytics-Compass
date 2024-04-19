@@ -13,7 +13,7 @@
 
 ### Cursos e certificados
 
-- [Complete Introduction to AWS QuickSight](evidencias/)
+- [Complete Introduction to AWS QuickSight](evidencias/QuickSight.jpg)
 
 ---
 
