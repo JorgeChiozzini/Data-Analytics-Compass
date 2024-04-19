@@ -1,7 +1,7 @@
 **Descritivo do Desafio**
 
 **Objetivo:**
-A minha proposta para este desafio é elaborar um Top 100 filmes da América do Sul, considerando a representação proporcional de cada país nesta lista. Em outras palavras, busco medir a popularidade das produções cinematográficas dos países sul-americanos no século XXI, ou seja, apenas produções feitas a partir do ano 2000, focando em filmes do gênero drama.
+A minha proposta para este desafio é elaborar um Top filmes de drama da América do Sul, considerando a representação proporcional de cada país nesta lista, com objetivo de melhor entender o comportamento e a dimensão do cinema geral desta região. Em outras palavras, busco medir a popularidade das produções cinematográficas dos países sul-americanos no século XXI, ou seja, apenas produções feitas a partir do ano 2000.
 
 **Endpoints Utilizados:**
 - Para obter os IDs externos do filme:
