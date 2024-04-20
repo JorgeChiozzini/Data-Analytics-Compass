@@ -1,7 +1,7 @@
 **Descritivo do Desafio**
 
 **Objetivo:**
-A minha proposta para este desafio é elaborar um Top filmes de drama da América do Sul, considerando a representação proporcional de cada país nesta lista, com objetivo de melhor entender o comportamento e a dimensão do cinema geral desta região. Em outras palavras, busco medir a popularidade das produções cinematográficas dos países sul-americanos no século XXI, ou seja, apenas produções feitas a partir do ano 2000.
+Minha proposta para este desafio é realizar uma análise abrangente das produções cinematográficas sul-americanas no gênero drama ao longo do século XXI. Pretendo criar uma lista dos melhores filmes e examinar a representação proporcional de cada país nessa lista, levando em conta tanto sua popularidade quanto seu desempenho financeiro. O objetivo é aprofundar nossa compreensão do panorama cinematográfico da região, investigando seu comportamento e dimensão ao longo do tempo.
 
 **Endpoints Utilizados:**
 - Para obter os IDs externos do filme:

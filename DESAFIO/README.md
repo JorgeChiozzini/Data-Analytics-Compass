@@ -7,6 +7,8 @@
  <a href="#Desafio4">Etapa IV</a>
 </p>
 
+O desafio consistiu na construção de um pipeline de dados completo para análise de filmes e séries, abrangendo desde a ingestão de dados brutos até a visualização de insights. Utilizando serviços da AWS como S3, Lambda e Glue, o processo envolveu a ingestão de dados de diferentes fontes, como arquivos CSV e API do TMDB, integração e processamento dos dados, modelagem dimensional e criação de um dashboard interativo no QuickSight para apresentar os resultados. O objetivo final foi extrair insights sobre produções cinematográficas sul-americanas do gênero drama no século XXI e fornecer uma visão abrangente para tomada de decisões.
+
 ---
 <br>
 
@@ -239,13 +241,19 @@ Desenvolva um dashboard utilizando AWS QuickSight conforme instruções da taref
 
 - [Resultado - Exploring.pdf](etapa-4/Pop.pdf)
 
+Este é o painel central do meu dashboard, onde proponho uma análise prática e dinâmica dos índices de popularidade, considerando algumas informações importantes para o contexto, como os melhores filmes com ajuste de critério dinâmico e os filmes com mais votos, além da proporção de cada país em relação à participação na lista de melhores filmes.
+
 <img src="etapa-4/pop.png" alt="Texto Alternativo" width="800">
 
 - [Resultado - Trends.pdf](etapa-4/Trend.pdf)
 
+Em seguida, apresento uma análise de série temporal considerando o século 21, que pode ser filtrada tanto por país quanto por data relativa através do menu de controles. Esta análise apresenta as tendências de quantidade de votos, notas médias e filmes lançados.
+
 <img src="etapa-4/trend.png" alt="Texto Alternativo" width="800">
 
 - [Resultado - Financial.pdf](etapa-4/Money.pdf)
+
+Por fim, complementamos a exploração com a análise financeira, exibindo importantes informações através dos KPIs, a relação entre orçamento e receita, um top 10 de maiores lucros e a análise da relação entre o volume de investimento e a nota média.
 
 <img src="etapa-4/money.png" alt="Texto Alternativo" width="800">
 
