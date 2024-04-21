@@ -22,7 +22,7 @@
 <a id="desafio"></a>
 ## 🎯  Desafio Parte IV
 
-- [Resultado](/DESAFIO/README.md#tarefa-desafio-parte-iv---consumo-e-apresentação-dos-dados)
+- [Resultado](/DESAFIO/README.md#desafio-parte-iv---consumo-e-apresentação-dos-dados)
 
 ---
 
