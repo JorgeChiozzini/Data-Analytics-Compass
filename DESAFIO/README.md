@@ -16,7 +16,7 @@ O desafio consistiu na construção de um pipeline de dados completo para análi
 
 ### Desafio Parte I - ETL
 
-<img src="etapa-1/evidencias/parte1.png" alt="Texto Alternativo" width="800"> 
+<img src="etapa-1/evidencias/parte1.png" alt="Texto Alternativo" width=""> 
 
 ---
 
@@ -57,7 +57,7 @@ A ingestão dos arquivos CSV será realizada no Bucket Amazon S3 RAW Zone. Nesta
 ```
 $ docker build -t meu_container .      
 ```
-<img src="etapa-1/evidencias/build.png" alt="Texto Alternativo" width="800"> 
+<img src="etapa-1/evidencias/build.png" alt="Texto Alternativo" width="1400"> 
 
 <br>
 
@@ -69,15 +69,15 @@ $ docker build -t meu_container .
 ```
 $ docker run -it -v /Users/jorgechiozzini/Desktop/Workspace/Data-Analytics-Compass/Desafio/etapa-1/dados:/root/app/dados --env-file .env meu_container 
 ```
-<img src="etapa-1/evidencias/sucess.png" alt="Texto Alternativo" width="800">
+<img src="etapa-1/evidencias/sucess.png" alt="Texto Alternativo" width="1400">
 
 Diretório Movies no Bucket S3:
 
-<img src="etapa-1/evidencias/movies.png" alt="Texto Alternativo" width="800">
+<img src="etapa-1/evidencias/movies.png" alt="Texto Alternativo" width="1400">
 
 Diretório Series no Bucket S3:
 
-<img src="etapa-1/evidencias/series.png" alt="Texto Alternativo" width="800">
+<img src="etapa-1/evidencias/series.png" alt="Texto Alternativo" width="1400">
 
 ---
 <br>
@@ -86,7 +86,7 @@ Diretório Series no Bucket S3:
 
 ### Desafio Parte II - Ingestão de dados do TMBD
 
-<img src="etapa-2/evidencias/parte2.png" alt="Texto Alternativo" width="800"> 
+<img src="etapa-2/evidencias/parte2.png" alt="Texto Alternativo" width=""> 
 
 ---
 **Etapa 2 - Ingestão streaming/micro batch**
@@ -103,11 +103,11 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
 
     Layer:
 
-    <img src="etapa-2/evidencias/layer.png" alt="Texto Alternativo" width="800">
+    <img src="etapa-2/evidencias/layer.png" alt="Texto Alternativo" width="1000">
 
     api_key do TMDB em Environment variables e localmente no apikey.py: 
 
-    <img src="etapa-2/evidencias/api_key.png" alt="Texto Alternativo" width="400">
+    <img src="etapa-2/evidencias/api_key.png" alt="Texto Alternativo" width="600">
 
     - [apikey.py](etapa-2/evidencias/apikey.py)   
     
@@ -128,7 +128,7 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
 
     CloudWatch Log events:
 
-    <img src="etapa-2/evidencias/fuk.png" alt="Texto Alternativo" width="800">
+    <img src="etapa-2/evidencias/fuk.png" alt="Texto Alternativo" width="1400">
 
     - [output lambda](etapa-2/evidencias/output_lambda/) 
     
@@ -136,7 +136,7 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
 
     Path:
 
-    <img src="etapa-2/evidencias/diretory.png" alt="Texto Alternativo" width="800">
+    <img src="etapa-2/evidencias/diretory.png" alt="Texto Alternativo" width="1400">
     
     <br>
 
@@ -145,11 +145,11 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
 
     Schedule detail (Dia 01 todos os meses):
 
-    <img src="etapa-2/evidencias/schedule.png" alt="Texto Alternativo" width="800">
+    <img src="etapa-2/evidencias/schedule.png" alt="Texto Alternativo" width="1400">
 
     Target:
 
-    <img src="etapa-2/evidencias/event.png" alt="Texto Alternativo" width="800">
+    <img src="etapa-2/evidencias/event.png" alt="Texto Alternativo" width="1400">
 
 ---
 <br>
@@ -158,7 +158,7 @@ Em sua conta AWS, no serviço AWS Lambda, realize as seguintes atividades:
 
 ### Desafio Parte III - Camadas Trusted e Refined
 
-<img src="etapa-3/evidencias/parte3.png" alt="Texto Alternativo" width="800">
+<img src="etapa-3/evidencias/parte3.png" alt="Texto Alternativo" width="">
 
 ---
 **Tarefa 3 - Processamento da Trusted**
@@ -177,15 +177,15 @@ Iremos separar o processamento em dois jobs: o primeiro, para carga histórica, 
 
 Camada Trusted no Bucket S3:
 
-<img src="etapa-3/evidencias/trusted.png" alt="Texto Alternativo" width="800">
+<img src="etapa-3/evidencias/trusted.png" alt="Texto Alternativo" width="1400">
 
 Query s3 do parquet movies CSV:
 
-<img src="etapa-3/evidencias/csv.png" alt="Texto Alternativo" width="800">
+<img src="etapa-3/evidencias/csv.png" alt="Texto Alternativo" width="1400">
 
 Query s3 do parquet tmdb JSON:
 
-<img src="etapa-3/evidencias/json.png" alt="Texto Alternativo" width="800">
+<img src="etapa-3/evidencias/json.png" alt="Texto Alternativo" width="1400">
 
 <br>
 
@@ -199,7 +199,7 @@ Nesta etapa do desafio, você deve fazer a modelagem de dados da camada refined,
 
 Modelagem relacional de chave única:
 
-<img src="etapa-3/evidencias/mod_dim_star.png" alt="Texto Alternativo" width="400">
+<img src="etapa-3/evidencias/mod_dim_star.png" alt="Texto Alternativo" width="500">
 
 <br>
 
@@ -213,24 +213,24 @@ Usaremos novamente do Apache Spark no processo, utilizando jobs cuja origem seja
 
 Camada Refined no Bucket S3:
 
-<img src="etapa-3/evidencias/refined.png" alt="Texto Alternativo" width="800">
+<img src="etapa-3/evidencias/refined.png" alt="Texto Alternativo" width="1400">
 
 Query s3 do parquet Filme_Fato:
 
-<img src="etapa-3/evidencias/filme_fato.png" alt="Texto Alternativo" width="800">
+<img src="etapa-3/evidencias/filme_fato.png" alt="Texto Alternativo" width="1400">
 
 Tabelas no Data Catalog:
 
-<img src="etapa-3/evidencias/tables.png" alt="Texto Alternativo" width="800">
+<img src="etapa-3/evidencias/tables.png" alt="Texto Alternativo" width="1400">
 
 ---
 <br>
 
 <a id="Desafio4"></a>
 
-### Tarefa: Desafio Parte IV - Consumo e Apresentação dos Dados
+### Desafio Parte IV - Consumo e Apresentação dos Dados
 
-<img src="etapa-4/parte4.png" alt="Texto Alternativo" width="800">
+<img src="etapa-4/parte4.png" alt="Texto Alternativo" width="">
 
 Chegamos na última etapa do desafio. Até este ponto, suas atividades no data lake foram voltadas à ingestão e preparação dos dados. Agora é momento de extrair insights, apresentando-os através de uma ferramenta de visualização de dados (QuickSight).  
 Para tal, você deverá criar um dashboard no AWS QuickSight, utilizando como fonte de dados as tabelas que estão na camada Refined do data lake. Considere utilizar o Athena para como tipo de datasource.  
@@ -243,19 +243,19 @@ Desenvolva um dashboard utilizando AWS QuickSight conforme instruções da taref
 
 Este é o painel central do meu dashboard, onde proponho uma análise prática e dinâmica dos índices de popularidade, considerando algumas informações importantes para o contexto, como os melhores filmes com ajuste de critério dinâmico e os filmes com mais votos, além da proporção de cada país em relação à participação na lista de melhores filmes.
 
-<img src="etapa-4/pop.png" alt="Texto Alternativo" width="800">
+<img src="etapa-4/pop.png" alt="Texto Alternativo" width="1400">
 
 - [Resultado - Trends.pdf](etapa-4/Trend.pdf)
 
 Em seguida, apresento uma análise de série temporal considerando o século 21, que pode ser filtrada tanto por país quanto por data relativa através do menu de controles. Esta análise apresenta as tendências de quantidade de votos, notas médias e filmes lançados.
 
-<img src="etapa-4/trend.png" alt="Texto Alternativo" width="800">
+<img src="etapa-4/trend.png" alt="Texto Alternativo" width="1400">
 
 - [Resultado - Financial.pdf](etapa-4/Money.pdf)
 
 Por fim, complementamos a exploração com a análise financeira, exibindo importantes informações através dos KPIs, a relação entre orçamento e receita, um top 10 de maiores lucros e a análise da relação entre o volume de investimento e a nota média.
 
-<img src="etapa-4/money.png" alt="Texto Alternativo" width="800">
+<img src="etapa-4/money.png" alt="Texto Alternativo" width="1400">
 
 
 ---
