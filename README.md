@@ -5,7 +5,6 @@
 <br>
 
 ## 🌟 Sobre Mim 
-Olá, meu nome é Jorge, resido em Matão, uma tranquila cidade do interior de São Paulo. Atualmente, estou matriculado no 4º período do curso de Análise e Desenvolvimento de Sistemas no Senac EAD, concentrando meus esforços na construção de uma sólida carreira na área de tecnologia, com especialização em ciência de dados e aprendizado de máquina. Além dos estudos, sou entusiasta de esportes (corrida, ciclismo, natação e yoga), fotografia, música (sou baterista e aprendiz de violão clássico e pífano) e literatura.  
 
 🤖 [Meu Cartão](https://jorgechiozzini.github.io/mylanding/)
 
